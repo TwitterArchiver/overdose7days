@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2071276672222179716",
+    "created_at": "2026-06-28T21:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T22:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071343111671026013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071343111671026013",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071276672222179716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 还真是🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2071276672222179716",
+        "created_at": "2026-06-28T21:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T22:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071343111671026013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071343111671026013",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071276672222179716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 还真是🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897913540432068608",
+        "conversation_id": "2071276672222179716",
+        "created_at": "2026-06-28T16:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071276672222179716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071276672222179716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "在中国现在吃右美沙芬居然真的是吸毒啊。。好可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 84,
+          "like_count": 4933,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "",
+        "id": "1897913540432068608",
+        "location": "東京",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071298755664789504/s0uIR-DC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 227,
+          "like_count": 8862,
+          "listed_count": 0,
+          "media_count": 1224,
+          "tweet_count": 6442
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081621515964182894",
+    "created_at": "2026-07-27T09:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081676911458275605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        },
+        {
+          "end": 25,
+          "id": "1964331185590718464",
+          "start": 12,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081676911458275605",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081622299476922638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho @breakcoreWTF 劣质烟蛋吸多了我直接性冷淡三个月感觉那三个月堪比化生飞天猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081621515964182894",
+        "created_at": "2026-07-27T09:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081676911458275605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            },
+            {
+              "end": 25,
+              "id": "1964331185590718464",
+              "start": 12,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081676911458275605",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081622299476922638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho @breakcoreWTF 劣质烟蛋吸多了我直接性冷淡三个月感觉那三个月堪比化生飞天猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856662470146039808",
+        "conversation_id": "2081621515964182894",
+        "created_at": "2026-07-27T06:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081622299476922638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081622299476922638",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081621515964182894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 更坏的结果是吃完垃圾药性欲消失。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 111,
+          "like_count": 7645,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "=笙  试图成为健全逼ing\n日本語は翻訳の方使うので\n変なところ申し訳ありません\n互fo欢迎\nDM可以\n累到不是色情消息不想回 \n是色情消息也不一定回的程度了\n無言フォロー・無言いいね失礼いたします",
+        "id": "1856662470146039808",
+        "location": "Japan",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081492982302429184/qZYGJvA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 132,
+          "like_count": 22412,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "misono_sho",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨🔪丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 829,
+          "like_count": 35889,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 6386
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

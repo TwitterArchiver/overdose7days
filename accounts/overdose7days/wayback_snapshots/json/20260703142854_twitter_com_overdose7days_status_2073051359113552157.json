@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2072808625840820633",
+    "created_at": "2026-07-03T14:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073051359113552157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1432273542838693892",
+          "start": 0,
+          "username": "sibai9073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073051359113552157",
+    "in_reply_to_user_id": "1432273542838693892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072926055548281325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sibai9073 但是没有以前在v圈的伙伴了😢😢我需要新朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2072808625840820633",
+        "created_at": "2026-07-03T14:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073051359113552157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1432273542838693892",
+              "start": 0,
+              "username": "sibai9073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073051359113552157",
+        "in_reply_to_user_id": "1432273542838693892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072926055548281325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sibai9073 但是没有以前在v圈的伙伴了😢😢我需要新朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432273542838693892",
+        "conversation_id": "2072808625840820633",
+        "created_at": "2026-07-03T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072926055548281325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072926055548281325",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072808625840820633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 推特不比朋友圈好玩多了？推里面个个说话都有才，我超爱的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 89,
+          "like_count": 5450,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T09:26:47.000Z",
+        "description": "极端且懒散 / 本体为男 / 懒且困 / 有大把的时间可以浪费，但什么都不想干 / 兴趣尚不高雅，兴致尚且匮乏 / 许久没有复健的语擦人 / 可接边狱巴士单 / 在线时间并不固定 / 不是在睡觉就是在睡觉的过程中 / 会打牌  / 欢迎加入我们睡教。",
+        "id": "1432273542838693892",
+        "location": "近在咫尺",
+        "name": "四白「无妄の花」",
+        "pinned_tweet_id": "1956736716351676557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924407455569637376/Ii1lVyde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 296,
+          "like_count": 6485,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "sibai9073",
+        "verified": false
+      }
+    ]
+  }
+}

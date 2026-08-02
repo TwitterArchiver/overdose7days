@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080438389396901888"
+      ],
+      "media_source_tweet_id": [
+        "2080438394065199320"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2080531675747148148",
+    "created_at": "2026-07-24T05:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080531675747148148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1339277260541616129",
+          "start": 3,
+          "username": "solivagwnt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/soDh55jSog",
+          "end": 39,
+          "expanded_url": "https://x.com/solivagwnt/status/2080438394065199320/photo/1",
+          "media_key": "3_2080438389396901888",
+          "start": 16,
+          "url": "https://t.co/soDh55jSog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080531675747148148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080438394065199320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solivagwnt: https://t.co/soDh55jSog"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2080438389396901888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8zsUkWkAAe1Hw.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080438389396901888"
+          ]
+        },
+        "author_id": "1339277260541616129",
+        "conversation_id": "2080438394065199320",
+        "created_at": "2026-07-23T23:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080438394065199320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soDh55jSog",
+              "end": 23,
+              "expanded_url": "https://x.com/solivagwnt/status/2080438394065199320/photo/1",
+              "media_key": "3_2080438389396901888",
+              "start": 0,
+              "url": "https://t.co/soDh55jSog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080438394065199320",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1084,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/soDh55jSog"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080438389396901888"
+          ],
+          "media_source_tweet_id": [
+            "2080438394065199320"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2080531675747148148",
+        "created_at": "2026-07-24T05:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080531675747148148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1339277260541616129",
+              "start": 3,
+              "username": "solivagwnt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/soDh55jSog",
+              "end": 39,
+              "expanded_url": "https://x.com/solivagwnt/status/2080438394065199320/photo/1",
+              "media_key": "3_2080438389396901888",
+              "start": 16,
+              "url": "https://t.co/soDh55jSog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080531675747148148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080438394065199320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solivagwnt: https://t.co/soDh55jSog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 111,
+          "like_count": 7440,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-16T18:32:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/oie",
+                "end": 23,
+                "expanded_url": "http://discord.gg/oie",
+                "start": 0,
+                "url": "https://t.co/DK1vhRbT3P"
+              }
+            ]
+          }
+        },
+        "id": "1339277260541616129",
+        "name": "vini",
+        "pinned_tweet_id": "2026699783646183803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079742558603730944/e0O73_2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 7,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/DK1vhRbT3P",
+        "username": "solivagwnt",
+        "verified": true
+      }
+    ]
+  }
+}

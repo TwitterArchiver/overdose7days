@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2071807230681239646",
+    "created_at": "2026-06-30T10:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071901227487756570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi520OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071901227487756570",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071807230681239646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520OwO 啊啊就是明天了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071807227149639680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCJsjlXYAABXsq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2071807230681239646",
+        "created_at": "2026-06-30T10:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071901227487756570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071901227487756570",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071807230681239646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO 啊啊就是明天了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071807227149639680"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2071807230681239646",
+        "created_at": "2026-06-30T04:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071807230681239646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s?__biz=Mzk0MT…",
+              "end": 113,
+              "expanded_url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM2MjkyNg==&mid=2247490415&idx=1&sn=b8c00b49a9c1df22e68f78b5bc0fe3ea&chksm=c2d2c0eef5a549f863721e488aebdfc1a180c099b0953358fe13e9ba76cb0f3a99b06fe444c2&exptype=timeline_unsubscribed_social_card&force_enter_love_page=1&req_id=1782791117129599&scene=304&subscene=90&sessionid=1782791120&flutter_pos=0&clicktime=1782791437&enterid=1782791437&finder_biz_enter_id=5&ranksessionid=1782791117&jumppath=WebViewStubProxyUI_1782791233972%2CGestureGalleryUI_1782791234163%2C20020_1782791430678%2C50094_1782791435819&jumppathdepth=4&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=8323413-zh_CN-zip&fasttmpl_flag=0&realreporttime=1782791437060&devicetype=android-31&version=28004853&nettype=3gnet&lang=zh_CN&countrycode=JP&exportkey=n_ChQIAhIQgt%2Bjul5%2BMkpJfD2YYVHUThLiAQIE97dBBAEAAAAAAFwLFEc%2FInQAAAAOpnltbLcz9gKNyK89dVj0Qzmla9N6Te2mwDlXvPfjeuydmEftUzEK3h0fsgJHSC%2FFwJWIR9eY4N1%2FYXtiMjLNkoSrG6WMr57UxIRHqMYt14hTk%2BJc%2BaH4CIF8LIxtoncpw0PpQ8sImVnlbdA%2FBkEBJkbDn%2B7fJ2remWyFUJEOz0PG7t5HmlVthVjrvcyajMht%2BfGfssWlu1XAvZ19K7FdAJWYeqL7Yr3ugEnxBXIZRFS0SIFLCY9EO%2BYmZgqy7nUy5evF2zS%2BGNwrF0M%3D&pass_ticket=7u%2BMATSRAEiVr0dCS%2FqkW15cTh76Lp2CXuH8Rd3zMqjh0uKOlSwgjQTMQPKQTeri&wx_header=3",
+              "start": 90,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HIJAQ2qjdxPOO3UDAODJ-oK5P-zaIf_UEn8g37C7&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTM2MjkyNg%3D%3D%26mid%3D2247490415%26idx%3D1%26sn%3Db8c00b49a9c1df22e68f78b5bc0fe3ea%26chksm%3Dc2d2c0eef5a549f863721e488aebdfc1a180c099b0953358fe13e9ba76cb0f3a99b06fe444c2%26exptype%3Dtimeline_unsubscribed_social_card%26force_enter_love_page%3D1%26req_id%3D1782791117129599%26scene%3D304%26subscene%3D90%26sessionid%3D1782791120%26flutter_pos%3D0%26clicktime%3D1782791437%26enterid%3D1782791437%26finder_biz_enter_id%3D5%26ranksessionid%3D1782791117%26jumppath%3DWebViewStubProxyUI_1782791233972%252CGestureGalleryUI_1782791234163%252C20020_1782791430678%252C50094_1782791435819%26jumppathdepth%3D4%26ascene%3D56%26fasttmpl_type%3D0%26fasttmpl_fullversion%3D8323413-zh_CN-zip%26fasttmpl_flag%3D0%26realreporttime%3D1782791437060%26devicetype%3Dandroid-31%26version%3D28004853%26nettype%3D3gnet%26lang%3Dzh_CN%26countrycode%3DJP%26exportkey%3Dn_ChQIAhIQgt%252Bjul5%252BMkpJfD2YYVHUThLiAQIE97dBBAEAAAAAAFwLFEc%252FInQAAAAOpnltbLcz9gKNyK89dVj0Qzmla9N6Te2mwDlXvPfjeuydmEftUzEK3h0fsgJHSC%252FFwJWIR9eY4N1%252FYXtiMjLNkoSrG6WMr57UxIRHqMYt14hTk%252BJc%252BaH4CIF8LIxtoncpw0PpQ8sImVnlbdA%252FBkEBJkbDn%252B7fJ2remWyFUJEOz0PG7t5HmlVthVjrvcyajMht%252BfGfssWlu1XAvZ19K7FdAJWYeqL7Yr3ugEnxBXIZRFS0SIFLCY9EO%252BYmZgqy7nUy5evF2zS%252BGNwrF0M%253D%26pass_ticket%3D7u%252BMATSRAEiVr0dCS%252FqkW15cTh76Lp2CXuH8Rd3zMqjh0uKOlSwgjQTMQPKQTeri%26wx_header%3D3",
+              "url": "https://t.co/jLa5HhjXep"
+            },
+            {
+              "display_url": "pic.x.com/u2hzg8HEvz",
+              "end": 137,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2071807230681239646/photo/1",
+              "media_key": "3_2071807227149639680",
+              "start": 114,
+              "url": "https://t.co/u2hzg8HEvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071807230681239646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截至2026年7月1日，我国已列管32种药用类麻醉药品、96种药用类精神药品、412种非药用麻醉药品和精神药品及芬太尼类、合成大麻素类、尼秦类三个整类物质，合计540种+3大类。\nhttps://t.co/jLa5HhjXep https://t.co/u2hzg8HEvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 85,
+          "like_count": 5075,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8691,
+          "following_count": 1150,
+          "like_count": 16269,
+          "listed_count": 18,
+          "media_count": 340,
+          "tweet_count": 2433
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2055001303630381374",
+    "created_at": "2026-05-14T19:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055001303630381374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055001303630381374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054710962566099292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 早く死んで楽になりたい。\n早く死にたい。\n早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2055001303630381374",
+        "created_at": "2026-05-14T19:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055001303630381374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055001303630381374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054710962566099292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 早く死んで楽になりたい。\n早く死にたい。\n早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にた…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2054710962566099292",
+        "created_at": "2026-05-13T23:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054710962566099292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054710962566099292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 60197,
+          "like_count": 4264,
+          "quote_count": 22,
+          "reply_count": 29,
+          "retweet_count": 1389
+        },
+        "reply_settings": "everyone",
+        "text": "早く死んで楽になりたい。\n早く死にたい。\n早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい早く死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 175
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "この世からいなくなりたい。\n生きることも食べることも苦痛でしかない。\n生まれさせられてきたことを激しく後悔。\n自分のことが大嫌い。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 188,
+          "like_count": 6361,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 959
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

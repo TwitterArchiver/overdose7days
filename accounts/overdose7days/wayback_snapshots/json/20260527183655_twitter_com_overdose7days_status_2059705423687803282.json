@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2059690434381873178",
+    "created_at": "2026-05-27T18:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059705423687803282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977768201414197248",
+          "start": 0,
+          "username": "hi682383713928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059705423687803282",
+    "in_reply_to_user_id": "1977768201414197248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059690434381873178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi682383713928 梁硕又咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059690422231027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV9hrxa0AAOpAw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2059690434381873178",
+        "created_at": "2026-05-27T18:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059705423687803282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977768201414197248",
+              "start": 0,
+              "username": "hi682383713928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059705423687803282",
+        "in_reply_to_user_id": "1977768201414197248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059690434381873178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi682383713928 梁硕又咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059690422231027712"
+          ]
+        },
+        "author_id": "1977768201414197248",
+        "conversation_id": "2059690434381873178",
+        "created_at": "2026-05-27T17:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059690434381873178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNzYZRv5ov",
+              "end": 63,
+              "expanded_url": "https://x.com/hi682383713928/status/2059690434381873178/photo/1",
+              "media_key": "3_2059690422231027712",
+              "start": 40,
+              "url": "https://t.co/hNzYZRv5ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059690434381873178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很你妈的懵逼啊 梁硕到底是谁啊？1600块钱都能给你退很差你这125块钱吗？ https://t.co/hNzYZRv5ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 57,
+          "like_count": 3420,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 285
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n➕🛰️Prunus-padus-L\n➕企鹅2918543818\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 111,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 160
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2043368691975475255",
+    "created_at": "2026-05-14T18:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054997059749679455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1722697987455893506",
+          "start": 0,
+          "username": "YeanyeRun"
+        },
+        {
+          "end": 25,
+          "id": "1847712034361659392",
+          "start": 11,
+          "username": "quanminjihuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054997059749679455",
+    "in_reply_to_user_id": "1722697987455893506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043368691975475255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeanyeRun @quanminjihuan 曲马多爽吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2043368691975475255",
+        "created_at": "2026-05-14T18:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054997059749679455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722697987455893506",
+              "start": 0,
+              "username": "YeanyeRun"
+            },
+            {
+              "end": 25,
+              "id": "1847712034361659392",
+              "start": 11,
+              "username": "quanminjihuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054997059749679455",
+        "in_reply_to_user_id": "1722697987455893506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043368691975475255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeanyeRun @quanminjihuan 曲马多爽吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722697987455893506",
+        "conversation_id": "2043368691975475255",
+        "created_at": "2026-04-12T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043368691975475255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043368691975475255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 755,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "13岁吃曲马多泰勒宁，14岁误入戒药吧吃上了右美沙芬玩RUSH当时最喜欢的牌子是迈生，15岁美莎被列管吃上了愈美和普瑞巴林打上了笑气喝上了卡痛，16岁因为非法持有进去了所以老实了一年，但一直在服用安眠药，17岁抽大麻从此爱上植物，18岁重蹈覆辙依旧chill把推特下回来以后又玩上了4ho和蘑菇软糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 2159,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 172
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T19:29:49.000Z",
+        "description": "",
+        "id": "1722697987455893506",
+        "name": "猛犸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038890134397947904/gQf_mr7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "YeanyeRun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/mCh0A9MOrv DC交流群：https://t.co/Zb0fsL464g 提问箱：https://t.co/8eHnljmbAD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/mCh0A9MOrv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/8eHnljmbAD"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "全民极欢百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 926,
+          "like_count": 24622,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 3065
+        },
+        "username": "quanminjihuan",
+        "verified": false
+      }
+    ]
+  }
+}

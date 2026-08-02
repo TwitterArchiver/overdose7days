@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2071451291403055518",
+    "created_at": "2026-06-29T11:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071562857981137260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976739312763891712",
+          "start": 0,
+          "username": "zytwaxxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071562857981137260",
+    "in_reply_to_user_id": "1976739312763891712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071451291403055518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zytwaxxz 骗你的其实真做了也很难维持心理平衡大概率只会陷入更深的自我厌恶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2071451291403055518",
+        "created_at": "2026-06-29T11:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071562857981137260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976739312763891712",
+              "start": 0,
+              "username": "zytwaxxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071562857981137260",
+        "in_reply_to_user_id": "1976739312763891712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071451291403055518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zytwaxxz 骗你的其实真做了也很难维持心理平衡大概率只会陷入更深的自我厌恶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976739312763891712",
+        "conversation_id": "2071451291403055518",
+        "created_at": "2026-06-29T04:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071451291403055518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071451291403055518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 141823,
+          "like_count": 798,
+          "quote_count": 0,
+          "reply_count": 349,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "如何不介意对象是二手屌，每次想到他插过别的女的阴道就养胃，这种时候甚至会很想找个处男做一下维持心理平衡😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 84,
+          "like_count": 4985,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T19:59:28.000Z",
+        "description": "温和善良小女孩",
+        "id": "1976739312763891712",
+        "name": "y",
+        "pinned_tweet_id": "2056814751477600605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052308895029444608/L-85zc0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 17,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "zytwaxxz",
+        "verified": false
+      }
+    ]
+  }
+}

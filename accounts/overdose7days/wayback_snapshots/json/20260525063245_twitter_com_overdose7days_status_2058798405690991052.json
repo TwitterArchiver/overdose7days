@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058798405690991052",
+    "created_at": "2026-05-25T06:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058798405690991052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058798405690991052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为磕药我吃饭会有负罪感。，。吃了饭我就不敢吃药了呀吃了也没有药效会影响药效的，看来我曾经最想减肥的时候我减肥的意志力也没有药物带来的影响强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058798405690991052",
+        "created_at": "2026-05-25T06:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058798405690991052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058798405690991052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为磕药我吃饭会有负罪感。，。吃了饭我就不敢吃药了呀吃了也没有药效会影响药效的，看来我曾经最想减肥的时候我减肥的意志力也没有药物带来的影响强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 248
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

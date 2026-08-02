@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070850454712684544"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2070850465127104779",
+    "created_at": "2026-06-27T12:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070850465127104779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0yTU7jufQ",
+          "end": 81,
+          "expanded_url": "https://x.com/overdose7days/status/2070850465127104779/photo/1",
+          "media_key": "3_2070850454712684544",
+          "start": 58,
+          "url": "https://t.co/F0yTU7jufQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070850465127104779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起老己\n我把你的人生玩烂了\n你顶号吧\n我退游了\n没经济，没建模\n不过脑子里那点血清素多巴胺nmda受体挺好玩的 https://t.co/F0yTU7jufQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070850454712684544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0jhEgbEAAeRQ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070850454712684544"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2070850465127104779",
+        "created_at": "2026-06-27T12:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070850465127104779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0yTU7jufQ",
+              "end": 81,
+              "expanded_url": "https://x.com/overdose7days/status/2070850465127104779/photo/1",
+              "media_key": "3_2070850454712684544",
+              "start": 58,
+              "url": "https://t.co/F0yTU7jufQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070850465127104779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起老己\n我把你的人生玩烂了\n你顶号吧\n我退游了\n没经济，没建模\n不过脑子里那点血清素多巴胺nmda受体挺好玩的 https://t.co/F0yTU7jufQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 82,
+          "like_count": 4881,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075252044571811936",
+    "created_at": "2026-07-11T15:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075972150914338969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1339569680978042880",
+          "start": 0,
+          "username": "2BIG17"
+        },
+        {
+          "end": 15,
+          "id": "1548471557873610752",
+          "start": 8,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075972150914338969",
+    "in_reply_to_user_id": "1339569680978042880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075970229738606959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2BIG17 @In2dTt 蓝方一代目？是什么东西😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-11T15:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075972150914338969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1339569680978042880",
+              "start": 0,
+              "username": "2BIG17"
+            },
+            {
+              "end": 15,
+              "id": "1548471557873610752",
+              "start": 8,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075972150914338969",
+        "in_reply_to_user_id": "1339569680978042880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970229738606959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2BIG17 @In2dTt 蓝方一代目？是什么东西😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339569680978042880",
+        "conversation_id": "2075252044571811936",
+        "created_at": "2026-07-11T15:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075970229738606959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            },
+            {
+              "end": 22,
+              "id": "1548471557873610752",
+              "start": 15,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075970229738606959",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075314239242473927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days @In2dTt 这位是knk对标蓝方一代目（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 105,
+          "like_count": 6536,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T13:54:47.000Z",
+        "description": "厨师 疲惫的社畜 业余coser",
+        "id": "1339569680978042880",
+        "location": "四川市成都省省医院停尸房",
+        "name": "UUAC",
+        "pinned_tweet_id": "1782278982718902375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074901711706324992/tJhPzLLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 543,
+          "like_count": 14323,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2512
+        },
+        "url": "",
+        "username": "2BIG17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28945,
+          "following_count": 301,
+          "like_count": 10716,
+          "listed_count": 24,
+          "media_count": 834,
+          "tweet_count": 3146
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": true
+      }
+    ]
+  }
+}

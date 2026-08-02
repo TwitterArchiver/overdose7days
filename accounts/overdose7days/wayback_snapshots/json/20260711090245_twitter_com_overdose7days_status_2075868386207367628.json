@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075568315947418054",
+    "created_at": "2026-07-11T09:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075868386207367628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987456697871597568",
+          "start": 0,
+          "username": "bheBT8n64030736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075868386207367628",
+    "in_reply_to_user_id": "1987456697871597568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075568315947418054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bheBT8n64030736 主要是问出第二句之后感觉很难下台，我说不用你请感觉太生分，说可以请又感觉欠人情，比较没情商的做法吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075568315947418054",
+        "created_at": "2026-07-11T09:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075868386207367628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987456697871597568",
+              "start": 0,
+              "username": "bheBT8n64030736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075868386207367628",
+        "in_reply_to_user_id": "1987456697871597568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075568315947418054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bheBT8n64030736 主要是问出第二句之后感觉很难下台，我说不用你请感觉太生分，说可以请又感觉欠人情，比较没情商的做法吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987456697871597568",
+        "conversation_id": "2075568315947418054",
+        "created_at": "2026-07-10T13:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075568315947418054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075568315947418054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16130,
+          "like_count": 264,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌死抠男了😂😂真的讨厌那种想请你喝奶茶一直问问问“你想不想喝奶茶呀”“那要不要我请你喝”想请就直接转账啊！对喜欢的人多花点钱怎么了，又不是几千几万还在那里磨磨唧唧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6455,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T09:46:23.000Z",
+        "description": "我的碎碎念小屋",
+        "id": "1987456697871597568",
+        "name": "小奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987457425658847233/mGXX28M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 7,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "bheBT8n64030736",
+        "verified": false
+      }
+    ]
+  }
+}

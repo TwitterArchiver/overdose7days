@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081740420795781146",
+    "created_at": "2026-07-27T13:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081740420795781146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1255636812019707913",
+          "start": 3,
+          "username": "indrrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081740420795781146",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10775
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081523693897830770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @indrrv: vai chocar algumas pessoas mas pra cultivar amizades é preciso responder mensagens, ir em festas de aniversário, fazer convites…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081740420795781146",
+        "created_at": "2026-07-27T13:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081740420795781146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1255636812019707913",
+              "start": 3,
+              "username": "indrrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081740420795781146",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10775
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081523693897830770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @indrrv: vai chocar algumas pessoas mas pra cultivar amizades é preciso responder mensagens, ir em festas de aniversário, fazer convites…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255636812019707913",
+        "conversation_id": "2081523693897830770",
+        "created_at": "2026-07-26T23:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081523693897830770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081523693897830770",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2899,
+          "impression_count": 702073,
+          "like_count": 65962,
+          "quote_count": 1276,
+          "reply_count": 170,
+          "retweet_count": 10775
+        },
+        "reply_settings": "everyone",
+        "text": "vai chocar algumas pessoas mas pra cultivar amizades é preciso responder mensagens, ir em festas de aniversário, fazer convites e dar apoio emocional"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 113,
+          "like_count": 7680,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T23:15:32.000Z",
+        "description": "pirate that movie. download that pdf. steal that vape. dream about me https://t.co/mGJ75XwkJB https://t.co/tZ3D7DZPFJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/indrv/",
+                "end": 93,
+                "expanded_url": "https://letterboxd.com/indrv/",
+                "start": 70,
+                "url": "https://t.co/mGJ75XwkJB"
+              },
+              {
+                "display_url": "last.fm/user/rretrouva…",
+                "end": 117,
+                "expanded_url": "https://www.last.fm/user/rretrouvailles",
+                "start": 94,
+                "url": "https://t.co/tZ3D7DZPFJ"
+              }
+            ]
+          }
+        },
+        "id": "1255636812019707913",
+        "location": "Belo Horizonte, Brazil",
+        "name": "ind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867350554088706049/Vrt5iX5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 337,
+          "like_count": 100461,
+          "listed_count": 1,
+          "media_count": 3479,
+          "tweet_count": 41894
+        },
+        "url": "",
+        "username": "indrrv",
+        "verified": false
+      }
+    ]
+  }
+}

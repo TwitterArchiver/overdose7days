@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2076437845628399883",
+    "created_at": "2026-07-12T22:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T23:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076437845628399883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "2600171",
+          "start": 0,
+          "username": "Sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076437845628399883",
+    "in_reply_to_user_id": "2600171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@sub: 我想丢掉那些药像他们丢掉我那样"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Sub].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Sub",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Sub"
+    },
+    {
+      "detail": "User has been suspended: [2600171].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "2600171",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2600171"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2076437845628399883",
+        "created_at": "2026-07-12T22:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076437845628399883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2600171",
+              "start": 0,
+              "username": "Sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076437845628399883",
+        "in_reply_to_user_id": "2600171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@sub: 我想丢掉那些药像他们丢掉我那样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6691,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

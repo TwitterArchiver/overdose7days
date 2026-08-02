@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073850720034721925",
+    "created_at": "2026-07-06T12:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074110447280877722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073003589627445248",
+          "start": 0,
+          "username": "jieligan114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074110447280877722",
+    "in_reply_to_user_id": "2073003589627445248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073961977211400254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieligan114514 我脑子被我玩坏了组织不好语言😳😳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2073961955191369728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgxaPDbMAA1akB.png",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073850720034721925",
+        "created_at": "2026-07-06T12:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074110447280877722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073003589627445248",
+              "start": 0,
+              "username": "jieligan114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074110447280877722",
+        "in_reply_to_user_id": "2073003589627445248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073961977211400254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieligan114514 我脑子被我玩坏了组织不好语言😳😳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073961955191369728"
+          ]
+        },
+        "author_id": "2073003589627445248",
+        "conversation_id": "2073850720034721925",
+        "created_at": "2026-07-06T02:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073961977211400254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jK5YcELrK9",
+              "end": 47,
+              "expanded_url": "https://x.com/jieligan114514/status/2073961977211400254/photo/1",
+              "media_key": "3_2073961955191369728",
+              "start": 24,
+              "url": "https://t.co/jK5YcELrK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073961977211400254",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073850720034721925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 组一辈子乐队这块 https://t.co/jK5YcELrK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 99,
+          "like_count": 5753,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T11:20:39.000Z",
+        "description": "",
+        "id": "2073003589627445248",
+        "name": "解离感",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073004139844673536/q4ppJQeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "jieligan114514",
+        "verified": false
+      }
+    ]
+  }
+}

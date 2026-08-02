@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2053041277214572955",
+    "created_at": "2026-05-10T06:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053358730247590168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1650126478213001216",
+          "start": 0,
+          "username": "Yun__V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053358730247590168",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053041277214572955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun__V 还真是，我最讨厌吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2053041277214572955",
+        "created_at": "2026-05-10T06:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053358730247590168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053358730247590168",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053041277214572955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 还真是，我最讨厌吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2053041277214572955",
+        "created_at": "2026-05-09T09:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053041277214572955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053041277214572955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1335,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每次抱着马桶呕吐的时候是我最厌恶自己的时候，这样的日子这样的生活究竟什么时候才能结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 41,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 118
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15705,
+          "following_count": 123,
+          "like_count": 5480,
+          "listed_count": 31,
+          "media_count": 849,
+          "tweet_count": 6778
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

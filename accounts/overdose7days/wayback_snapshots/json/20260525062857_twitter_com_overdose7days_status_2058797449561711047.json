@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058797449561711047",
+    "created_at": "2026-05-25T06:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058797449561711047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1493643433499582474",
+          "start": 3,
+          "username": "huanzhi75748ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058797449561711047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058562813120159825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huanzhi75748ai: 我其实很羡慕把od割手挂在嘴边用来社交装小众的网络男神女神们。\n我根本没精力社交  没精力告诉别人我的难过我的感情 \n  没精力活着\n我转郁期在地板上趴着哭到抽搐的时候，惊恐发作看见人就想吐的时候。他们在网友群里说我要o六片感康十粒舍曲林。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058797449561711047",
+        "created_at": "2026-05-25T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058797449561711047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1493643433499582474",
+              "start": 3,
+              "username": "huanzhi75748ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058797449561711047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058562813120159825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huanzhi75748ai: 我其实很羡慕把od割手挂在嘴边用来社交装小众的网络男神女神们。\n我根本没精力社交  没精力告诉别人我的难过我的感情 \n  没精力活着\n我转郁期在地板上趴着哭到抽搐的时候，惊恐发作看见人就想吐的时候。他们在网友群里说我要o六片感康十粒舍曲林。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493643433499582474",
+        "conversation_id": "2058562813120159825",
+        "created_at": "2026-05-24T14:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058562813120159825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058562813120159825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我其实很羡慕把od割手挂在嘴边用来社交装小众的网络男神女神们。\n我根本没精力社交  没精力告诉别人我的难过我的感情 \n  没精力活着\n我转郁期在地板上趴着哭到抽搐的时候，惊恐发作看见人就想吐的时候。他们在网友群里说我要o六片感康十粒舍曲林。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 246
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T17:48:57.000Z",
+        "description": "我叫欢知\n歡喜對你的認知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanzhi75748ai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanzhi75748ai",
+                "start": 0,
+                "url": "https://t.co/BKbMXedE5J"
+              }
+            ]
+          }
+        },
+        "id": "1493643433499582474",
+        "location": "🌐地球",
+        "name": "誕生於人性之惡的孩子",
+        "pinned_tweet_id": "1843364463023690037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041135994397933568/C4ASxXnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1384,
+          "like_count": 30956,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/BKbMXedE5J",
+        "username": "huanzhi75748ai",
+        "verified": false
+      }
+    ]
+  }
+}

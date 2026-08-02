@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081260477490008477",
+    "created_at": "2026-07-26T06:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081260477490008477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038184435477319680",
+          "start": 3,
+          "username": "MIMIsamaOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081260477490008477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081161130916167870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIMIsamaOvo: od只是我生活中的调味品，想戒随时能戒，你看我天天o阿片也没上瘾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081260477490008477",
+        "created_at": "2026-07-26T06:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081260477490008477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038184435477319680",
+              "start": 3,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081260477490008477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081161130916167870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIMIsamaOvo: od只是我生活中的调味品，想戒随时能戒，你看我天天o阿片也没上瘾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038184435477319680",
+        "conversation_id": "2081161130916167870",
+        "created_at": "2026-07-25T23:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081161130916167870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081161130916167870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od只是我生活中的调味品，想戒随时能戒，你看我天天o阿片也没上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 111,
+          "like_count": 7563,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 751
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 44,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

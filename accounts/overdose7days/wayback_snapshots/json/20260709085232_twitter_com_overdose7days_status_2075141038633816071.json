@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075136500803813888",
+    "created_at": "2026-07-09T08:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075141038633816071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073003589627445248",
+          "start": 0,
+          "username": "jieligan114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075141038633816071",
+    "in_reply_to_user_id": "2073003589627445248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075136500803813888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieligan114514 普瑞巴林耍起嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11029,
+        "height": 1280,
+        "media_key": "7_2075136465114386432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075136465114386432/pu/img/RkZxei9RoqeCgywT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/320x568/1Qm6PQfCtLReOJ31.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/480x852/2piyhsTN-0heFkih.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/720x1280/Z5In2T4ksl3Zp5ql.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075136465114386432/pu/pl/jKvRcwCJMBt4mjIV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075136500803813888",
+        "created_at": "2026-07-09T08:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075141038633816071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073003589627445248",
+              "start": 0,
+              "username": "jieligan114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075141038633816071",
+        "in_reply_to_user_id": "2073003589627445248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075136500803813888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieligan114514 普瑞巴林耍起嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075136465114386432"
+          ]
+        },
+        "author_id": "2073003589627445248",
+        "conversation_id": "2075136500803813888",
+        "created_at": "2026-07-09T08:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075136500803813888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "od"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "消肿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybz0kcdqFu",
+              "end": 36,
+              "expanded_url": "https://x.com/jieligan114514/status/2075136500803813888/video/1",
+              "media_key": "7_2075136465114386432",
+              "start": 13,
+              "url": "https://t.co/ybz0kcdqFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075136500803813888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厉不厉害 #od #消肿 https://t.co/ybz0kcdqFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 100,
+          "like_count": 6249,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T11:20:39.000Z",
+        "description": "",
+        "id": "2073003589627445248",
+        "name": "解离感",
+        "pinned_tweet_id": "2074803295651295277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073004139844673536/q4ppJQeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "jieligan114514",
+        "verified": false
+      }
+    ]
+  }
+}

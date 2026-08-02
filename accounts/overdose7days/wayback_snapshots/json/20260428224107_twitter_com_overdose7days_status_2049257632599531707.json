@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2049257632599531707",
+    "created_at": "2026-04-28T22:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T23:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049257632599531707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842268081567272960",
+          "start": 3,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049257632599531707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049118104723345577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrittanyBe89332: 没有药效的世界好残忍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2049257632599531707",
+        "created_at": "2026-04-28T22:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049257632599531707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842268081567272960",
+              "start": 3,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049257632599531707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049118104723345577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrittanyBe89332: 没有药效的世界好残忍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842268081567272960",
+        "conversation_id": "2049118104723345577",
+        "created_at": "2026-04-28T13:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049118104723345577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049118104723345577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2226,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "没有药效的世界好残忍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "只有两个号被骗了别找我@Deehoo0203 | ins↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Deehoo0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stalkill11?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stalkill11?igsh=MWl3Z282YXVhYmJiNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AqzBHlheJ0"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪288/520/1314",
+        "name": "我咋哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979975049563066368/WOhOVKlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35892,
+          "following_count": 242,
+          "like_count": 926,
+          "listed_count": 74,
+          "media_count": 128,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/AqzBHlheJ0",
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

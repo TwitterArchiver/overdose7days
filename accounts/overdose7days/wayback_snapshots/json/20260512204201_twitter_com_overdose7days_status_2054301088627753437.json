@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2054295837229154673",
+    "created_at": "2026-05-12T20:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054301088627753437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995802016845889540",
+          "start": 0,
+          "username": "Rirwwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054301088627753437",
+    "in_reply_to_user_id": "1995802016845889540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054295837229154673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rirwwy 在路上了希望能够你爽吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2054295837229154673",
+        "created_at": "2026-05-12T20:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054301088627753437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995802016845889540",
+              "start": 0,
+              "username": "Rirwwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054301088627753437",
+        "in_reply_to_user_id": "1995802016845889540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054295837229154673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rirwwy 在路上了希望能够你爽吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995802016845889540",
+        "conversation_id": "2054295837229154673",
+        "created_at": "2026-05-12T20:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054295837229154673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054295837229154673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要很多很多的药效 我不想离开药效 看着愈美片和普瑞巴林离我越来越远\n我所爱的都离我而去 我不如找个楼跳了 我需要药效 加巴喷丁已经不能满足我了 我想要普瑞😭我想要愈美😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 157
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T10:27:46.000Z",
+        "description": "",
+        "id": "1995802016845889540",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050951655232073728/LuNfIuq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Rirwwy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075802388708130896",
+    "created_at": "2026-07-11T08:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075859178686701788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001714721330991109",
+          "start": 0,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075859178686701788",
+    "in_reply_to_user_id": "2001714721330991109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075802388708130896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravenxux 哈哈哈哈哈哈这种自我感动的舔狗真的好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075802388708130896",
+        "created_at": "2026-07-11T08:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075859178686701788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001714721330991109",
+              "start": 0,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075859178686701788",
+        "in_reply_to_user_id": "2001714721330991109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075802388708130896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravenxux 哈哈哈哈哈哈这种自我感动的舔狗真的好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2075802388708130896",
+        "created_at": "2026-07-11T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075802388708130896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075802388708130896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我有一个特殊的门哥，他直接给我转了1000块的口令红包加我微信，之后跟我说他没有别的想法，只是想找个人陪他聊聊天。\n他给我码了很多文字来讲述他和前任的爱恨情仇，说他前任已经对他心灰意冷了但是他并不想放弃这段感情，还问我他该怎么做才能挽回她。我以为他是装深情的，但是他接下来每天都会给我发他关注到的他前任的动态，还会问我能不能在女生的视角分析一下她为什么要这么做，以及他需要怎么做才能挽回，他会分析她的每一条动态甚至抠每一个字眼，试图在她的图文里找到一些跟他有关的蛛丝马迹，即使在我的角度看来，他前任回头的机会渺茫，他好像曾经的我跟前任分手了会喋喋不休地问AI我们之间还有没有可能，直到逼问出一个满意的答案安慰自己。他期间一直有给她转过很多次账，嘘寒问暖很多次，但是对方没领转账，甚至还说要退回他之前给她转的十几万，最后讲清楚以后不用联系了，就再也没回过信息。他在两周不到的时间里暴瘦，他给我发了他这两周以来多次进行线上心理咨询的订单截图，密密麻麻的全是单子，一次一小时，1000块一次。\n他后来跟我说他很抱歉跟我讲这么多这些东西，他说他这些事情应该没有人愿意听的，他只是觉得我或许会共情他给他提供帮助才来找我的，就算他已经知道答案，也希望能向外界寻求帮助来减轻痛苦。\n我之前只在网上的段子和别人口述的故事里面听到过这样动真情的男人，这还是我第一次这样真情实感地接触到这种男人，我第一次知道原来男人也会放不下到这种地步😰。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 42745,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个特殊的门哥，他直接给我转了1000块的口令红包加我微信，之后跟我说他没有别的想法，只是想找个人陪他聊聊天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6442,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "我想发什么就发什么｜你对我的百般注解只代表一览无余的你｜不卖福利不招嫖不约炮｜只有这一个账号｜不太擅长热情回应但心存感激",
+        "id": "2001714721330991109",
+        "location": "🛰️私人号🚪520 🈲05后",
+        "name": "Raven",
+        "pinned_tweet_id": "2038675038480785723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051376547177906176/HagNG1cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26597,
+          "following_count": 80,
+          "like_count": 10336,
+          "listed_count": 80,
+          "media_count": 176,
+          "tweet_count": 1843
+        },
+        "url": "",
+        "username": "Ravenxux",
+        "verified": true
+      }
+    ]
+  }
+}

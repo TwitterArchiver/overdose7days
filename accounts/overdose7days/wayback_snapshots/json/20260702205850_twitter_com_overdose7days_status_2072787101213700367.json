@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2072694173195727104",
+    "created_at": "2026-07-02T20:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072787101213700367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954952422708875266",
+          "start": 0,
+          "username": "senmini92333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072787101213700367",
+    "in_reply_to_user_id": "1954952422708875266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072694173195727104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senmini92333 真的好恶心。。以前也认真考虑过祛疤回归社会的问题，但我知道只要无法忘却内心的伤痛做什么手术都毫无意义，也不指望失去了伤痕就能改变他人眼里的偏见，所以算了吧还不如就做我自己呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072694159786528768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwW1IaUAAHqUz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2072694173195727104",
+        "created_at": "2026-07-02T20:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072787101213700367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954952422708875266",
+              "start": 0,
+              "username": "senmini92333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072787101213700367",
+        "in_reply_to_user_id": "1954952422708875266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072694173195727104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senmini92333 真的好恶心。。以前也认真考虑过祛疤回归社会的问题，但我知道只要无法忘却内心的伤痛做什么手术都毫无意义，也不指望失去了伤痕就能改变他人眼里的偏见，所以算了吧还不如就做我自己呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072694159786528768"
+          ]
+        },
+        "author_id": "1954952422708875266",
+        "conversation_id": "2072694173195727104",
+        "created_at": "2026-07-02T14:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072694173195727104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oY0nfuNRsB",
+              "end": 34,
+              "expanded_url": "https://x.com/senmini92333/status/2072694173195727104/photo/1",
+              "media_key": "3_2072694159786528768",
+              "start": 11,
+              "url": "https://t.co/oY0nfuNRsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072694173195727104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7693,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这b站是不是死全家了 https://t.co/oY0nfuNRsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 88,
+          "like_count": 5359,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:06:00.000Z",
+        "description": "你知道我想说什么。",
+        "id": "1954952422708875266",
+        "name": "我活成这样都是因为你吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954952828310675456/mjhCTWhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 464,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "senmini92333",
+        "verified": false
+      }
+    ]
+  }
+}

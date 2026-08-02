@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073704246386753840",
+    "created_at": "2026-07-05T09:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073704246386753840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971786415420985350",
+          "start": 3,
+          "username": "mob_luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073704246386753840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073430404720443505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mob_luu: 我们这种低精力...我甚至受不了同时有两个人给我发消息.......我只能和一个人聊天，要是同时有两个人找我，我就开始烦，两个人都不想回了...\n（我大概真的只适合那种漂流瓶式聊天，两个人回复是有时差的，那种聊天方式最舒服了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073704246386753840",
+        "created_at": "2026-07-05T09:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073704246386753840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971786415420985350",
+              "start": 3,
+              "username": "mob_luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073704246386753840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073430404720443505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mob_luu: 我们这种低精力...我甚至受不了同时有两个人给我发消息.......我只能和一个人聊天，要是同时有两个人找我，我就开始烦，两个人都不想回了...\n（我大概真的只适合那种漂流瓶式聊天，两个人回复是有时差的，那种聊天方式最舒服了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971786415420985350",
+        "conversation_id": "2073430404720443505",
+        "created_at": "2026-07-04T15:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073430404720443505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073430404720443505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3581,
+          "like_count": 125,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我们这种低精力...我甚至受不了同时有两个人给我发消息.......我只能和一个人聊天，要是同时有两个人找我，我就开始烦，两个人都不想回了...\n（我大概真的只适合那种漂流瓶式聊天，两个人回复是有时差的，那种聊天方式最舒服了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 91,
+          "like_count": 5624,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T03:58:35.000Z",
+        "description": "我想有人陪我",
+        "id": "1971786415420985350",
+        "name": "你又是谁的电子宠物",
+        "pinned_tweet_id": "2073446385224216627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020738183626158080/_409gA5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 105,
+          "like_count": 6997,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "mob_luu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073557622289039856",
+    "created_at": "2026-07-05T11:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073728528017924438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3437213476",
+          "start": 0,
+          "username": "mushitheguchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073728528017924438",
+    "in_reply_to_user_id": "3437213476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073557622289039856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mushitheguchi 完蛋了四个看过三个来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2073556599197638656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbAvaTXoAAtLAg.jpg",
+        "width": 849
+      },
+      {
+        "height": 896,
+        "media_key": "3_2073556605312860160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbAvxFWgAApGjP.jpg",
+        "width": 640
+      },
+      {
+        "height": 377,
+        "media_key": "3_2073557607978078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbBqITXkAA3KQP.jpg",
+        "width": 265
+      },
+      {
+        "height": 1429,
+        "media_key": "3_2073557612788936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbBqaOXcAASzAQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073557622289039856",
+        "created_at": "2026-07-05T11:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073728528017924438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3437213476",
+              "start": 0,
+              "username": "mushitheguchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073728528017924438",
+        "in_reply_to_user_id": "3437213476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073557622289039856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mushitheguchi 完蛋了四个看过三个来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073556599197638656",
+            "3_2073556605312860160",
+            "3_2073557607978078208",
+            "3_2073557612788936704"
+          ]
+        },
+        "author_id": "3437213476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2073557622289039856",
+        "created_at": "2026-07-05T00:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073557622289039856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWzxaoeLHw",
+              "end": 169,
+              "expanded_url": "https://x.com/mushitheguchi/status/2073557622289039856/photo/1",
+              "media_key": "3_2073556599197638656",
+              "start": 146,
+              "url": "https://t.co/kWzxaoeLHw"
+            },
+            {
+              "display_url": "pic.x.com/kWzxaoeLHw",
+              "end": 169,
+              "expanded_url": "https://x.com/mushitheguchi/status/2073557622289039856/photo/1",
+              "media_key": "3_2073556605312860160",
+              "start": 146,
+              "url": "https://t.co/kWzxaoeLHw"
+            },
+            {
+              "display_url": "pic.x.com/kWzxaoeLHw",
+              "end": 169,
+              "expanded_url": "https://x.com/mushitheguchi/status/2073557622289039856/photo/1",
+              "media_key": "3_2073557607978078208",
+              "start": 146,
+              "url": "https://t.co/kWzxaoeLHw"
+            },
+            {
+              "display_url": "pic.x.com/kWzxaoeLHw",
+              "end": 169,
+              "expanded_url": "https://x.com/mushitheguchi/status/2073557622289039856/photo/1",
+              "media_key": "3_2073557612788936704",
+              "start": 146,
+              "url": "https://t.co/kWzxaoeLHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073557622289039856",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 62634,
+          "like_count": 2663,
+          "quote_count": 21,
+          "reply_count": 28,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "eu sou o público alvo desse tipo de modinha e estarei vendo/lendo todos, a haterzada pode ficar chorando no twitter ae, tô comendo e adorando!!!! https://t.co/kWzxaoeLHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 93,
+          "like_count": 5654,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-23T20:12:05.000Z",
+        "description": "🇹🇼🇦🇲🇵🇸🇹🇬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/killb",
+                "end": 23,
+                "expanded_url": "https://guns.lol/killb",
+                "start": 0,
+                "url": "https://t.co/23STIAygLN"
+              }
+            ]
+          }
+        },
+        "id": "3437213476",
+        "location": "Shinjuku, Netherlands ",
+        "name": "empodero mulheres",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904230431526195200/Lmdq_Qux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 629,
+          "like_count": 50727,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 8362
+        },
+        "url": "https://t.co/23STIAygLN",
+        "username": "mushitheguchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2065946189682618475",
+    "created_at": "2026-08-01T13:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549802479112536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803281560327823363",
+          "start": 0,
+          "username": "wngyush45934932"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549802479112536",
+    "in_reply_to_user_id": "1803281560327823363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083523069122101701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngyush45934932 身为异性恋让我痛苦，all boys are the same🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2065946189682618475",
+        "created_at": "2026-08-01T13:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549802479112536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803281560327823363",
+              "start": 0,
+              "username": "wngyush45934932"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549802479112536",
+        "in_reply_to_user_id": "1803281560327823363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083523069122101701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngyush45934932 身为异性恋让我痛苦，all boys are the same🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803281560327823363",
+        "conversation_id": "2065946189682618475",
+        "created_at": "2026-08-01T11:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083523069122101701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083523069122101701",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082205414880612681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 成为同性恋就会有人喜欢吗\n我对这一点并不是很自信😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 115,
+          "like_count": 7855,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:20:13.000Z",
+        "description": "",
+        "id": "1803281560327823363",
+        "name": "王有胜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803281608528822272/3m72FltS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 99,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "wngyush45934932",
+        "verified": false
+      }
+    ]
+  }
+}

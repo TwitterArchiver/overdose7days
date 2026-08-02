@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081103425794892198",
+    "created_at": "2026-07-30T18:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082901103516221789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468680674458488833",
+          "start": 0,
+          "username": "Doll070707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082901103516221789",
+    "in_reply_to_user_id": "1468680674458488833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081103425794892198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doll070707 要不要一起殉情，或者该说是，约死？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081103425794892198",
+        "created_at": "2026-07-30T18:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082901103516221789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468680674458488833",
+              "start": 0,
+              "username": "Doll070707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082901103516221789",
+        "in_reply_to_user_id": "1468680674458488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081103425794892198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doll070707 要不要一起殉情，或者该说是，约死？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468680674458488833",
+        "conversation_id": "2081103425794892198",
+        "created_at": "2026-07-25T19:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081103425794892198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0kada_mi0/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/0kada_mi0/status/2081029942158983337",
+              "start": 18,
+              "url": "https://t.co/Wzu9Bq3DPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081103425794892198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5633,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081029942158983337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很爽了好想一起吃完小药片去殉情哦 https://t.co/Wzu9Bq3DPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 115,
+          "like_count": 7793,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 805
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T20:35:47.000Z",
+        "description": "爱自言自语 想发啥发啥啊",
+        "id": "1468680674458488833",
+        "location": "扩列52可以聊天^_^",
+        "name": "yd",
+        "pinned_tweet_id": "2081340590147666038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077115310587691008/0C-rLCFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 139,
+          "like_count": 1123,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "Doll070707",
+        "verified": false
+      }
+    ]
+  }
+}

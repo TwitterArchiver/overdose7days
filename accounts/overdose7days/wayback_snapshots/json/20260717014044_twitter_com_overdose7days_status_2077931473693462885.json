@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2077725420276027537",
+    "created_at": "2026-07-17T01:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077931473693462885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077931473693462885",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077725420276027537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki 爹妈的爱都是伸手要的，唉他妈的要了能给都算好的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2077725420276027537",
+        "created_at": "2026-07-17T01:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077931473693462885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077931473693462885",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077725420276027537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki 爹妈的爱都是伸手要的，唉他妈的要了能给都算好的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596887209835388928",
+        "conversation_id": "2077725420276027537",
+        "created_at": "2026-07-16T12:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077725420276027537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077725420276027537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1489,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果爱都要伸手去要，那有和没有有什么区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 103,
+          "like_count": 6886,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら（只有這一個ID\n純分享生活、日本語中國語英語OK",
+        "id": "1596887209835388928",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050842125416476672/ZIgsjXNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 504,
+          "like_count": 5667,
+          "listed_count": 5,
+          "media_count": 1603,
+          "tweet_count": 10439
+        },
+        "url": "",
+        "username": "Kuruolyuuki",
+        "verified": true
+      }
+    ]
+  }
+}

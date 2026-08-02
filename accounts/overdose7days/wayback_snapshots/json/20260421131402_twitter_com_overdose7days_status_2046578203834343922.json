@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2037091257273794639",
+    "created_at": "2026-04-21T13:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046578203834343922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941398737840111623",
+          "start": 0,
+          "username": "loooolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046578203834343922",
+    "in_reply_to_user_id": "1941398737840111623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037091257273794639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loooolzaozimin 我把这个视频发到班级群里谁能看懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101000,
+        "height": 1280,
+        "media_key": "13_2037091033641869315",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037091033641869315/img/MDIMYAlmU3tjiW2D.jpg",
+        "public_metrics": {
+          "view_count": 546772
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/320x568/FT5iUpUejENhgSNK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/480x852/Qcg_r--hvNCrHlP5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/vid/avc1/720x1280/Tp7O_aneCOKmJT8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037091033641869315/pl/Yse89js44M7r4g39.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2037091257273794639",
+        "created_at": "2026-04-21T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046578203834343922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941398737840111623",
+              "start": 0,
+              "username": "loooolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046578203834343922",
+        "in_reply_to_user_id": "1941398737840111623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037091257273794639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loooolzaozimin 我把这个视频发到班级群里谁能看懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037091033641869315"
+          ]
+        },
+        "author_id": "1941398737840111623",
+        "conversation_id": "2037091257273794639",
+        "created_at": "2026-03-26T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037091257273794639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WupUa3DRpy",
+              "end": 35,
+              "expanded_url": "https://x.com/songbansha6606/status/2037091257273794639/video/1",
+              "media_key": "13_2037091033641869315",
+              "start": 12,
+              "url": "https://t.co/WupUa3DRpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037091257273794639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1714,
+          "impression_count": 296836,
+          "like_count": 6136,
+          "quote_count": 32,
+          "reply_count": 358,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "磕药就是吸毒（超大声） https://t.co/WupUa3DRpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "🔞🔞我胃里面的蝴蝶",
+        "pinned_tweet_id": "2032329380845011431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042573347343712256/Cdo-ax9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7337,
+          "following_count": 21,
+          "like_count": 158,
+          "listed_count": 7,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "loooolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2072008858973942136",
+    "created_at": "2026-06-30T17:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072014470508085540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987496594594496512",
+          "start": 0,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072014470508085540",
+    "in_reply_to_user_id": "1987496594594496512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072008858973942136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aldn126633 我也好想回去上学，能获得普通人的幸福对我而言就很好了……但我处理不来我害怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072008834147868672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFBDoLa4AA5z4y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2072008858973942136",
+        "created_at": "2026-06-30T17:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072014470508085540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072014470508085540",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072008858973942136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 我也好想回去上学，能获得普通人的幸福对我而言就很好了……但我处理不来我害怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072008834147868672"
+          ]
+        },
+        "author_id": "1987496594594496512",
+        "conversation_id": "2072008858973942136",
+        "created_at": "2026-06-30T17:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072008858973942136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gXi3lBdZj",
+              "end": 42,
+              "expanded_url": "https://x.com/aldn126633/status/2072008858973942136/photo/1",
+              "media_key": "3_2072008834147868672",
+              "start": 19,
+              "url": "https://t.co/4gXi3lBdZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072008858973942136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天没抽烟也没吃精神药但是过的很幸福 https://t.co/4gXi3lBdZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 85,
+          "like_count": 5256,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n分身@kiwi_03096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2071605905972744591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 23,
+          "like_count": 211,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

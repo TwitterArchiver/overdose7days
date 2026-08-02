@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2049398296452710712",
+    "created_at": "2026-04-30T06:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049734197473071348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600811336010674176",
+          "start": 0,
+          "username": "Chu9w0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049734197473071348",
+    "in_reply_to_user_id": "1600811336010674176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049398296452710712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu9w0ww 我三天没吃普瑞了，打算再坚持一天再吃，但是不磕点药都不知道该干什么，好无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2049398296452710712",
+        "created_at": "2026-04-30T06:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049734197473071348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600811336010674176",
+              "start": 0,
+              "username": "Chu9w0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049734197473071348",
+        "in_reply_to_user_id": "1600811336010674176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049398296452710712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu9w0ww 我三天没吃普瑞了，打算再坚持一天再吃，但是不磕点药都不知道该干什么，好无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600811336010674176",
+        "conversation_id": "2049398296452710712",
+        "created_at": "2026-04-29T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049398296452710712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049398296452710712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6963,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "其实个人感觉pr不太容易产生耐药性\n只需要严格遵守服药前8h+服药后2h空腹即可产生比较理想的效果\n同时，两次服药应间隔48h以上，如果感觉耐药了可以尝试断药7天再服用，间隔7天的效果最好\n最佳剂量8t，再增加药量没有任何意义，只会浪费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1951923527482790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 34,
+          "like_count": 6393,
+          "listed_count": 13,
+          "media_count": 10,
+          "tweet_count": 61
+        },
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

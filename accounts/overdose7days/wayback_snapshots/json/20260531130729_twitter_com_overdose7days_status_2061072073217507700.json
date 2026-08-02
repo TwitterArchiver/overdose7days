@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2060616004871541037",
+    "created_at": "2026-05-31T13:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061072073217507700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058350329574412288",
+          "start": 0,
+          "username": "Crystallize444"
+        },
+        {
+          "end": 30,
+          "id": "1536716629505359872",
+          "start": 16,
+          "username": "cigsafterdrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061072073217507700",
+    "in_reply_to_user_id": "2058350329574412288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060859923576082657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystallize444 @cigsafterdrug 为了保证我还有力气活着，我想我只能选择虚幻的快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2060616004871541037",
+        "created_at": "2026-05-31T13:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061072073217507700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058350329574412288",
+              "start": 0,
+              "username": "Crystallize444"
+            },
+            {
+              "end": 30,
+              "id": "1536716629505359872",
+              "start": 16,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061072073217507700",
+        "in_reply_to_user_id": "2058350329574412288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060859923576082657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystallize444 @cigsafterdrug 为了保证我还有力气活着，我想我只能选择虚幻的快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058350329574412288",
+        "conversation_id": "2060616004871541037",
+        "created_at": "2026-05-30T23:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060859923576082657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060859923576082657",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060616004871541037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 清醒的痛苦和药物的虚幻快乐，如果必须选一个通关人生，你们选哪个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 59,
+          "like_count": 3698,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 322
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T00:53:32.000Z",
+        "description": "公益项目警惕药商利益团体造谣 多人帳號 MEME創作 亞文化 言論自由 不出東西不擔保交易 投稿/問題解答 私訊 \n#overdose #drugtwt #researchchemicals\n！網站和社群在置頂推文！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 58,
+                "tag": "overdose"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 95,
+                "start": 77,
+                "tag": "researchchemicals"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/1Lfrhl9ghh"
+              }
+            ]
+          }
+        },
+        "id": "2058350329574412288",
+        "location": "Changhua County, Taiwan",
+        "name": "结晶化（Crystallize） - 公益結晶圈藥物加密論壇",
+        "pinned_tweet_id": "2059070686706987418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059965140393406467/42pQfjyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 75,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/1Lfrhl9ghh",
+        "username": "Crystallize444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 416,
+          "like_count": 27534,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2355
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

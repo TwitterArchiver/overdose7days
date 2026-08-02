@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073358681471947135",
+    "created_at": "2026-07-05T19:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073852109792116961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025400388862517248",
+          "start": 0,
+          "username": "bxyIloveyou"
+        },
+        {
+          "end": 22,
+          "id": "1631665777106636800",
+          "start": 13,
+          "username": "LFeng193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073852109792116961",
+    "in_reply_to_user_id": "2025400388862517248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073492907349131491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bxyIloveyou @LFeng193 小远到底进去没🤔好奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073358681471947135",
+        "created_at": "2026-07-05T19:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073852109792116961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025400388862517248",
+              "start": 0,
+              "username": "bxyIloveyou"
+            },
+            {
+              "end": 22,
+              "id": "1631665777106636800",
+              "start": 13,
+              "username": "LFeng193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073852109792116961",
+        "in_reply_to_user_id": "2025400388862517248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073492907349131491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bxyIloveyou @LFeng193 小远到底进去没🤔好奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025400388862517248",
+        "conversation_id": "2073358681471947135",
+        "created_at": "2026-07-04T19:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073492907349131491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631665777106636800",
+              "start": 0,
+              "username": "LFeng193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073492907349131491",
+        "in_reply_to_user_id": "1631665777106636800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5063,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073358681471947135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LFeng193 想当小远？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 99,
+          "like_count": 5733,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T02:43:46.000Z",
+        "description": "y",
+        "id": "2025400388862517248",
+        "name": "宫园薰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072665651638906880/XSoP0FFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 148,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "bxyIloveyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T14:40:26.000Z",
+        "description": "193 薄肌 尊重所有人 原创 无脑的做爱机器 我要成为网黄届做爱最持久的07后小号防走丢https://t.co/wmQZXdt0EN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/chenbohu_1?s=21",
+                "end": 68,
+                "expanded_url": "https://x.com/chenbohu_1?s=21",
+                "start": 45,
+                "url": "https://t.co/wmQZXdt0EN"
+              }
+            ]
+          }
+        },
+        "id": "1631665777106636800",
+        "location": "中南海",
+        "name": "泠风不冷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072663300731785216/YjfEidAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14460,
+          "following_count": 16,
+          "like_count": 38,
+          "listed_count": 29,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "LFeng193",
+        "verified": false
+      }
+    ]
+  }
+}

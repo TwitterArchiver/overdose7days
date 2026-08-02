@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2066497878806376814",
+    "created_at": "2026-06-23T00:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069219156050997432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830472369867231232",
+          "start": 0,
+          "username": "kill1011_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069219156050997432",
+    "in_reply_to_user_id": "1830472369867231232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069124675192631709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill1011_ 哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2066497878806376814",
+        "created_at": "2026-06-23T00:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069219156050997432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830472369867231232",
+              "start": 0,
+              "username": "kill1011_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069219156050997432",
+        "in_reply_to_user_id": "1830472369867231232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069124675192631709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill1011_ 哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830472369867231232",
+        "conversation_id": "2066497878806376814",
+        "created_at": "2026-06-22T18:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069124675192631709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069124675192631709",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497878806376814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 74,
+          "like_count": 4698,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T05:06:49.000Z",
+        "description": "没那么脆弱",
+        "id": "1830472369867231232",
+        "location": "地狱",
+        "name": "kill",
+        "pinned_tweet_id": "1928496974208049556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024095934213484544/_tbpGbHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 44,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "kill1011_",
+        "verified": false
+      }
+    ]
+  }
+}

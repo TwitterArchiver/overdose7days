@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073905744710373596",
+    "created_at": "2026-07-06T12:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074108426557493546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1899329554986176512",
+          "start": 0,
+          "username": "bsdelimi154472"
+        },
+        {
+          "end": 23,
+          "id": "1548471557873610752",
+          "start": 16,
+          "username": "In2dTt"
+        },
+        {
+          "end": 36,
+          "id": "1780620789211152384",
+          "start": 24,
+          "username": "maque478728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074108426557493546",
+    "in_reply_to_user_id": "1899329554986176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074078990487416976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bsdelimi154472 @In2dTt @maque478728 他小号是哪个，可以推吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073905744710373596",
+        "created_at": "2026-07-06T12:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074108426557493546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1899329554986176512",
+              "start": 0,
+              "username": "bsdelimi154472"
+            },
+            {
+              "end": 23,
+              "id": "1548471557873610752",
+              "start": 16,
+              "username": "In2dTt"
+            },
+            {
+              "end": 36,
+              "id": "1780620789211152384",
+              "start": 24,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074108426557493546",
+        "in_reply_to_user_id": "1899329554986176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074078990487416976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bsdelimi154472 @In2dTt @maque478728 他小号是哪个，可以推吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899329554986176512",
+        "conversation_id": "2073905744710373596",
+        "created_at": "2026-07-06T10:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074078990487416976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            },
+            {
+              "end": 20,
+              "id": "1780620789211152384",
+              "start": 8,
+              "username": "maque478728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074078990487416976",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073905744710373596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt @maque478728 别你妈扯淡了，他小号还在圈呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 99,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T05:20:39.000Z",
+        "description": "",
+        "id": "1899329554986176512",
+        "name": "逼死地雷妹",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "bsdelimi154472",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28875,
+          "following_count": 298,
+          "like_count": 10771,
+          "listed_count": 24,
+          "media_count": 891,
+          "tweet_count": 3291
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:34:32.000Z",
+        "description": "唯一可以摁下的键，我的人生已经毁掉了",
+        "id": "1780620789211152384",
+        "name": "enter",
+        "pinned_tweet_id": "2072413645032792068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780631846205972480/-6JlBmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 128,
+          "like_count": 546,
+          "listed_count": 7,
+          "media_count": 345,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "maque478728",
+        "verified": false
+      }
+    ]
+  }
+}

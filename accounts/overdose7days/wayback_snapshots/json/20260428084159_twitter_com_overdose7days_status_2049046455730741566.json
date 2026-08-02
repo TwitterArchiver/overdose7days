@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2048995455510692054",
+    "created_at": "2026-04-28T08:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049046455730741566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910709382603825154",
+          "start": 0,
+          "username": "SHIIII_1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049046455730741566",
+    "in_reply_to_user_id": "1910709382603825154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048995455510692054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIIII_1201 什么群怎么进"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048995433817735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9-fbMagAAzoTv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048995433817792514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9-fbMbYAIjAxE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048995433821978624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9-fbNbQAAR5jV.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2048995455510692054",
+        "created_at": "2026-04-28T08:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049046455730741566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049046455730741566",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048995455510692054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 什么群怎么进"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048995433817735168",
+            "3_2048995433817792514",
+            "3_2048995433821978624"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2048995455510692054",
+        "created_at": "2026-04-28T05:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048995455510692054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUzfQSj1uY",
+              "end": 75,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2048995455510692054/photo/1",
+              "media_key": "3_2048995433817735168",
+              "start": 52,
+              "url": "https://t.co/aUzfQSj1uY"
+            },
+            {
+              "display_url": "pic.x.com/aUzfQSj1uY",
+              "end": 75,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2048995455510692054/photo/1",
+              "media_key": "3_2048995433817792514",
+              "start": 52,
+              "url": "https://t.co/aUzfQSj1uY"
+            },
+            {
+              "display_url": "pic.x.com/aUzfQSj1uY",
+              "end": 75,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2048995455510692054/photo/1",
+              "media_key": "3_2048995433821978624",
+              "start": 52,
+              "url": "https://t.co/aUzfQSj1uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048995455510692054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1253,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有被泪滴滴滴滴诈骗的朋友 可以联系我拉你进维权的群（p1是泪滴滴滴主页 p2、3是我也被骗的聊天记录） https://t.co/aUzfQSj1uY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 341,
+          "like_count": 3128,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 292
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      }
+    ]
+  }
+}

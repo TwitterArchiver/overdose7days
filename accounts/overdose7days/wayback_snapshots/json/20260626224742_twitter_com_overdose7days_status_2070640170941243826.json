@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070640161113931776"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2070640170941243826",
+    "created_at": "2026-06-26T22:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070640170941243826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w1SNUKhciB",
+          "end": 23,
+          "expanded_url": "https://x.com/overdose7days/status/2070640170941243826/photo/1",
+          "media_key": "3_2070640161113931776",
+          "start": 0,
+          "url": "https://t.co/w1SNUKhciB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070640170941243826",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/w1SNUKhciB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2070640161113931776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxkQXzagAAjxMl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070640161113931776"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2070640170941243826",
+        "created_at": "2026-06-26T22:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070640170941243826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1SNUKhciB",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose7days/status/2070640170941243826/photo/1",
+              "media_key": "3_2070640161113931776",
+              "start": 0,
+              "url": "https://t.co/w1SNUKhciB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070640170941243826",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w1SNUKhciB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 81,
+          "like_count": 4811,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

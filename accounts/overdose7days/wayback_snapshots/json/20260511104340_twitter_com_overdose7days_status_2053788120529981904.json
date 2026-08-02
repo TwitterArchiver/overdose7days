@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2053788120529981904",
+    "created_at": "2026-05-11T10:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053788120529981904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762399735644921856",
+          "start": 3,
+          "username": "Serotonin716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053788120529981904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053362571542245623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Serotonin716: 看见那种说真抑郁症谁会发割手照片的言论的我很想捅死他，砍死他，勒死他，闷死他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2053788120529981904",
+        "created_at": "2026-05-11T10:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053788120529981904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762399735644921856",
+              "start": 3,
+              "username": "Serotonin716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053788120529981904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053362571542245623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Serotonin716: 看见那种说真抑郁症谁会发割手照片的言论的我很想捅死他，砍死他，勒死他，闷死他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762399735644921856",
+        "conversation_id": "2053362571542245623",
+        "created_at": "2026-05-10T06:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053362571542245623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053362571542245623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8660,
+          "like_count": 315,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "看见那种说真抑郁症谁会发割手照片的言论的我很想捅死他，砍死他，勒死他，闷死他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 43,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 130
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "很温良除非遇到贱人/键政给老娘死开/脑部肛裂综合症/喜欢各种艺术作品/板绘学习ing/anti-AIart/欢迎交朋友/沉迷互联网之毒电波中。。。",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "肌肉阵挛",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040636212218830848/-4Bq_qwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 711,
+          "like_count": 62306,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3238
+        },
+        "username": "Serotonin716",
+        "verified": false
+      }
+    ]
+  }
+}

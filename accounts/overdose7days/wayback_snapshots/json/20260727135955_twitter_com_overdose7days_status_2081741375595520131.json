@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081741375595520131",
+    "created_at": "2026-07-27T13:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081741375595520131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1195358772836724736",
+          "start": 3,
+          "username": "rinnnna_peko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081741375595520131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080362430585348451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinnnna_peko: 最後套一個動畫Re0台詞\n\n「殺害會上癮」\n\n你今天虐殺了什麼，只要沒有任何後果，你明天還會後天還會大後天還會，未來都有可能會，因為你再也找不到比隨便決定生命去留還要更快樂的事了\n\n可悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081741375595520131",
+        "created_at": "2026-07-27T13:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081741375595520131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1195358772836724736",
+              "start": 3,
+              "username": "rinnnna_peko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081741375595520131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080362430585348451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinnnna_peko: 最後套一個動畫Re0台詞\n\n「殺害會上癮」\n\n你今天虐殺了什麼，只要沒有任何後果，你明天還會後天還會大後天還會，未來都有可能會，因為你再也找不到比隨便決定生命去留還要更快樂的事了\n\n可悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195358772836724736",
+        "conversation_id": "2080362430585348451",
+        "created_at": "2026-07-23T18:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080362430585348451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080362430585348451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最後套一個動畫Re0台詞\n\n「殺害會上癮」\n\n你今天虐殺了什麼，只要沒有任何後果，你明天還會後天還會大後天還會，未來都有可能會，因為你再也找不到比隨便決定生命去留還要更快樂的事了\n\n可悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 113,
+          "like_count": 7683,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-15T15:12:08.000Z",
+        "description": "狗派人士｜只說我想說的｜The 兇｜不開心就會尖叫！｜為什麼我需要錢還得要去上班？•ࡇ•｜不負責陌生人的喜怒哀樂 請自己調適",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rinnnn…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rinnnna.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EIYLAXG45S"
+              }
+            ]
+          }
+        },
+        "id": "1195358772836724736",
+        "location": "Taiwan",
+        "name": "Rina💫漢堡不要美乃滋",
+        "pinned_tweet_id": "2079578608285438084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060530898064617472/Glvr-eWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 139,
+          "like_count": 10670,
+          "listed_count": 4,
+          "media_count": 556,
+          "tweet_count": 14013
+        },
+        "url": "https://t.co/EIYLAXG45S",
+        "username": "rinnnna_peko",
+        "verified": false
+      }
+    ]
+  }
+}

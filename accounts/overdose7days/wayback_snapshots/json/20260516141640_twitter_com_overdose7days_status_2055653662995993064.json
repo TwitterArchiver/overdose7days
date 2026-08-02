@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2055653662995993064",
+    "created_at": "2026-05-16T14:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055653662995993064"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055653662995993064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真下贱我又复吸了戒替来五天我太抑郁了没有药效我真的活不了所以没忍住又花了600块钱买了3个🥚。。。我毒虫我忏悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2055653662995993064",
+        "created_at": "2026-05-16T14:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055653662995993064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055653662995993064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真下贱我又复吸了戒替来五天我太抑郁了没有药效我真的活不了所以没忍住又花了600块钱买了3个🥚。。。我毒虫我忏悔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 47,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 186
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

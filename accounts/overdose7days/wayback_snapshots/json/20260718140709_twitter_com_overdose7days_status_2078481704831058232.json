@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2078481704831058232",
+    "created_at": "2026-07-18T14:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078481704831058232"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078481704831058232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个推特都不给我推吸毒仔od妹了，可能是我确实爱看蕾塞天天给我推蕾塞电次同人图，非常的有初恋感的小情侣呀，只是一看到他们就想起在泗阳的时候，那已经是三年前了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2078481704831058232",
+        "created_at": "2026-07-18T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078481704831058232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078481704831058232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个推特都不给我推吸毒仔od妹了，可能是我确实爱看蕾塞天天给我推蕾塞电次同人图，非常的有初恋感的小情侣呀，只是一看到他们就想起在泗阳的时候，那已经是三年前了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 103,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2061473881920352596",
+    "created_at": "2026-06-01T15:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061473881920352596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1675444856288870401",
+          "start": 3,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061473881920352596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060018224419266669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maedarikuonly1: 现在od圈o不扩散真的防不住了，什么都不懂的群体是感康的消费第一动力，这类药物害人太深了，广州禁毒的视频当成热流吸引更多人关注，一大波未成年涌入推特，主页写的13年吓死我了，与其让他们跟风吃傻逼药还不如好好给他们科普什么能吃什么不能（叠甲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2061473881920352596",
+        "created_at": "2026-06-01T15:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061473881920352596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1675444856288870401",
+              "start": 3,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061473881920352596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060018224419266669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maedarikuonly1: 现在od圈o不扩散真的防不住了，什么都不懂的群体是感康的消费第一动力，这类药物害人太深了，广州禁毒的视频当成热流吸引更多人关注，一大波未成年涌入推特，主页写的13年吓死我了，与其让他们跟风吃傻逼药还不如好好给他们科普什么能吃什么不能（叠甲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675444856288870401",
+        "conversation_id": "2060018224419266669",
+        "created_at": "2026-05-28T15:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060018224419266669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060018224419266669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8973,
+          "like_count": 140,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "现在od圈o不扩散真的防不住了，什么都不懂的群体是感康的消费第一动力，这类药物害人太深了，广州禁毒的视频当成热流吸引更多人关注，一大波未成年涌入推特，主页写的13年吓死我了，与其让他们跟风吃傻逼药还不如好好给他们科普什么能吃什么不能（叠甲 我没有引导他们去磕的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 60,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 325
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 90,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 692
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

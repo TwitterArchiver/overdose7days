@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2078775030562033815",
+    "created_at": "2026-07-19T09:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078775030562033815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/overdose7days/status/2078773915355332698",
+          "start": 44,
+          "url": "https://t.co/JKKs232CYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078775030562033815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078773915355332698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都怪替来他明毁了我，对，都怪替来，都怪替来，都是替来惹的祸啊不是我，你们为什么不等等我 https://t.co/JKKs232CYu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2078775030562033815",
+        "created_at": "2026-07-19T09:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078775030562033815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/overdose7days/status/2078773915355332698",
+              "start": 44,
+              "url": "https://t.co/JKKs232CYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775030562033815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078773915355332698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都怪替来他明毁了我，对，都怪替来，都怪替来，都是替来惹的祸啊不是我，你们为什么不等等我 https://t.co/JKKs232CYu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2078773915355332698",
+        "created_at": "2026-07-19T09:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078773915355332698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078773915355332698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无力，有种沉沦药效三个月后大梦初醒发现老婆已经开始收拾行囊准备跑路家人被我吸血吸干0技能0学历0存款想做自己人生的救火员发现根本救不过来，，真是徒劳无功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 106,
+          "like_count": 7052,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

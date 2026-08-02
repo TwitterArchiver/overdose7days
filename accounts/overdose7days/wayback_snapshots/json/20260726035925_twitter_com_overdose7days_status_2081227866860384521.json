@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2063002180429476252",
+    "created_at": "2026-07-26T03:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081227866860384521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1904457911369105409",
+          "start": 0,
+          "username": "OmerOzer5234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081227866860384521",
+    "in_reply_to_user_id": "1904457911369105409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063002180429476252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OmerOzer5234 別讓我看到這麼痛的文字啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2063002180429476252",
+        "created_at": "2026-07-26T03:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081227866860384521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1904457911369105409",
+              "start": 0,
+              "username": "OmerOzer5234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081227866860384521",
+        "in_reply_to_user_id": "1904457911369105409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063002180429476252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OmerOzer5234 別讓我看到這麼痛的文字啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904457911369105409",
+        "conversation_id": "2063002180429476252",
+        "created_at": "2026-06-05T20:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063002180429476252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063002180429476252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1186,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会怎么介绍我呢？向你女朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 111,
+          "like_count": 7541,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T08:58:56.000Z",
+        "description": "一把让人忐忑不安的牢固椅子、一瓶情绪稳定香氛、一只自动鼓掌器、一个纪念版空瓶",
+        "id": "1904457911369105409",
+        "location": "老鼠乐园",
+        "name": "中专王",
+        "pinned_tweet_id": "2063321098733941150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067115023592574976/WBH7lu0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 5,
+          "like_count": 5805,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "OmerOzer5234",
+        "verified": false
+      }
+    ]
+  }
+}

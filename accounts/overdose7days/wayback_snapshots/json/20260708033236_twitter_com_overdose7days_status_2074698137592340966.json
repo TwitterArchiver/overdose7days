@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2074698137592340966",
+    "created_at": "2026-07-08T03:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074698137592340966"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074698137592340966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "戒毒迫在眉睫但吸毒迫在眉睫。有没有懂贤者时刻的，抽完一口过了药效顶峰下头时的那种满足感其实也很平和宁静呀😸每到这时我就开始想以后不要吸毒了我们choose life 吧但我也知道等我一觉睡醒之时我的想法又会改变的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2074698137592340966",
+        "created_at": "2026-07-08T03:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074698137592340966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074698137592340966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒毒迫在眉睫但吸毒迫在眉睫。有没有懂贤者时刻的，抽完一口过了药效顶峰下头时的那种满足感其实也很平和宁静呀😸每到这时我就开始想以后不要吸毒了我们choose life 吧但我也知道等我一觉睡醒之时我的想法又会改变的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 99,
+          "like_count": 6031,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

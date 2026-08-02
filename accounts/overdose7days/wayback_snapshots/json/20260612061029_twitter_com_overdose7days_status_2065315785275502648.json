@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065229773584961536"
+      ],
+      "media_source_tweet_id": [
+        "2065229832699384007"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2065315785275502648",
+    "created_at": "2026-06-12T06:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065315785275502648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wfmlqjBHtm",
+          "end": 33,
+          "expanded_url": "https://x.com/yuria_violin/status/2065229832699384007/video/1",
+          "media_key": "13_2065229773584961536",
+          "start": 10,
+          "url": "https://t.co/wfmlqjBHtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065315785275502648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这简直就是我本人😋 https://t.co/wfmlqjBHtm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18001,
+        "height": 720,
+        "media_key": "13_2065229773584961536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065229773584961536/img/5GDxRJmAtOlod_BQ.jpg",
+        "public_metrics": {
+          "view_count": 9338
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065229773584961536/vid/avc1/338x270/yclVruYksgOMP5Vf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065229773584961536/vid/avc1/450x360/Dd22TOofF0o5fbXs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065229773584961536/vid/avc1/902x720/FslUAReAI_bULtQ-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065229773584961536/pl/nhZBvKz7RpgAsU9B.m3u8?v=cfc"
+          }
+        ],
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065229773584961536"
+          ],
+          "media_source_tweet_id": [
+            "2065229832699384007"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2065315785275502648",
+        "created_at": "2026-06-12T06:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065315785275502648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfmlqjBHtm",
+              "end": 33,
+              "expanded_url": "https://x.com/yuria_violin/status/2065229832699384007/video/1",
+              "media_key": "13_2065229773584961536",
+              "start": 10,
+              "url": "https://t.co/wfmlqjBHtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065315785275502648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这简直就是我本人😋 https://t.co/wfmlqjBHtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 65,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 370
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

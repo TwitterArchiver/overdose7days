@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073598635829592189",
+    "created_at": "2026-07-05T11:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073731126611570795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1287047216041844736",
+          "start": 0,
+          "username": "yuu47758454"
+        },
+        {
+          "end": 29,
+          "id": "1862689395285139457",
+          "start": 13,
+          "username": "fn7004746189692"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073731126611570795",
+    "in_reply_to_user_id": "1287047216041844736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073645649309147239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu47758454 @fn7004746189692 之前遇到个男的看到我刷推特说推特是约炮软件😂不敢想他真刷过推吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073598635829592189",
+        "created_at": "2026-07-05T11:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073731126611570795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1287047216041844736",
+              "start": 0,
+              "username": "yuu47758454"
+            },
+            {
+              "end": 29,
+              "id": "1862689395285139457",
+              "start": 13,
+              "username": "fn7004746189692"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073731126611570795",
+        "in_reply_to_user_id": "1287047216041844736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073645649309147239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu47758454 @fn7004746189692 之前遇到个男的看到我刷推特说推特是约炮软件😂不敢想他真刷过推吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287047216041844736",
+        "conversation_id": "2073598635829592189",
+        "created_at": "2026-07-05T05:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073645649309147239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862689395285139457",
+              "start": 0,
+              "username": "fn7004746189692"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073645649309147239",
+        "in_reply_to_user_id": "1862689395285139457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1529,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073630471523877166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fn7004746189692 问题就在于这不是妓院，而是一个通用的社交平台，第一手科技讯息都有，ai大佬有什么新想法也会发在这儿，股神在这儿写段子，画师会发新作品。如果这是个约炮的地方那我没话说🤣但既然不是，要不要承认一下，这里不过是暴露了更多生活的真相。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 93,
+          "like_count": 5661,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T15:29:11.000Z",
+        "description": "如果一个人抵御得了鲜花与掌声，就难免想要遁入永恒。",
+        "id": "1287047216041844736",
+        "location": "Shanghai",
+        "name": "yuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051534303558094848/Ip5qo37k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 162,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "yuu47758454",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T02:45:46.000Z",
+        "description": "",
+        "id": "1862689395285139457",
+        "location": "New Hampshire, USA",
+        "name": "樊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072182215912407040/IV_OJb8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "fn7004746189692",
+        "verified": false
+      }
+    ]
+  }
+}

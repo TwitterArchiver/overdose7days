@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058614818895175850",
+    "created_at": "2026-05-25T11:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058867504496484378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785767615484547072",
+          "start": 0,
+          "username": "momoxieZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058867504496484378",
+    "in_reply_to_user_id": "1785767615484547072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058614818895175850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoxieZS 我感觉我迟早会被我家里关进戒毒所🌚不能再让他们发现我磕药了太麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058614818895175850",
+        "created_at": "2026-05-25T11:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058867504496484378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785767615484547072",
+              "start": 0,
+              "username": "momoxieZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058867504496484378",
+        "in_reply_to_user_id": "1785767615484547072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058614818895175850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoxieZS 我感觉我迟早会被我家里关进戒毒所🌚不能再让他们发现我磕药了太麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785767615484547072",
+        "conversation_id": "2058614818895175850",
+        "created_at": "2026-05-24T18:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058614818895175850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058614818895175850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1193,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爹又来发神经了🙄，说是我割手违法了，要报警抓我，我让他报后他又在那碎叨“你等着你以后一定会进监狱”。呵呵，我怀疑是要给我送军事化管理戒网瘾学校去🙄\n要是以后没动静了那就是被送过去了。那种地方我想和我共鸣的人挺多吧，找到一个和我一样想自杀的应该不难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 252
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T20:28:27.000Z",
+        "description": "所有推文都是定时发布\n会给感兴趣的人挂铃铛\nLOVER @me1su0/血图 @me1su0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "me1su0"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "me1su0"
+              }
+            ]
+          }
+        },
+        "id": "1785767615484547072",
+        "location": "#shtwt",
+        "name": "栖栖Zip",
+        "pinned_tweet_id": "2051576339803840784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048396357845872640/3TIlxCI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 167,
+          "like_count": 5173,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 196
+        },
+        "username": "momoxieZS",
+        "verified": true
+      }
+    ]
+  }
+}

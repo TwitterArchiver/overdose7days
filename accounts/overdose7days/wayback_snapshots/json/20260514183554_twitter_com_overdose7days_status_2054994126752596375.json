@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053675041460510720"
+      ],
+      "media_source_tweet_id": [
+        "2053675048444067915"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "High school students navigate drugs, sex, identity, trauma, social media, love and friendship.\n\nPhoto via TMS",
+          "id": "10056463340",
+          "name": "Euphoria"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1268571319416745986",
+          "name": "Euphoria"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1268571319416745986",
+          "name": "Euphoria"
+        }
+      }
+    ],
+    "conversation_id": "2054994126752596375",
+    "created_at": "2026-05-14T18:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054994126752596375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1990237840601739264",
+          "start": 3,
+          "username": "rhaenyrarchives"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jm1ZJUTdnR",
+          "end": 133,
+          "expanded_url": "https://x.com/rhaenyrarchives/status/2053675048444067915/photo/1",
+          "media_key": "3_2053675041460510720",
+          "start": 110,
+          "url": "https://t.co/jm1ZJUTdnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054994126752596375",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6533
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053675048444067915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rhaenyrarchives: it doesn’t matter how bad your day is, rue will always be having a worse one in euphoria https://t.co/jm1ZJUTdnR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053675041460510720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAekcJW4AAr4zP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053675041460510720"
+          ],
+          "media_source_tweet_id": [
+            "2053675048444067915"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "High school students navigate drugs, sex, identity, trauma, social media, love and friendship.\n\nPhoto via TMS",
+              "id": "10056463340",
+              "name": "Euphoria"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268571319416745986",
+              "name": "Euphoria"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1268571319416745986",
+              "name": "Euphoria"
+            }
+          }
+        ],
+        "conversation_id": "2054994126752596375",
+        "created_at": "2026-05-14T18:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054994126752596375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1990237840601739264",
+              "start": 3,
+              "username": "rhaenyrarchives"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jm1ZJUTdnR",
+              "end": 133,
+              "expanded_url": "https://x.com/rhaenyrarchives/status/2053675048444067915/photo/1",
+              "media_key": "3_2053675041460510720",
+              "start": 110,
+              "url": "https://t.co/jm1ZJUTdnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054994126752596375",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6533
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053675048444067915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rhaenyrarchives: it doesn’t matter how bad your day is, rue will always be having a worse one in euphoria https://t.co/jm1ZJUTdnR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053675041460510720"
+          ]
+        },
+        "author_id": "1990237840601739264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "High school students navigate drugs, sex, identity, trauma, social media, love and friendship.\n\nPhoto via TMS",
+              "id": "10056463340",
+              "name": "Euphoria"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268571319416745986",
+              "name": "Euphoria"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1268571319416745986",
+              "name": "Euphoria"
+            }
+          }
+        ],
+        "conversation_id": "2053675048444067915",
+        "created_at": "2026-05-11T03:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053675048444067915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jm1ZJUTdnR",
+              "end": 112,
+              "expanded_url": "https://x.com/rhaenyrarchives/status/2053675048444067915/photo/1",
+              "media_key": "3_2053675041460510720",
+              "start": 89,
+              "url": "https://t.co/jm1ZJUTdnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053675048444067915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1264,
+          "impression_count": 652526,
+          "like_count": 66302,
+          "quote_count": 246,
+          "reply_count": 106,
+          "retweet_count": 6533
+        },
+        "reply_settings": "everyone",
+        "text": "it doesn’t matter how bad your day is, rue will always be having a worse one in euphoria https://t.co/jm1ZJUTdnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 45,
+          "like_count": 2155,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 171
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:57:41.000Z",
+        "description": "crazy together.",
+        "id": "1990237840601739264",
+        "name": "ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054778524389502976/fR-r77ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 117,
+          "like_count": 6281,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 878
+        },
+        "username": "rhaenyrarchives",
+        "verified": false
+      }
+    ]
+  }
+}

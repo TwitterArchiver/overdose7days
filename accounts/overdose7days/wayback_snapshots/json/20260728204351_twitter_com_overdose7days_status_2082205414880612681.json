@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2065946189682618475",
+    "created_at": "2026-07-28T20:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082205414880612681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082205414880612681",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065946189682618475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈这辈子唯一做错的一件事就是生小孩\n我这辈子做错的唯一一件事就是第一次想自杀的时候未能付诸行动，这是我这辈子犯下的最严重的错误，排行第二的应该就是成为异性恋吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2065946189682618475",
+        "created_at": "2026-07-28T20:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082205414880612681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082205414880612681",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065946189682618475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈这辈子唯一做错的一件事就是生小孩\n我这辈子做错的唯一一件事就是第一次想自杀的时候未能付诸行动，这是我这辈子犯下的最严重的错误，排行第二的应该就是成为异性恋吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2065946189682618475",
+        "created_at": "2026-06-13T23:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065946189682618475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065946189682618475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4795,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要沉沦下去了我会回不去的\n但是到底要回哪里去啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 113,
+          "like_count": 7745,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

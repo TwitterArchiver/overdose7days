@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2042673596666122266",
+    "created_at": "2026-06-26T00:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070298784136089919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1448881148541685760",
+          "start": 0,
+          "username": "uni_ododriru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070298784136089919",
+    "in_reply_to_user_id": "1448881148541685760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042673596666122266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uni_ododriru 这是什么软件求推荐😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042673594178904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkIz7UaoAAcU2q.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2042673596666122266",
+        "created_at": "2026-06-26T00:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070298784136089919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1448881148541685760",
+              "start": 0,
+              "username": "uni_ododriru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070298784136089919",
+        "in_reply_to_user_id": "1448881148541685760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042673596666122266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uni_ododriru 这是什么软件求推荐😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042673594178904064"
+          ]
+        },
+        "author_id": "1448881148541685760",
+        "conversation_id": "2042673596666122266",
+        "created_at": "2026-04-10T18:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042673596666122266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCHkuP9MVI",
+              "end": 27,
+              "expanded_url": "https://x.com/uni_ododriru/status/2042673596666122266/photo/1",
+              "media_key": "3_2042673594178904064",
+              "start": 4,
+              "url": "https://t.co/XCHkuP9MVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042673596666122266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#od https://t.co/XCHkuP9MVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 81,
+          "like_count": 4803,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:19:35.000Z",
+        "description": "05ⅡOD \ncn叶米/りる/山与屿\n我玩es/p5x/mc\n我厨朱樱司/樱河琥珀/紫之创",
+        "id": "1448881148541685760",
+        "location": "Japan",
+        "name": "山与屿",
+        "pinned_tweet_id": "1988064492455067652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026220595306995712/lSCW4iTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 507,
+          "like_count": 81455,
+          "listed_count": 0,
+          "media_count": 864,
+          "tweet_count": 2276
+        },
+        "url": "",
+        "username": "uni_ododriru",
+        "verified": false
+      }
+    ]
+  }
+}

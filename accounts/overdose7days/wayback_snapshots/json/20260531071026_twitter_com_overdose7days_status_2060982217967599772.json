@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2060763597177856166",
+    "created_at": "2026-05-31T07:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060982217967599772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057136432444059649",
+          "start": 0,
+          "username": "zoomqqie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060982217967599772",
+    "in_reply_to_user_id": "2057136432444059649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060763597177856166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoomqqie 最多一次吃过166颗白兔，以前也是过吞药自杀，感觉这种死法成功率太低了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2060763597177856166",
+        "created_at": "2026-05-31T07:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060982217967599772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057136432444059649",
+              "start": 0,
+              "username": "zoomqqie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060982217967599772",
+        "in_reply_to_user_id": "2057136432444059649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060763597177856166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoomqqie 最多一次吃过166颗白兔，以前也是过吞药自杀，感觉这种死法成功率太低了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057136432444059649",
+        "conversation_id": "2060763597177856166",
+        "created_at": "2026-05-30T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060763597177856166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060763597177856166",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 31896,
+          "like_count": 2961,
+          "quote_count": 38,
+          "reply_count": 19,
+          "retweet_count": 901
+        },
+        "reply_settings": "everyone",
+        "text": "lo juro que me voy a meter 40 pastillas y morirme por sobredosis, los odio a todos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 59,
+          "like_count": 3684,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 320
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T16:29:09.000Z",
+        "description": "jeje, hi !!\n\n#zombietwt #suicidetwt #drugtwt #anitwt #obstwt\n\nme gusta el anime yyy mmmm drogarmk??\n\n— busco mutis!! https://t.co/cBO6ZoUYi1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "zombietwt"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "anitwt"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "obstwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kuraa.idk",
+                "end": 140,
+                "expanded_url": "https://ngl.link/kuraa.idk",
+                "start": 117,
+                "url": "https://t.co/cBO6ZoUYi1"
+              }
+            ]
+          }
+        },
+        "id": "2057136432444059649",
+        "name": "﹫ boom",
+        "pinned_tweet_id": "2060763597177856166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057175092652654593/WOmr4aQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 76,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 361
+        },
+        "username": "zoomqqie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075005157314797568"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075005165896360206",
+    "created_at": "2026-07-08T23:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075005165896360206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《do addicts make it to heaven?》，别名《瘾者可否入天堂？》，由 disoc8、wintr 演唱，收录于《do addicts make it to heaven?》专辑中，《do addicts make it to heaven?》下载，《do addicts make it to heaven?》在线试听，更多do addicts make it to heaven?相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/baDiZ0a6",
+          "end": 93,
+          "expanded_url": "https://163cn.tv/baDiZ0a6",
+          "start": 70,
+          "status": 200,
+          "title": "do addicts make it to heaven?（瘾者可否入天堂？） - disoc8/wintr - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3321219711&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=qHI7E52Z1i7bJmntGI3L8w==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+          "url": "https://t.co/Yw77gaXdEn"
+        },
+        {
+          "display_url": "pic.x.com/muuCeiGha0",
+          "end": 117,
+          "expanded_url": "https://x.com/overdose7days/status/2075005165896360206/photo/1",
+          "media_key": "3_2075005157314797568",
+          "start": 94,
+          "url": "https://t.co/muuCeiGha0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075005165896360206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享disoc8/wintr的单曲《do addicts make it to heaven? (瘾者可否入天堂？)》  (@网易云音乐) https://t.co/Yw77gaXdEn https://t.co/muuCeiGha0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 135,
+        "media_key": "3_2075005157314797568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvmMlzaIAAKtyp.jpg",
+        "width": 135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075005157314797568"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075005165896360206",
+        "created_at": "2026-07-08T23:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075005165896360206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《do addicts make it to heaven?》，别名《瘾者可否入天堂？》，由 disoc8、wintr 演唱，收录于《do addicts make it to heaven?》专辑中，《do addicts make it to heaven?》下载，《do addicts make it to heaven?》在线试听，更多do addicts make it to heaven?相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/baDiZ0a6",
+              "end": 93,
+              "expanded_url": "https://163cn.tv/baDiZ0a6",
+              "start": 70,
+              "status": 200,
+              "title": "do addicts make it to heaven?（瘾者可否入天堂？） - disoc8/wintr - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3321219711&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=qHI7E52Z1i7bJmntGI3L8w==&playerUIModeId=76001&app_version=9.5.45&dlt=0846",
+              "url": "https://t.co/Yw77gaXdEn"
+            },
+            {
+              "display_url": "pic.x.com/muuCeiGha0",
+              "end": 117,
+              "expanded_url": "https://x.com/overdose7days/status/2075005165896360206/photo/1",
+              "media_key": "3_2075005157314797568",
+              "start": 94,
+              "url": "https://t.co/muuCeiGha0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075005165896360206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享disoc8/wintr的单曲《do addicts make it to heaven? (瘾者可否入天堂？)》  (@网易云音乐) https://t.co/Yw77gaXdEn https://t.co/muuCeiGha0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 100,
+          "like_count": 6134,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

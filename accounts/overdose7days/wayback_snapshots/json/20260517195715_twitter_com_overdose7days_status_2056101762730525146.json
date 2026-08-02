@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2056101762730525146",
+    "created_at": "2026-05-17T19:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056101762730525146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028432059002150912",
+          "start": 3,
+          "username": "NinJaCatRising"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056101762730525146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055766387365224502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NinJaCatRising: 我的表达欲很旺盛，但是我的超差文笔和完美主义倾向又很好的抑制了这一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2056101762730525146",
+        "created_at": "2026-05-17T19:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056101762730525146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028432059002150912",
+              "start": 3,
+              "username": "NinJaCatRising"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056101762730525146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055766387365224502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NinJaCatRising: 我的表达欲很旺盛，但是我的超差文笔和完美主义倾向又很好的抑制了这一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028432059002150912",
+        "conversation_id": "2055766387365224502",
+        "created_at": "2026-05-16T21:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055766387365224502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055766387365224502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4721,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我的表达欲很旺盛，但是我的超差文笔和完美主义倾向又很好的抑制了这一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 50,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 199
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:29:34.000Z",
+        "description": "保持佛系，不加任何联系方式；分享我想发的\n帖子仅代表个人",
+        "id": "2028432059002150912",
+        "name": "gangjeup",
+        "pinned_tweet_id": "2053443454030459336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055250638217371648/y1PXaqD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 18,
+          "like_count": 2108,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 323
+        },
+        "username": "NinJaCatRising",
+        "verified": false
+      }
+    ]
+  }
+}

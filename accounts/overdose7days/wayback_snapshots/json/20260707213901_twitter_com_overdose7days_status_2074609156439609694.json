@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2074609156439609694",
+    "created_at": "2026-07-07T21:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074609156439609694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1596427841943793664",
+          "start": 3,
+          "username": "TheWonderofu_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074609156439609694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074358909276742092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @TheWonderofu_1: 其实割手援交有精神疾病的女孩账号很多，但我每次顺着主页向下看到他们转发的一些我也喜欢的ip就崩溃了。她们有很多共同点比如od，还有和很差劲的男人谈恋爱。在很年轻愚蠢的时候和下作的男人做爱，之后才发现自己的身体变成一个物件。好难过，为什么你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2074609156439609694",
+        "created_at": "2026-07-07T21:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074609156439609694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1596427841943793664",
+              "start": 3,
+              "username": "TheWonderofu_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074609156439609694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074358909276742092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @TheWonderofu_1: 其实割手援交有精神疾病的女孩账号很多，但我每次顺着主页向下看到他们转发的一些我也喜欢的ip就崩溃了。她们有很多共同点比如od，还有和很差劲的男人谈恋爱。在很年轻愚蠢的时候和下作的男人做爱，之后才发现自己的身体变成一个物件。好难过，为什么你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596427841943793664",
+        "conversation_id": "2074358909276742092",
+        "created_at": "2026-07-07T05:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074358909276742092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074358909276742092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3419,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "其实割手援交有精神疾病的女孩账号很多，但我每次顺着主页向下看到他们转发的一些我也喜欢的ip就崩溃了。她们有很多共同点比如od，还有和很差劲的男人谈恋爱。在很年轻愚蠢的时候和下作的男人做爱，之后才发现自己的身体变成一个物件。好难过，为什么你们不能幸运一点，为什么没有更好的人爱你们？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 99,
+          "like_count": 5999,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "老鼠爱好者｜最喜欢的人@TheWonderofu_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "TheWonderofu_1"
+              }
+            ]
+          }
+        },
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2053921691190059384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 286,
+          "like_count": 9712,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "TheWonderofu_1",
+        "verified": false
+      }
+    ]
+  }
+}

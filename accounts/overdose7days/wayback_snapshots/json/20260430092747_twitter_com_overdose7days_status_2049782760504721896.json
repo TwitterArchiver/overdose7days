@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2049547216587751654",
+    "created_at": "2026-04-30T09:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049782760504721896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777730090924978176",
+          "start": 0,
+          "username": "Hiiragi_qin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049782760504721896",
+    "in_reply_to_user_id": "1777730090924978176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049547216587751654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiiragi_qin 我两个月没吃愈美了到现在也不想吃就是因为他那个味道我真是受不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2049547216587751654",
+        "created_at": "2026-04-30T09:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049782760504721896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782760504721896",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049547216587751654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin 我两个月没吃愈美了到现在也不想吃就是因为他那个味道我真是受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777730090924978176",
+        "conversation_id": "2049547216587751654",
+        "created_at": "2026-04-29T17:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049547216587751654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049547216587751654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将进行一项挑战，白水吞服ym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n(可以叫我冬青喔)\n（欢迎查成分互fo）\n阿普唑仑重度依赖\n目前会点药理知识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_4fa23f80-a462-42a6-b608-b87dcb7af77c",
+                "start": 0,
+                "url": "https://t.co/deReGSZ2Tl"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "OneRoom",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041120230404227072/zsxkBivQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 211,
+          "like_count": 16887,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/deReGSZ2Tl",
+        "username": "Hiiragi_qin",
+        "verified": false
+      }
+    ]
+  }
+}

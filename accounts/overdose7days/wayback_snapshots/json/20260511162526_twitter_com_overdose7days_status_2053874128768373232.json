@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2053874128768373232",
+    "created_at": "2026-05-11T16:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053874128768373232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053874128768373232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049326462743003143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 吸毒只伤害自己，几乎不伤害其它人。但网上对吸毒者人人喊打，恨不得死刑，艺人吸毒永不启用。说他们对不起牺牲的缉毒警。\n\n派出所副所长为了冲业绩，让6名未成年吸毒。比自己吸严重多了吧。但这群人突然没声了。\n\n所以网上你看见的义愤填膺，很多时候…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_2049324502207889408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCpxuebAAA6nOg.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2098,
+        "media_key": "3_2049324930999951360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCqKr2aoAAi7zo.jpg",
+        "width": 1150
+      },
+      {
+        "height": 1511,
+        "media_key": "3_2049326129505562624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCrQcoa8AAmEnt.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2053874128768373232",
+        "created_at": "2026-05-11T16:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053874128768373232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053874128768373232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049326462743003143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 吸毒只伤害自己，几乎不伤害其它人。但网上对吸毒者人人喊打，恨不得死刑，艺人吸毒永不启用。说他们对不起牺牲的缉毒警。\n\n派出所副所长为了冲业绩，让6名未成年吸毒。比自己吸严重多了吧。但这群人突然没声了。\n\n所以网上你看见的义愤填膺，很多时候…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049324502207889408",
+            "3_2049324930999951360",
+            "3_2049326129505562624"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2049326462743003143",
+        "created_at": "2026-04-29T03:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049326462743003143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TwtEtma06",
+              "end": 159,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2049326462743003143/photo/1",
+              "media_key": "3_2049324502207889408",
+              "start": 136,
+              "url": "https://t.co/5TwtEtma06"
+            },
+            {
+              "display_url": "pic.x.com/5TwtEtma06",
+              "end": 159,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2049326462743003143/photo/1",
+              "media_key": "3_2049324930999951360",
+              "start": 136,
+              "url": "https://t.co/5TwtEtma06"
+            },
+            {
+              "display_url": "pic.x.com/5TwtEtma06",
+              "end": 159,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2049326462743003143/photo/1",
+              "media_key": "3_2049326129505562624",
+              "start": 136,
+              "url": "https://t.co/5TwtEtma06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049326462743003143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 159779,
+          "like_count": 1521,
+          "quote_count": 21,
+          "reply_count": 171,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒只伤害自己，几乎不伤害其它人。但网上对吸毒者人人喊打，恨不得死刑，艺人吸毒永不启用。说他们对不起牺牲的缉毒警。\n\n派出所副所长为了冲业绩，让6名未成年吸毒。比自己吸严重多了吧。但这群人突然没声了。\n\n所以网上你看见的义愤填膺，很多时候只是找个弱势群体或弱者发泄一下。 https://t.co/5TwtEtma06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 44,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 138
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号，内容均可去掉id随意转载。错漏、传谣处欢迎指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表认同。请怀抱乐子人心态，太较真则可能严重抑郁。认知失调时请先反思自己是否3D人士。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237116,
+          "following_count": 1854,
+          "like_count": 190,
+          "listed_count": 1275,
+          "media_count": 28750,
+          "tweet_count": 36762
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

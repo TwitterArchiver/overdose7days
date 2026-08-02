@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081676427955687848",
+    "created_at": "2026-07-27T09:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081676427955687848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778519546388996096",
+          "start": 3,
+          "username": "qnshhun91498298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081676427955687848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081524305947701727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qnshhun91498298: 我过去有太多廉价的感情了  没有爱  没有互相理解  没有交心  只是互相满足情感的工具  装出一副甜甜蜜蜜的假象  然后被一点矛盾戳破  人和人真的可以完全互相理解吗  如果可以人和人相连就好了  难以言说的痛苦被完全展现  微小的矛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081676427955687848",
+        "created_at": "2026-07-27T09:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081676427955687848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778519546388996096",
+              "start": 3,
+              "username": "qnshhun91498298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081676427955687848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081524305947701727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qnshhun91498298: 我过去有太多廉价的感情了  没有爱  没有互相理解  没有交心  只是互相满足情感的工具  装出一副甜甜蜜蜜的假象  然后被一点矛盾戳破  人和人真的可以完全互相理解吗  如果可以人和人相连就好了  难以言说的痛苦被完全展现  微小的矛…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778519546388996096",
+        "conversation_id": "2081524305947701727",
+        "created_at": "2026-07-26T23:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081524305947701727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081524305947701727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 898,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我过去有太多廉价的感情了  没有爱  没有互相理解  没有交心  只是互相满足情感的工具  装出一副甜甜蜜蜜的假象  然后被一点矛盾戳破  人和人真的可以完全互相理解吗  如果可以人和人相连就好了  难以言说的痛苦被完全展现  微小的矛盾被化解  心和心在一起  但是人是独立的个体  人和人是不会相连的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 111,
+          "like_count": 7643,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T20:24:46.000Z",
+        "description": "我只是说点od的小胡话不要骂我  我就是一个神经病对不起",
+        "id": "1778519546388996096",
+        "name": "Rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081418621709107200/zm1mlNVE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "qnshhun91498298",
+        "verified": false
+      }
+    ]
+  }
+}

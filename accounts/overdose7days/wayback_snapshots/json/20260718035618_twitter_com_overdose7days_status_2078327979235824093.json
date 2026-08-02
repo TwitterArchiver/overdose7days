@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2078165984083689596",
+    "created_at": "2026-07-18T03:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078327979235824093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900745848361021443",
+          "start": 0,
+          "username": "lianglelele0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078327979235824093",
+    "in_reply_to_user_id": "1900745848361021443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078165984083689596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianglelele0 背负着执念就无法得到自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2078165984083689596",
+        "created_at": "2026-07-18T03:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078327979235824093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900745848361021443",
+              "start": 0,
+              "username": "lianglelele0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078327979235824093",
+        "in_reply_to_user_id": "1900745848361021443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078165984083689596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianglelele0 背负着执念就无法得到自由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900745848361021443",
+        "conversation_id": "2078165984083689596",
+        "created_at": "2026-07-17T17:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078165984083689596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078165984083689596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "执念是很可怕的 学会释怀是青少年逃离痛苦的第一步或许也会是最后一步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 103,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:08:35.000Z",
+        "description": "且把悲歡歌唱",
+        "id": "1900745848361021443",
+        "location": "😈",
+        "name": "乐乐大王👑",
+        "pinned_tweet_id": "2077050816813506907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066901533187608577/cl3kycj-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 34,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "lianglelele0",
+        "verified": false
+      }
+    ]
+  }
+}

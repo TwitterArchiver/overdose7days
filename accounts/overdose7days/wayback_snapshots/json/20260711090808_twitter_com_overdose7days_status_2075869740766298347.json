@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075869740766298347",
+    "created_at": "2026-07-11T09:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075869740766298347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/overdose7days/status/2075869450008699338",
+          "start": 44,
+          "url": "https://t.co/XiQPC1y3vt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075869740766298347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075869450008699338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是不od就好想死！现实生活已经是一团糟了啊根本不知道从何救起，每天就这样，左右脑互搏 https://t.co/XiQPC1y3vt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075869740766298347",
+        "created_at": "2026-07-11T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075869740766298347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/overdose7days/status/2075869450008699338",
+              "start": 44,
+              "url": "https://t.co/XiQPC1y3vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075869740766298347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075869450008699338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是不od就好想死！现实生活已经是一团糟了啊根本不知道从何救起，每天就这样，左右脑互搏 https://t.co/XiQPC1y3vt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075869450008699338",
+        "created_at": "2026-07-11T09:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075869450008699338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075869450008699338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了我的记忆力不在下降我将控制我的od频率，为了我的耐药不再上升我将控制每次o的剂量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6467,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

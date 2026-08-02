@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2069943782053913037",
+    "created_at": "2026-06-29T11:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071552783116013591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "623135363",
+          "start": 0,
+          "username": "Yuuaeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071552783116013591",
+    "in_reply_to_user_id": "623135363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069943782053913037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuaeii 我也是诶抽电子烟抽多了性冷淡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2069943782053913037",
+        "created_at": "2026-06-29T11:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071552783116013591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "623135363",
+              "start": 0,
+              "username": "Yuuaeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071552783116013591",
+        "in_reply_to_user_id": "623135363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069943782053913037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuaeii 我也是诶抽电子烟抽多了性冷淡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623135363",
+        "conversation_id": "2069943782053913037",
+        "created_at": "2026-06-25T00:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069943782053913037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069943782053913037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1662,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家打气被我爸看到赶出来住酒店公寓好消息是可以直接把长得帅男的带回坏消息是早就性冷淡了对男的任何都湿不起来甚至好想吐好想死我看十几部片为什么都没反应啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 84,
+          "like_count": 4966,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-30T20:59:34.000Z",
+        "description": "🇨🇳🇬🇧 08\n炒股or➕v可私 别来找骂",
+        "id": "623135363",
+        "location": "Anywhere",
+        "name": "ouo",
+        "pinned_tweet_id": "2035176434017476816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889471366061338624/nmlRQwzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 130,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "Yuuaeii",
+        "verified": false
+      }
+    ]
+  }
+}

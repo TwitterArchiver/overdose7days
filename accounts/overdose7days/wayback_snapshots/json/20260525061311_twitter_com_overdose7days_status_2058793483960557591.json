@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058616696378990684",
+    "created_at": "2026-05-25T06:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058793483960557591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1468302486406823937",
+          "start": 0,
+          "username": "nanlty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058793483960557591",
+    "in_reply_to_user_id": "1468302486406823937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058616696378990684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanlty 抽大麻很爽😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058616696378990684",
+        "created_at": "2026-05-25T06:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058793483960557591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1468302486406823937",
+              "start": 0,
+              "username": "nanlty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058793483960557591",
+        "in_reply_to_user_id": "1468302486406823937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058616696378990684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanlty 抽大麻很爽😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468302486406823937",
+        "conversation_id": "2058616696378990684",
+        "created_at": "2026-05-24T18:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058616696378990684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058616696378990684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 221286,
+          "like_count": 327,
+          "quote_count": 9,
+          "reply_count": 176,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我发现抽完大麻之后做爱特别爽 全身骨头都酥了每个地方都很敏感从来没这么敏感过 以前抽完大麻怎么不知道做爱光看电视剧去了 不过抽完大麻看电视剧也很爽不是一种爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 243
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:33:02.000Z",
+        "description": "不聊骚不约炮不卖原味不缺钱不喜欢男的",
+        "id": "1468302486406823937",
+        "name": "nanltyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469822994948059138/70tO5LMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 30,
+          "like_count": 384,
+          "listed_count": 12,
+          "media_count": 26,
+          "tweet_count": 54
+        },
+        "username": "nanlty",
+        "verified": false
+      }
+    ]
+  }
+}

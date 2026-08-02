@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2046136421883527392",
+    "created_at": "2026-04-21T12:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046565860819791899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045022236201918465",
+          "start": 0,
+          "username": "cVPrL20wIa42392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046565860819791899",
+    "in_reply_to_user_id": "2045022236201918465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046136421883527392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cVPrL20wIa42392 或许吧，戒毒是为了更好的复吸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046136412488314880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVWOexbsAAq3Gc.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2046136421883527392",
+        "created_at": "2026-04-21T12:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046565860819791899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046565860819791899",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046136421883527392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 或许吧，戒毒是为了更好的复吸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046136412488314880"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "conversation_id": "2046136421883527392",
+        "created_at": "2026-04-20T07:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046136421883527392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rtzGjrR3z",
+              "end": 160,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2046136421883527392/photo/1",
+              "media_key": "3_2046136412488314880",
+              "start": 137,
+              "url": "https://t.co/6rtzGjrR3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046136421883527392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "初二那年，我第一次碰笑气。\n从最开始的好奇，一支、两支，到后来三盒、一箱。我以为自己能控制，实际上早就被它控制了。\n量越用越大，快感越来越短，身体却一步步垮掉。\n最明显的是神经损伤——左边肩膀到整条手臂，再到手指尖，全是麻木的。那种麻不是压久了的那种，是神经在坏死的感觉。\n甲钴胺当饭吃，一天不敢停，因为知道B12被笑气烧没了，脊髓在受损。\n后来下定决心，把气商的联系方式全删了。不是不想碰，是不敢再碰了。\n就一句话：千万别碰。第一口觉得没事，后面全是深渊。\n所以。。。戒毒是为了更好的复吸？？？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 18966,
+          "like_count": 353,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "初二那年，我第一次碰笑气。\n从最开始的好奇，一支、两支，到后来三盒、一箱。我以为自己能控制，实际上早就被它控制了。\n量越用越大，快感越来越短，身体却一步步垮掉。\n最明显的是神经损伤——左边肩膀到整条手臂，再到手指尖，全是麻木的。那种麻不是压久了的那种，是神经在坏死的感觉。 https://t.co/6rtzGjrR3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 456,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

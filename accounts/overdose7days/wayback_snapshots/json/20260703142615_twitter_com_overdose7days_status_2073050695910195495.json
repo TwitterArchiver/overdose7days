@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073050060452212736"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073050695910195495",
+    "created_at": "2026-07-03T14:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073050695910195495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3J9u1ye6p",
+          "end": 149,
+          "expanded_url": "https://x.com/overdose7days/status/2073050695910195495/photo/1",
+          "media_key": "3_2073050060452212736",
+          "start": 126,
+          "url": "https://t.co/Q3J9u1ye6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073050695910195495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小怜，你长得又帅，歌又好听，还那么年轻，你有大把的时间，真的说放弃就放弃了吗？再说了，你前女友能算什么，论人气知名度各个方面，她有能跟你比的吗？你真的甘心被她在网络上肆意的曝光吗？我相信你可以做出最有力最铿锵的回击！小怜，快出来和她爆了吧！我支持你！ https://t.co/Q3J9u1ye6p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2073050060452212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT0C-bbMAAnRqK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073050060452212736"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073050695910195495",
+        "created_at": "2026-07-03T14:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073050695910195495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3J9u1ye6p",
+              "end": 149,
+              "expanded_url": "https://x.com/overdose7days/status/2073050695910195495/photo/1",
+              "media_key": "3_2073050060452212736",
+              "start": 126,
+              "url": "https://t.co/Q3J9u1ye6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073050695910195495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小怜，你长得又帅，歌又好听，还那么年轻，你有大把的时间，真的说放弃就放弃了吗？再说了，你前女友能算什么，论人气知名度各个方面，她有能跟你比的吗？你真的甘心被她在网络上肆意的曝光吗？我相信你可以做出最有力最铿锵的回击！小怜，快出来和她爆了吧！我支持你！ https://t.co/Q3J9u1ye6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 89,
+          "like_count": 5444,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

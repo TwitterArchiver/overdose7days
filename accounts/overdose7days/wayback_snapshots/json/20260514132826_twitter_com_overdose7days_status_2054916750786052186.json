@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2054873282890117416",
+    "created_at": "2026-05-14T13:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054916750786052186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995802016845889540",
+          "start": 0,
+          "username": "Rirwwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054916750786052186",
+    "in_reply_to_user_id": "1995802016845889540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054873282890117416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rirwwy 爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054873266033160192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRgWShacAASube.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2054873282890117416",
+        "created_at": "2026-05-14T13:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054916750786052186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995802016845889540",
+              "start": 0,
+              "username": "Rirwwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054916750786052186",
+        "in_reply_to_user_id": "1995802016845889540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054873282890117416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rirwwy 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054873266033160192"
+          ]
+        },
+        "author_id": "1995802016845889540",
+        "conversation_id": "2054873282890117416",
+        "created_at": "2026-05-14T10:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054873282890117416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yW5NW9M2fA",
+              "end": 33,
+              "expanded_url": "https://x.com/Rirwwy/status/2054873282890117416/photo/1",
+              "media_key": "3_2054873266033160192",
+              "start": 10,
+              "url": "https://t.co/yW5NW9M2fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054873282890117416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来自闺蜜的赈灾粮🤤 https://t.co/yW5NW9M2fA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 46,
+          "like_count": 2075,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T10:27:46.000Z",
+        "description": "",
+        "id": "1995802016845889540",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050951655232073728/LuNfIuq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "Rirwwy",
+        "verified": false
+      }
+    ]
+  }
+}

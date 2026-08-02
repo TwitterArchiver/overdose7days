@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2056795245220909433",
+    "created_at": "2026-05-21T16:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057502573670858925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842278546577956864",
+          "start": 0,
+          "username": "maoxianbei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057502573670858925",
+    "in_reply_to_user_id": "1842278546577956864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056795245220909433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxianbei 怎么拼团😳你没开私信噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2056795245220909433",
+        "created_at": "2026-05-21T16:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057502573670858925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842278546577956864",
+              "start": 0,
+              "username": "maoxianbei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057502573670858925",
+        "in_reply_to_user_id": "1842278546577956864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056795245220909433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxianbei 怎么拼团😳你没开私信噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842278546577956864",
+        "conversation_id": "2056795245220909433",
+        "created_at": "2026-05-19T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056795245220909433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056795245220909433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有要苯乙胺的嘛，拼团一个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 54,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T19:00:21.000Z",
+        "description": "欢迎找我发癫",
+        "id": "1842278546577956864",
+        "name": "血清素再摄取抑制剂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927767882177421313/xlPgpxT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 374,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "maoxianbei",
+        "verified": false
+      }
+    ]
+  }
+}

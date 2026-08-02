@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058285038488469505"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058178877495898222",
+    "created_at": "2026-05-23T20:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T21:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058285051042058435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676500088221478912",
+          "start": 0,
+          "username": "DOGYeah3376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rZnz8YBmn",
+          "end": 49,
+          "expanded_url": "https://x.com/overdose7days/status/2058285051042058435/photo/1",
+          "media_key": "3_2058285038488469505",
+          "start": 26,
+          "url": "https://t.co/9rZnz8YBmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058285051042058435",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058178877495898222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGYeah3376 好多好多。。普瑞。。。。 https://t.co/9rZnz8YBmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058285038488469505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJB_VlWbQAEp37z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058285038488469505"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058178877495898222",
+        "created_at": "2026-05-23T20:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T21:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058285051042058435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rZnz8YBmn",
+              "end": 49,
+              "expanded_url": "https://x.com/overdose7days/status/2058285051042058435/photo/1",
+              "media_key": "3_2058285038488469505",
+              "start": 26,
+              "url": "https://t.co/9rZnz8YBmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058285051042058435",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178877495898222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 好多好多。。普瑞。。。。 https://t.co/9rZnz8YBmn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676500088221478912",
+        "conversation_id": "2058178877495898222",
+        "created_at": "2026-05-23T13:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058178877495898222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058178877495898222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真的好绝望为什么我他妈有这个门禁卧槽了\n\n我想去跳楼 我好绝望为什么我不能和他们玩 我想吃好多好多pr 我看着别人在外面玩我可嫉妒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 241
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "叫我小皮🪼｜🤓 @Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn4dY3"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "段淡淡",
+        "pinned_tweet_id": "2049680749981540549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009258664000159744/RXGTU1VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1136,
+          "like_count": 75271,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5303
+        },
+        "url": "https://t.co/FCn9Sn4dY3",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

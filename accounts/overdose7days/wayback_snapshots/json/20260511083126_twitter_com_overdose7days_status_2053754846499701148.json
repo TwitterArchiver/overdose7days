@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2053754798714114048"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2053754846499701148",
+    "created_at": "2026-05-11T08:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053754846499701148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gl0RyR9jr5",
+          "end": 23,
+          "expanded_url": "https://x.com/overdose7days/status/2053754846499701148/photo/1",
+          "media_key": "16_2053754798714114048",
+          "start": 0,
+          "url": "https://t.co/Gl0RyR9jr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053754846499701148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Gl0RyR9jr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2053754798714114048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIBnG7Eb0AAYtUB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIBnG7Eb0AAYtUB.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2053754798714114048"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2053754846499701148",
+        "created_at": "2026-05-11T08:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053754846499701148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gl0RyR9jr5",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose7days/status/2053754846499701148/photo/1",
+              "media_key": "16_2053754798714114048",
+              "start": 0,
+              "url": "https://t.co/Gl0RyR9jr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053754846499701148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Gl0RyR9jr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629733449027584/HCCMugRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 41,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 126
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

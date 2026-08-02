@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073847448515252225",
+        "3_2073847448515346432",
+        "3_2073848205419462656"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073804909909094766",
+    "created_at": "2026-07-05T19:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073848333186269637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054233823899160576",
+          "start": 0,
+          "username": "omggggsad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZPi7rIWCr1",
+          "end": 102,
+          "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+          "media_key": "3_2073847448515252225",
+          "start": 79,
+          "url": "https://t.co/ZPi7rIWCr1"
+        },
+        {
+          "display_url": "pic.x.com/ZPi7rIWCr1",
+          "end": 102,
+          "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+          "media_key": "3_2073847448515346432",
+          "start": 79,
+          "url": "https://t.co/ZPi7rIWCr1"
+        },
+        {
+          "display_url": "pic.x.com/ZPi7rIWCr1",
+          "end": 102,
+          "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+          "media_key": "3_2073848205419462656",
+          "start": 79,
+          "url": "https://t.co/ZPi7rIWCr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073848333186269637",
+    "in_reply_to_user_id": "2054233823899160576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073804909909094766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omggggsad 卧槽下下一条就是原帖我在评论区也看到他了哈哈哈哈哈点进主页映入眼帘的简介“19 岁男高正常一点想交友可以加绿泡泡❤️”我真的笑吐血😂😂 https://t.co/ZPi7rIWCr1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073847448515252225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfJREcaEAETmGy.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073847448515346432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfJREcbgAAYimR.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073848205419462656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfJ9IIbwAAYfob.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073804889914748930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeij1TWMAIjswl.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073804889851863040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeij1EWoAAwgFr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073804889851940864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeij1EX0AA3zcm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073847448515252225",
+            "3_2073847448515346432",
+            "3_2073848205419462656"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073804909909094766",
+        "created_at": "2026-07-05T19:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073848333186269637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054233823899160576",
+              "start": 0,
+              "username": "omggggsad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPi7rIWCr1",
+              "end": 102,
+              "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+              "media_key": "3_2073847448515252225",
+              "start": 79,
+              "url": "https://t.co/ZPi7rIWCr1"
+            },
+            {
+              "display_url": "pic.x.com/ZPi7rIWCr1",
+              "end": 102,
+              "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+              "media_key": "3_2073847448515346432",
+              "start": 79,
+              "url": "https://t.co/ZPi7rIWCr1"
+            },
+            {
+              "display_url": "pic.x.com/ZPi7rIWCr1",
+              "end": 102,
+              "expanded_url": "https://x.com/overdose7days/status/2073848333186269637/photo/1",
+              "media_key": "3_2073848205419462656",
+              "start": 79,
+              "url": "https://t.co/ZPi7rIWCr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073848333186269637",
+        "in_reply_to_user_id": "2054233823899160576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073804909909094766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omggggsad 卧槽下下一条就是原帖我在评论区也看到他了哈哈哈哈哈点进主页映入眼帘的简介“19 岁男高正常一点想交友可以加绿泡泡❤️”我真的笑吐血😂😂 https://t.co/ZPi7rIWCr1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073804889914748930",
+            "3_2073804889851863040",
+            "3_2073804889851940864"
+          ]
+        },
+        "author_id": "2054233823899160576",
+        "conversation_id": "2073804909909094766",
+        "created_at": "2026-07-05T16:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073804909909094766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqQnLWCAaC",
+              "end": 54,
+              "expanded_url": "https://x.com/omggggsad/status/2073804909909094766/photo/1",
+              "media_key": "3_2073804889914748930",
+              "start": 31,
+              "url": "https://t.co/dqQnLWCAaC"
+            },
+            {
+              "display_url": "pic.x.com/dqQnLWCAaC",
+              "end": 54,
+              "expanded_url": "https://x.com/omggggsad/status/2073804909909094766/photo/1",
+              "media_key": "3_2073804889851863040",
+              "start": 31,
+              "url": "https://t.co/dqQnLWCAaC"
+            },
+            {
+              "display_url": "pic.x.com/dqQnLWCAaC",
+              "end": 54,
+              "expanded_url": "https://x.com/omggggsad/status/2073804909909094766/photo/1",
+              "media_key": "3_2073804889851940864",
+              "start": 31,
+              "url": "https://t.co/dqQnLWCAaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073804909909094766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个人关注了我然后我偷偷看他主页然后我快笑死了这个小稀奇玩意 https://t.co/dqQnLWCAaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 99,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T16:15:29.000Z",
+        "description": "🚪28 没有任何黄色内容只是加微信好友一起玩哦 可以看朋友圈然后偶尔聊聊天 收门槛是因为我想吃小蛋糕 女孩可以免费加",
+        "id": "2054233823899160576",
+        "name": "当我爱上一个天使的缺点",
+        "pinned_tweet_id": "2073572196090298415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071077099876843520/RZZrmLE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 110,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "omggggsad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081918371340460313",
+    "created_at": "2026-07-28T21:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T22:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082216889787548027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082216889787548027",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081918371340460313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 这种人真适合做朋友☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081918358690390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1t30a4AAMDU5.jpg",
+        "width": 1034
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081918358740664321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1t4AaAAE9MOB.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081918358723907584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR1t38aUAABX5d.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081918371340460313",
+        "created_at": "2026-07-28T21:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082216889787548027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082216889787548027",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081918371340460313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 这种人真适合做朋友☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081918358690390016",
+            "3_2081918358740664321",
+            "3_2081918358723907584"
+          ]
+        },
+        "author_id": "1937988852779536384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081918371340460313",
+        "created_at": "2026-07-28T01:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081918371340460313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufBOxGvTnZ",
+              "end": 86,
+              "expanded_url": "https://x.com/Evienne0929/status/2081918371340460313/photo/1",
+              "media_key": "3_2081918358690390016",
+              "start": 63,
+              "url": "https://t.co/ufBOxGvTnZ"
+            },
+            {
+              "display_url": "pic.x.com/ufBOxGvTnZ",
+              "end": 86,
+              "expanded_url": "https://x.com/Evienne0929/status/2081918371340460313/photo/1",
+              "media_key": "3_2081918358740664321",
+              "start": 63,
+              "url": "https://t.co/ufBOxGvTnZ"
+            },
+            {
+              "display_url": "pic.x.com/ufBOxGvTnZ",
+              "end": 86,
+              "expanded_url": "https://x.com/Evienne0929/status/2081918371340460313/photo/1",
+              "media_key": "3_2081918358723907584",
+              "start": 63,
+              "url": "https://t.co/ufBOxGvTnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081918371340460313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18364,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个好朋友认识两年多了 他对人好温柔呀 很细腻的一个男生 有时候会安慰我什么的 我真的好喜欢他的性格呀 怪不得他朋友好多 https://t.co/ufBOxGvTnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 113,
+          "like_count": 7746,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "当垃圾桶发 眼缘回关 不加微信除非给我送钱 互关除外（）\n匿名消息https://t.co/3Os48v3iPG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evienne38597",
+                "end": 56,
+                "expanded_url": "https://ngl.link/evienne38597",
+                "start": 33,
+                "url": "https://t.co/3Os48v3iPG"
+              }
+            ]
+          }
+        },
+        "id": "1937988852779536384",
+        "name": "小七",
+        "pinned_tweet_id": "2039802347598250227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080142018878337024/C5v2EHVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 54,
+          "like_count": 3806,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "Evienne0929",
+        "verified": false
+      }
+    ]
+  }
+}

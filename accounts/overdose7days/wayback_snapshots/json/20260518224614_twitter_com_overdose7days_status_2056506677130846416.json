@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2056182306981998850",
+    "created_at": "2026-05-18T22:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T23:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056506677130846416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "126581934",
+          "start": 0,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056506677130846416",
+    "in_reply_to_user_id": "126581934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056182306981998850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearemon 这情关我真的过不去啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2056182306981998850",
+        "created_at": "2026-05-18T22:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056506677130846416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056506677130846416",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056182306981998850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 这情关我真的过不去啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "126581934",
+        "conversation_id": "2056182306981998850",
+        "created_at": "2026-05-18T01:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056182306981998850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056182306981998850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "日文裡有一個詞 \n叫做「恋煩い（Koi Wazurai）」 \n\n意思是： \n因為喜歡上一個人， \n開始變得心神不寧。 \n\n你會反覆看聊天紀錄、 \n猜他訊息裡的語氣、 \n明明只是晚回覆一點， \n情緒卻跟著起伏。 \n\n很奇怪的是， \n\n在喜歡一個人之前， \n你其實過得很平靜。￼\n\n可是當那個人出現之後， \n你的世界開始多了一個重心。 \n\n戀煩い不是痛苦。 \n\n它更像是： \n某個人正在慢慢影響你的生活， \n而你也正在慢慢失去 \n原本那種一個人的穩定。￼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 72250,
+          "like_count": 1810,
+          "quote_count": 29,
+          "reply_count": 13,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "日文裡有一個詞 \n叫做「恋煩い（Koi Wazurai）」 \n\n意思是： \n因為喜歡上一個人， \n開始變得心神不寧。 \n\n你會反覆看聊天紀錄、 \n猜他訊息裡的語氣、 \n明明只是晚回覆一點， \n情緒卻跟著起伏。 \n\n很奇怪的是， \n\n在喜歡一個人之前， \n你其實過得很平靜。￼\n\n可是當那個人出現之後，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 53,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 201
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58024,
+          "following_count": 692,
+          "like_count": 5844,
+          "listed_count": 221,
+          "media_count": 29572,
+          "tweet_count": 391504
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

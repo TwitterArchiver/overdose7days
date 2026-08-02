@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2059188372040765690",
+    "created_at": "2026-05-26T13:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059272498387239000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059272498387239000",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059188372040765690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 我在17岁砍了我前任但是没多深也没出啥事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059188362456829952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO059XbkAA9L8w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2059188372040765690",
+        "created_at": "2026-05-26T13:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059272498387239000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059272498387239000",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188372040765690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我在17岁砍了我前任但是没多深也没出啥事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059188362456829952"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059188372040765690",
+        "created_at": "2026-05-26T08:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059188372040765690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wESyR7LMCJ",
+              "end": 40,
+              "expanded_url": "https://x.com/maipianaini0930/status/2059188372040765690/photo/1",
+              "media_key": "3_2059188362456829952",
+              "start": 17,
+              "url": "https://t.co/wESyR7LMCJ"
+            },
+            {
+              "display_url": "x.com/yizhiya9424460…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yizhiya94244606/status/2058766676670177395",
+              "start": 41,
+              "url": "https://t.co/ClK9W2EyvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059188372040765690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 956,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766676670177395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我17岁就差点把人捅死了，也不赖 https://t.co/wESyR7LMCJ https://t.co/ClK9W2EyvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 56,
+          "like_count": 3332,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 267
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 283,
+          "like_count": 9747,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 4082
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

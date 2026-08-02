@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075904622347391369",
+    "created_at": "2026-07-11T11:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075904622347391369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/overdose7days/status/2075902655181041882",
+          "start": 145,
+          "url": "https://t.co/AvkZiUVZ1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075904622347391369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075902655181041882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苯乙胺怎么样？好抑郁啊，，，起不来床，我活不下去了，上一秒想说的话下一秒就忘了，我害怕一个人。身体越来越弱了，总感觉好难受，o得我特别虚又没怎么锻炼确实不太行，家里还有药也吃不了多少，每次试新的都感觉要死了，我会一个人孤独的o死在房间里吗，如果结局是这样，我只希望结局不要bad trip https://t.co/AvkZiUVZ1o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075904622347391369",
+        "created_at": "2026-07-11T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075904622347391369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/overdose7days/status/2075902655181041882",
+              "start": 145,
+              "url": "https://t.co/AvkZiUVZ1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075904622347391369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075902655181041882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苯乙胺怎么样？好抑郁啊，，，起不来床，我活不下去了，上一秒想说的话下一秒就忘了，我害怕一个人。身体越来越弱了，总感觉好难受，o得我特别虚又没怎么锻炼确实不太行，家里还有药也吃不了多少，每次试新的都感觉要死了，我会一个人孤独的o死在房间里吗，如果结局是这样，我只希望结局不要bad trip https://t.co/AvkZiUVZ1o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075902655181041882",
+        "created_at": "2026-07-11T11:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075902655181041882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075902655181041882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈逼说了一万遍回避型依恋不能谈恋爱还是他妈没听进去，我真是个傻逼，唉性压抑了好想抱个男人，其实并非性压抑实则爱无能，好无聊啊想做爱，但是也不想随便找路边的公狗啊，不然再吸点然后自慰怎么样，那样快感应该就差不多了，嗯对，想要催情的，想要钱！想要钱去买药！我要我要我要跳楼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6489,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

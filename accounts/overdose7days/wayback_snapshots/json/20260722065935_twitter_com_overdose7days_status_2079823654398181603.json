@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2079823654398181603",
+    "created_at": "2026-07-22T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079823654398181603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1545050439049064450",
+          "start": 3,
+          "username": "badapple7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079823654398181603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079788274693148707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badapple7788: 药物百科📖现在是谁在负责掌权😡❓算了这不重要🤷‍♂️你知道你们网站💻害了多少人👼吗👊👊👊\n有多少本不了解od💊的普通的推友👥刷到你的帖子🗣️从而去看你的网站💻了解od💊进入od💊圈⭕你们承不承认🙇‍♂️你们在害人😠\n你们获得了🤲本不该🚫属于你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2079823654398181603",
+        "created_at": "2026-07-22T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079823654398181603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1545050439049064450",
+              "start": 3,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079823654398181603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079788274693148707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badapple7788: 药物百科📖现在是谁在负责掌权😡❓算了这不重要🤷‍♂️你知道你们网站💻害了多少人👼吗👊👊👊\n有多少本不了解od💊的普通的推友👥刷到你的帖子🗣️从而去看你的网站💻了解od💊进入od💊圈⭕你们承不承认🙇‍♂️你们在害人😠\n你们获得了🤲本不该🚫属于你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2079788274693148707",
+        "created_at": "2026-07-22T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079788274693148707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079788274693148707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药物百科📖现在是谁在负责掌权😡❓算了这不重要🤷‍♂️你知道你们网站💻害了多少人👼吗👊👊👊\n有多少本不了解od💊的普通的推友👥刷到你的帖子🗣️从而去看你的网站💻了解od💊进入od💊圈⭕你们承不承认🙇‍♂️你们在害人😠\n你们获得了🤲本不该🚫属于你们的流量🙅‍♂️所有wiki都一样👊👊👊\n药物百科1⃣️、pdw2⃣️、fow3⃣️、化百4⃣️、odw5⃣️全都是一群杀人犯‼️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 286,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科📖现在是谁在负责掌权😡❓算了这不重要🤷‍♂️你知道你们网站💻害了多少人👼吗👊👊👊\n有多少本不了解od💊的普通的推友👥刷到你的帖子🗣️从而去看你的网站💻了解od💊进入od💊圈⭕你们承不承认🙇‍♂️你们在害人😠\n你们获得了🤲本不该🚫属于你们的流量🙅‍♂️所有wiki都一样👊👊👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 108,
+          "like_count": 7217,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 293,
+          "like_count": 2874,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1698
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

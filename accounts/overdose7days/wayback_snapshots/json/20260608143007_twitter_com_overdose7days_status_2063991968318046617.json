@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063991957417066496"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2063991968318046617",
+    "created_at": "2026-06-08T14:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063991968318046617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vaRNsBDwIe",
+          "end": 107,
+          "expanded_url": "https://x.com/overdose7days/status/2063991968318046617/photo/1",
+          "media_key": "3_2063991957417066496",
+          "start": 84,
+          "url": "https://t.co/vaRNsBDwIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063991968318046617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起来今年420是我表姐成年生日……那天还是国际大麻日和普瑞愈美离我而去之日，而我那天完全把她抛之脑后拥抱药效了，不过开心的是开出来了能从拼多多买到的最后6盒普瑞 https://t.co/vaRNsBDwIe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2063991957417066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTFv_EbgAA1f3G.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063991957417066496"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2063991968318046617",
+        "created_at": "2026-06-08T14:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063991968318046617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaRNsBDwIe",
+              "end": 107,
+              "expanded_url": "https://x.com/overdose7days/status/2063991968318046617/photo/1",
+              "media_key": "3_2063991957417066496",
+              "start": 84,
+              "url": "https://t.co/vaRNsBDwIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063991968318046617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来今年420是我表姐成年生日……那天还是国际大麻日和普瑞愈美离我而去之日，而我那天完全把她抛之脑后拥抱药效了，不过开心的是开出来了能从拼多多买到的最后6盒普瑞 https://t.co/vaRNsBDwIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 61,
+          "like_count": 4129,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 356
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075902655181041882",
+    "created_at": "2026-07-11T11:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075902655181041882"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075902655181041882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你妈逼说了一万遍回避型依恋不能谈恋爱还是他妈没听进去，我真是个傻逼，唉性压抑了好想抱个男人，其实并非性压抑实则爱无能，好无聊啊想做爱，但是也不想随便找路边的公狗啊，不然再吸点然后自慰怎么样，那样快感应该就差不多了，嗯对，想要催情的，想要钱！想要钱去买药！我要我要我要跳楼！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075902655181041882",
+        "created_at": "2026-07-11T11:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075902655181041882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075902655181041882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈逼说了一万遍回避型依恋不能谈恋爱还是他妈没听进去，我真是个傻逼，唉性压抑了好想抱个男人，其实并非性压抑实则爱无能，好无聊啊想做爱，但是也不想随便找路边的公狗啊，不然再吸点然后自慰怎么样，那样快感应该就差不多了，嗯对，想要催情的，想要钱！想要钱去买药！我要我要我要跳楼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6487,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

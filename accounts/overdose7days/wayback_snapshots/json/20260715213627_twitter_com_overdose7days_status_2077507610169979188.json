@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2077505844074422386",
+    "created_at": "2026-07-15T21:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T22:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077507610169979188"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077507610169979188",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077505844074422386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直只是在强撑着往前走啊，其实没有任何意义，如果不强撑我就活不下去，太痛了，要么麻木要么痛苦，我真的不知道啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2077505844074422386",
+        "created_at": "2026-07-15T21:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077507610169979188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077507610169979188",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077505844074422386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直只是在强撑着往前走啊，其实没有任何意义，如果不强撑我就活不下去，太痛了，要么麻木要么痛苦，我真的不知道啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2077505844074422386",
+        "created_at": "2026-07-15T21:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077505844074422386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077505844074422386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏疼，活着真的累，我实在是处理不好这些，家里的关系，社会的关系，友情爱情亲情都处理不好，真的很难过，很累，什么我都想不起来，不知道是不是磕药磕多了才这样子，但我甚至都想不起来自己磕了多少，我想不起来了，好痛苦。心理疾病好不了，精神病更难，伤到神经了也就没救了，最无法改变的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 104,
+          "like_count": 6732,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

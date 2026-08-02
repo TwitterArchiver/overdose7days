@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058283484624646436",
+    "created_at": "2026-05-23T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058283484624646436"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058283484624646436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好饿。。抽大麻和普瑞都让我好想吃饭我今年比去年胖了这么多都怪我毒瘾太大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058283484624646436",
+        "created_at": "2026-05-23T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058283484624646436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058283484624646436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿。。抽大麻和普瑞都让我好想吃饭我今年比去年胖了这么多都怪我毒瘾太大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 239
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

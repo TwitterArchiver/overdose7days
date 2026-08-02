@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073850720034721925",
+    "created_at": "2026-07-05T19:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073850720034721925"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073850720034721925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前有个朋友问我“要不要去组乐队，你不是会弹钢琴吗？”我才想起来之前还在他面前弹过几首曲子，这个单纯的高考生还真没有意识到我只是在装逼啊，而且现在也已经变成了 因为药物副作用天天手抖会控不好鼠标画不了妆的傻福了，。这双手还怎么练琴啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073850720034721925",
+        "created_at": "2026-07-05T19:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073850720034721925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073850720034721925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前有个朋友问我“要不要去组乐队，你不是会弹钢琴吗？”我才想起来之前还在他面前弹过几首曲子，这个单纯的高考生还真没有意识到我只是在装逼啊，而且现在也已经变成了 因为药物副作用天天手抖会控不好鼠标画不了妆的傻福了，。这双手还怎么练琴啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 99,
+          "like_count": 5732,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

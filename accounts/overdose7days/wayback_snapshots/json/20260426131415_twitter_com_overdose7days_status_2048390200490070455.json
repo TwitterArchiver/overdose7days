@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2048265354691113271",
+    "created_at": "2026-04-26T13:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048390200490070455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954570475792961537",
+          "start": 0,
+          "username": "rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048390200490070455",
+    "in_reply_to_user_id": "1954570475792961537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048265354691113271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainyosora 什么药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2048265354691113271",
+        "created_at": "2026-04-26T13:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048390200490070455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954570475792961537",
+              "start": 0,
+              "username": "rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048390200490070455",
+        "in_reply_to_user_id": "1954570475792961537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048265354691113271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainyosora 什么药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954570475792961537",
+        "conversation_id": "2048265354691113271",
+        "created_at": "2026-04-26T04:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048265354691113271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048265354691113271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 377,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺便一提有一个药跟PR效果很像很安全很好买，但是很贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "下坠",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046539223977934849/7BtIDZCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T15:48:26.000Z",
+        "description": "call me YOSORA | 🇨🇳 | 0verdose｜日本語はまだ勉強中 | 無言フォロ失礼します  | DMしってくれたらし嬉しです | 有信息回复拖延症见谅  |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyyosora1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainyyosora1",
+                "start": 0,
+                "url": "https://t.co/Lic0YPtaUU"
+              }
+            ]
+          }
+        },
+        "id": "1954570475792961537",
+        "location": "中南海，北戴河",
+        "name": "薬井 the YOSORA（互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065795617120257/-bFel9Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 120,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/Lic0YPtaUU",
+        "username": "rainyosora",
+        "verified": false
+      }
+    ]
+  }
+}

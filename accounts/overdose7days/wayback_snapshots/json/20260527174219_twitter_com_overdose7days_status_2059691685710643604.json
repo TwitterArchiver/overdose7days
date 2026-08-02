@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2059658967811608647",
+    "created_at": "2026-05-27T17:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059691685710643604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046088796467519488",
+          "start": 0,
+          "username": "xiaozhiwcx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059691685710643604",
+    "in_reply_to_user_id": "2046088796467519488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059658967811608647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhiwcx 配上这个歌我绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40733,
+        "height": 720,
+        "media_key": "13_2059658876145020928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059658876145020928/img/1aQzeoxAQQin36j0.jpg",
+        "public_metrics": {
+          "view_count": 316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059658876145020928/vid/avc1/480x270/ob9HPsrDkbXhpNvH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059658876145020928/vid/avc1/640x360/mowLt3daOK6waOnT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059658876145020928/vid/avc1/1280x720/C_L7b_ZJ9avsYig8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059658876145020928/pl/Ysox4Ajm_ePYgsDr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2059658967811608647",
+        "created_at": "2026-05-27T17:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059691685710643604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046088796467519488",
+              "start": 0,
+              "username": "xiaozhiwcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059691685710643604",
+        "in_reply_to_user_id": "2046088796467519488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059658967811608647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhiwcx 配上这个歌我绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059658876145020928"
+          ]
+        },
+        "author_id": "2046088796467519488",
+        "conversation_id": "2059658967811608647",
+        "created_at": "2026-05-27T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059658967811608647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFIKQ2adhh",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaozhiwcx/status/2059658967811608647/video/1",
+              "media_key": "13_2059658876145020928",
+              "start": 11,
+              "url": "https://t.co/lFIKQ2adhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059658967811608647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 653,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这是橡胶娃娃特效伤口 https://t.co/lFIKQ2adhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 57,
+          "like_count": 3408,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 284
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T04:50:29.000Z",
+        "description": "",
+        "id": "2046088796467519488",
+        "name": "小栀",
+        "pinned_tweet_id": "2046165096263745810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054473277020741632/B7dsq0Y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 32,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 49
+        },
+        "username": "xiaozhiwcx",
+        "verified": false
+      }
+    ]
+  }
+}

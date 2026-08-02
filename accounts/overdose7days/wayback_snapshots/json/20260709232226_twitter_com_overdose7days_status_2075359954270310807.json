@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075358225223086489",
+    "created_at": "2026-07-09T23:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075359954270310807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1891521961047785472",
+          "start": 0,
+          "username": "vv1zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075359954270310807",
+    "in_reply_to_user_id": "1891521961047785472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075358225223086489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vv1zt 噻耐普丁是什么，之前好像看过b站一个od药物科普视频，里面的压轴药是这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2075358218981883905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0nTfAaQAEP8T-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075358225223086489",
+        "created_at": "2026-07-09T23:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075359954270310807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1891521961047785472",
+              "start": 0,
+              "username": "vv1zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075359954270310807",
+        "in_reply_to_user_id": "1891521961047785472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075358225223086489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vv1zt 噻耐普丁是什么，之前好像看过b站一个od药物科普视频，里面的压轴药是这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075358218981883905"
+          ]
+        },
+        "author_id": "1891521961047785472",
+        "conversation_id": "2075358225223086489",
+        "created_at": "2026-07-09T23:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075358225223086489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UR4nv2iYS2",
+              "end": 25,
+              "expanded_url": "https://x.com/vv1zt/status/2075358225223086489/photo/1",
+              "media_key": "3_2075358218981883905",
+              "start": 2,
+              "url": "https://t.co/UR4nv2iYS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075358225223086489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "败 https://t.co/UR4nv2iYS2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 101,
+          "like_count": 6293,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T16:16:02.000Z",
+        "description": "",
+        "id": "1891521961047785472",
+        "name": "ByMyside970287",
+        "pinned_tweet_id": "2030314906634109340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061029951009329152/nVAfFxwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 16,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "vv1zt",
+        "verified": false
+      }
+    ]
+  }
+}

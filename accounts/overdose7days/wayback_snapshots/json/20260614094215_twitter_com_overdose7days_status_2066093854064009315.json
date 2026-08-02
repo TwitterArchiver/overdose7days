@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2066093854064009315",
+    "created_at": "2026-06-14T09:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066093854064009315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1364200446080913413",
+          "start": 3,
+          "username": "andy88988696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066093854064009315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066028945334829189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andy88988696: 只要碰过一次毒品，就注定会上瘾吗？\n\n网路上常看到这类讨论，许多人深信，因为大脑会记住毒品带来的强烈快感，所以只要尝试过一次，人生就再也停不下来。\n\n然而，如果从现代成瘾医学与神经科学的角度来看，这个说法其实混淆了「大脑的快感记忆」与「行为的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2066093854064009315",
+        "created_at": "2026-06-14T09:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066093854064009315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1364200446080913413",
+              "start": 3,
+              "username": "andy88988696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066093854064009315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066028945334829189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andy88988696: 只要碰过一次毒品，就注定会上瘾吗？\n\n网路上常看到这类讨论，许多人深信，因为大脑会记住毒品带来的强烈快感，所以只要尝试过一次，人生就再也停不下来。\n\n然而，如果从现代成瘾医学与神经科学的角度来看，这个说法其实混淆了「大脑的快感记忆」与「行为的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364200446080913413",
+        "conversation_id": "2066028945334829189",
+        "created_at": "2026-06-14T05:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066028945334829189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066028945334829189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只要碰过一次毒品，就注定会上瘾吗？\n\n网路上常看到这类讨论，许多人深信，因为大脑会记住毒品带来的强烈快感，所以只要尝试过一次，人生就再也停不下来。\n\n然而，如果从现代成瘾医学与神经科学的角度来看，这个说法其实混淆了「大脑的快感记忆」与「行为的失去控制」。\n\n医学实证，没有任何物质能「一次夺走控制权」\n\n首先，从统计学与临床医学来看，世界上并不存在「只要碰一次，成瘾率就是 100%」的物质。\n\n研究指出，即便是公认成瘾性极高的物质（如海洛因或高纯度结晶安非他命），在初次尝试的人群中，最终真正发展出精神依赖与成瘾行为的比例，大约落在 20% 到 35% 之间。\n\n这意味着，物质本身虽然具备高成瘾性，但它并不是唯一的决定因素。\n\n一个人会不会从「尝试」走向「成瘾」，更关键的催化剂往往是他的基因表现、长期累积的心理创伤、当下的生活压力，以及是否缺乏核心的社交支持系统。\n\n娱乐性使用与成瘾的本质区别\n\n如果一个人在客观上具备完全的自控力，例如「一年只在特定长假时使用一到两次」，且平时的工作、生活、家庭与人际关係都极为正常，在不使用的期间也不会感到焦虑、痛苦或强烈渴求\n\n这在医学上会被归类为「实验性使用」或「娱乐性使用」。\n\n这种情况在客观上并不能被定义为「瘾」。\n\n这就像某些人一年只在应酬时抽两次菸、在特定节庆喝两次酒一样。\n\n在这类行为中，意志的主导权依然掌握在「人」的手中，而不是被「物质」绑架。\n\n为什么大众普遍深信「一碰就毁一生」？\n\n这种认知上的落差，主要来自以下两个核心原因：\n\n策略性的恐吓教育：\n\n为了在公共卫生层面保护大众（特别是心智尚未成熟的青少年），反毒宣导往往会採用最绝对、最严厉的恐吓式字眼来筑起防线。\n\n从预防医学的角度来看，这种做法有其必要性，因为多数人并不知道自己是否具备对抗成瘾的基因或心理韧性。\n\n倖存者偏差的认知\n\n我们在新闻媒体或日常生活中看到的，几乎全都是那些已经成瘾、失控、生活脱轨的极端案例。\n\n相反地，那些一年只用一两次、生活完全不受影响的人，既不会被社会看见，也绝不可能主动向外透露。\n\n这种资讯的不对称，加深了物质「绝对失控」的刻板印象。\n\n大脑对快感有记忆是生物本能，但这并不等同于自控力的全面崩溃。\n\n成瘾与否的关键，从来都不仅仅在于物质本身，而是在于使用者的「使用频率」、「控制能力」，以及该行为是否已经对现实生活造成实质的破坏。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1132,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "只要碰过一次毒品，就注定会上瘾吗？\n\n网路上常看到这类讨论，许多人深信，因为大脑会记住毒品带来的强烈快感，所以只要尝试过一次，人生就再也停不下来。\n\n然而，如果从现代成瘾医学与神经科学的角度来看，这个说法其实混淆了「大脑的快感记忆」与「行为的失去控制」。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 66,
+          "like_count": 4468,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 387
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T13:08:34.000Z",
+        "description": "医学生｜医学中心实习中\n把複杂的身体科学讲简单\n性生理・两性关係・日常保养・生活迷思\n实证为本＋落地建议\n欢迎私讯投稿你的疑问或尴尬事（匿名发文）\n仅供参考，不构成医疗建议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0CJB1XqgoCQ4Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0CJB1XqgoCQ4YTBl",
+                "start": 0,
+                "url": "https://t.co/FVQcSOlSWY"
+              }
+            ]
+          }
+        },
+        "id": "1364200446080913413",
+        "name": "迷思拆解_Panda🐼🐼",
+        "pinned_tweet_id": "2065602256180064700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897447830480097280/q4Do2mUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27816,
+          "following_count": 1965,
+          "like_count": 18983,
+          "listed_count": 86,
+          "media_count": 980,
+          "tweet_count": 17186
+        },
+        "url": "https://t.co/FVQcSOlSWY",
+        "username": "andy88988696",
+        "verified": true
+      }
+    ]
+  }
+}

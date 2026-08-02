@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058797220007403610",
+    "created_at": "2026-05-25T06:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058797220007403610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2046538614209994752",
+          "start": 3,
+          "username": "overdose7days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058797220007403610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046997129756053829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose7days: 戒毒只是为了更好的复吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058797220007403610",
+        "created_at": "2026-05-25T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058797220007403610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2046538614209994752",
+              "start": 3,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058797220007403610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046997129756053829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose7days: 戒毒只是为了更好的复吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2046997129756053829",
+        "created_at": "2026-04-22T16:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046997129756053829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046997129756053829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "戒毒只是为了更好的复吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 245
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

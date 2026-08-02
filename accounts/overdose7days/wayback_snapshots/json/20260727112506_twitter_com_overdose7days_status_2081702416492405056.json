@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081702416492405056",
+    "created_at": "2026-07-27T11:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081702416492405056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "kuroki___tomoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081702416492405056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081158355226443793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroki___tomoko: 我喜欢美雪，喜欢她疯狂诉说爱意的崩溃和激越 喜欢她生活里随处可见的深深的不安 喜欢她拼命挽回占有的暴力和卑微 喜欢她的感情被随意丢弃后的憎恨 喜欢她日记里逻辑混乱不能自制的痛苦的那些文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081702416492405056",
+        "created_at": "2026-07-27T11:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081702416492405056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081702416492405056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081158355226443793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroki___tomoko: 我喜欢美雪，喜欢她疯狂诉说爱意的崩溃和激越 喜欢她生活里随处可见的深深的不安 喜欢她拼命挽回占有的暴力和卑微 喜欢她的感情被随意丢弃后的憎恨 喜欢她日记里逻辑混乱不能自制的痛苦的那些文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2081158355226443793",
+        "created_at": "2026-07-25T23:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081158355226443793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroki___tomok…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/kuroki___tomoko/status/2081055428797251980",
+              "start": 94,
+              "url": "https://t.co/pF2EvJI0Ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081158355226443793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 997,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081055428797251980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢美雪，喜欢她疯狂诉说爱意的崩溃和激越 喜欢她生活里随处可见的深深的不安 喜欢她拼命挽回占有的暴力和卑微 喜欢她的感情被随意丢弃后的憎恨 喜欢她日记里逻辑混乱不能自制的痛苦的那些文字 https://t.co/pF2EvJI0Ow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 111,
+          "like_count": 7656,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 2965,
+          "like_count": 55544,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 5017
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

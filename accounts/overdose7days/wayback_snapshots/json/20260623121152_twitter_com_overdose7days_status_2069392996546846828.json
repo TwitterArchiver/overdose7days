@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069356663040253952",
+        "3_2069356675392532481"
+      ],
+      "media_source_tweet_id": [
+        "2069356686641713443",
+        "2069356686641713443"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2069392996546846828",
+    "created_at": "2026-06-23T12:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069392996546846828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476198137589268480",
+          "start": 3,
+          "username": "N3kuv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BdMjQNt6TS",
+          "end": 107,
+          "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+          "media_key": "3_2069356663040253952",
+          "start": 84,
+          "url": "https://t.co/BdMjQNt6TS"
+        },
+        {
+          "display_url": "pic.x.com/BdMjQNt6TS",
+          "end": 107,
+          "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+          "media_key": "3_2069356675392532481",
+          "start": 84,
+          "url": "https://t.co/BdMjQNt6TS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069392996546846828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069356686641713443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N3kuv: 温馨提示：PCP及其衍生物是策划药常见成分，氯胺酮也是PCP的衍生物，但PCP的神经毒性要比氯胺酮强。不建议长期使用PCP主要是因为其成瘾性极强 https://t.co/BdMjQNt6TS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2069356663040253952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfU684aIAATth2.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2069356675392532481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfU7q5a8AEpfyT.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069356663040253952",
+            "3_2069356675392532481"
+          ],
+          "media_source_tweet_id": [
+            "2069356686641713443",
+            "2069356686641713443"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2069392996546846828",
+        "created_at": "2026-06-23T12:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069392996546846828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476198137589268480",
+              "start": 3,
+              "username": "N3kuv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdMjQNt6TS",
+              "end": 107,
+              "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+              "media_key": "3_2069356663040253952",
+              "start": 84,
+              "url": "https://t.co/BdMjQNt6TS"
+            },
+            {
+              "display_url": "pic.x.com/BdMjQNt6TS",
+              "end": 107,
+              "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+              "media_key": "3_2069356675392532481",
+              "start": 84,
+              "url": "https://t.co/BdMjQNt6TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069392996546846828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069356686641713443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N3kuv: 温馨提示：PCP及其衍生物是策划药常见成分，氯胺酮也是PCP的衍生物，但PCP的神经毒性要比氯胺酮强。不建议长期使用PCP主要是因为其成瘾性极强 https://t.co/BdMjQNt6TS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069356663040253952",
+            "3_2069356675392532481"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2069356686641713443",
+        "created_at": "2026-06-23T09:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069356686641713443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdMjQNt6TS",
+              "end": 96,
+              "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+              "media_key": "3_2069356663040253952",
+              "start": 73,
+              "url": "https://t.co/BdMjQNt6TS"
+            },
+            {
+              "display_url": "pic.x.com/BdMjQNt6TS",
+              "end": 96,
+              "expanded_url": "https://x.com/N3kuv/status/2069356686641713443/photo/1",
+              "media_key": "3_2069356675392532481",
+              "start": 73,
+              "url": "https://t.co/BdMjQNt6TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069356686641713443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 145,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示：PCP及其衍生物是策划药常见成分，氯胺酮也是PCP的衍生物，但PCP的神经毒性要比氯胺酮强。不建议长期使用PCP主要是因为其成瘾性极强 https://t.co/BdMjQNt6TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 75,
+          "like_count": 4703,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068637245763174400/reRLmemx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 470,
+          "like_count": 5209,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

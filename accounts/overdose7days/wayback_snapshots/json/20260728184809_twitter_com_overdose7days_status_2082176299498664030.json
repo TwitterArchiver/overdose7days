@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2082176299498664030",
+    "created_at": "2026-07-28T18:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082176299498664030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maorou_k8m/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/maorou_k8m/status/2082164057717821527",
+          "start": 43,
+          "url": "https://t.co/fI7XqtxO4s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082176299498664030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082164057717821527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想死呀！可是忍不住伤害自己和身边人，我还以为做到不割手就能得到和你们相同的人生呢 https://t.co/fI7XqtxO4s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2082176299498664030",
+        "created_at": "2026-07-28T18:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082176299498664030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maorou_k8m/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/maorou_k8m/status/2082164057717821527",
+              "start": 43,
+              "url": "https://t.co/fI7XqtxO4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082176299498664030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082164057717821527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想死呀！可是忍不住伤害自己和身边人，我还以为做到不割手就能得到和你们相同的人生呢 https://t.co/fI7XqtxO4s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699421377520951296",
+        "conversation_id": "2082164057717821527",
+        "created_at": "2026-07-28T17:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082164057717821527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082164057717821527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3839,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想死咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 113,
+          "like_count": 7727,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "谢谢你们喜欢我 本人x有两个账号 并且第二个账号只关注了此账号一个人！\n 请叫我民子♡人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/净身高172 （穿鞋子180\n交朋友门槛：998/1314/5200zfb口令红包带姓 接绿色线下陪玩 只玩X/ins 禁止搬运\n快来找我玩吧(//∇//)ಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/maorou_k8m",
+                "end": 23,
+                "expanded_url": "https://link.me/maorou_k8m",
+                "start": 0,
+                "url": "https://t.co/bvlwJ8ThzX"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "所有本人账户在这里→",
+        "name": "樁山民子",
+        "pinned_tweet_id": "2008874213504094212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072018720705384448/HZRpTAPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332908,
+          "following_count": 41,
+          "like_count": 600,
+          "listed_count": 778,
+          "media_count": 687,
+          "tweet_count": 4503
+        },
+        "url": "https://t.co/bvlwJ8ThzX",
+        "username": "Maorou_K8M",
+        "verified": true
+      }
+    ]
+  }
+}

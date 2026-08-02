@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2065939719637311662",
+    "created_at": "2026-06-13T23:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065939719637311662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065939719637311662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡醒即断片，我真的想知道抽了替来我做过多少傻事可我甚至无法想起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2065939719637311662",
+        "created_at": "2026-06-13T23:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065939719637311662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065939719637311662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒即断片，我真的想知道抽了替来我做过多少傻事可我甚至无法想起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 66,
+          "like_count": 4416,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 376
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

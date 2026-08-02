@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075900512717926713",
+    "created_at": "2026-07-11T11:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075900512717926713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994464181899452416",
+          "start": 3,
+          "username": "he888cute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075900512717926713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075619145635524641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @he888cute: 小時候覺得自殘的人很可怕，休學的人很不在乎以後，覺得家暴什麼的一輩子不會出現在自己身上，覺得想要自殺的人很嚇人，到頭來這些都變成了我自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075900512717926713",
+        "created_at": "2026-07-11T11:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075900512717926713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994464181899452416",
+              "start": 3,
+              "username": "he888cute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075900512717926713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075619145635524641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @he888cute: 小時候覺得自殘的人很可怕，休學的人很不在乎以後，覺得家暴什麼的一輩子不會出現在自己身上，覺得想要自殺的人很嚇人，到頭來這些都變成了我自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994464181899452416",
+        "conversation_id": "2075619145635524641",
+        "created_at": "2026-07-10T16:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075619145635524641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075619145635524641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7566,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "小時候覺得自殘的人很可怕，休學的人很不在乎以後，覺得家暴什麼的一輩子不會出現在自己身上，覺得想要自殺的人很嚇人，到頭來這些都變成了我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 105,
+          "like_count": 6484,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T17:51:45.000Z",
+        "description": "",
+        "id": "1994464181899452416",
+        "name": "眼泪流不尽悲哀",
+        "pinned_tweet_id": "2020021222453702757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073050791729086465/VKg8wBVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 0,
+          "like_count": 3472,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "he888cute",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058283245847167356",
+    "created_at": "2026-05-23T20:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T21:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058283245847167356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058283245847167356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上次飞叶子飞完我吃完78块钱的烧烤，这次飞完我真的好想吃麦当劳的薯条😭我已经在106斤保持了三四天了都怪这叶子让我控制不住食欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058283245847167356",
+        "created_at": "2026-05-23T20:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T21:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058283245847167356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058283245847167356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次飞叶子飞完我吃完78块钱的烧烤，这次飞完我真的好想吃麦当劳的薯条😭我已经在106斤保持了三四天了都怪这叶子让我控制不住食欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 238
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

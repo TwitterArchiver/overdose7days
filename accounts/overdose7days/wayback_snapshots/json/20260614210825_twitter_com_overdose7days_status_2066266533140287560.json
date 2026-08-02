@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066266467772088320"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2066266533140287560",
+    "created_at": "2026-06-14T21:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066266533140287560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ej1kRTuJ9j",
+          "end": 23,
+          "expanded_url": "https://x.com/overdose7days/status/2066266533140287560/video/1",
+          "media_key": "13_2066266467772088320",
+          "start": 0,
+          "url": "https://t.co/ej1kRTuJ9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066266533140287560",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ej1kRTuJ9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5366,
+        "height": 718,
+        "media_key": "13_2066266467772088320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066266467772088320/img/H3E5wfr7-y8kW6u9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066266467772088320/vid/avc1/480x270/ZvwHgpJL65EDXs2J.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066266467772088320/vid/avc1/640x360/Zf7win_6wyrok_Yo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066266467772088320/vid/avc1/1280x718/4I_vyMY9BUMO5fv3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066266467772088320/pl/l2j3O0n2t8HRzOWK.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066266467772088320"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2066266533140287560",
+        "created_at": "2026-06-14T21:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066266533140287560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ej1kRTuJ9j",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose7days/status/2066266533140287560/video/1",
+              "media_key": "13_2066266467772088320",
+              "start": 0,
+              "url": "https://t.co/ej1kRTuJ9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066266533140287560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ej1kRTuJ9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063855597511204864/kOP_GTdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 67,
+          "like_count": 4516,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 392
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

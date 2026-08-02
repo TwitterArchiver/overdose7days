@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081951770561974709",
+    "created_at": "2026-07-28T17:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082155161460633871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049825381465939968",
+          "start": 0,
+          "username": "Zhimayyy06122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082155161460633871",
+    "in_reply_to_user_id": "2049825381465939968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081951770561974709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhimayyy06122 展示我的玉腿🦵🦵🦵😏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081951758968877056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSUGBjW8AAs1C8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081951770561974709",
+        "created_at": "2026-07-28T17:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082155161460633871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049825381465939968",
+              "start": 0,
+              "username": "Zhimayyy06122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082155161460633871",
+        "in_reply_to_user_id": "2049825381465939968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081951770561974709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhimayyy06122 展示我的玉腿🦵🦵🦵😏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081951758968877056"
+          ]
+        },
+        "author_id": "2049825381465939968",
+        "conversation_id": "2081951770561974709",
+        "created_at": "2026-07-28T03:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081951770561974709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkgr4mJ29t",
+              "end": 27,
+              "expanded_url": "https://x.com/Zhimayyy06122/status/2081951770561974709/photo/1",
+              "media_key": "3_2081951758968877056",
+              "start": 4,
+              "url": "https://t.co/tkgr4mJ29t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081951770561974709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甜甜的 https://t.co/tkgr4mJ29t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 113,
+          "like_count": 7721,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T12:19:54.000Z",
+        "description": "叫我芝麻就好\n我也不知道我在干什么😳喜欢友善的人\n单纯性欲强喜欢逃避现实随便发牢骚\n可以找我玩啦啦啦啦",
+        "id": "2049825381465939968",
+        "name": "zhima",
+        "pinned_tweet_id": "2051983359228731554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050990858670059520/QcZk4Y8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 23,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Zhimayyy06122",
+        "verified": false
+      }
+    ]
+  }
+}

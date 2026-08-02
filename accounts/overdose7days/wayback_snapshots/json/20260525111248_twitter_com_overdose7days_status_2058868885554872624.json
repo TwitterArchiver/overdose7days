@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2058808902066782439",
+    "created_at": "2026-05-25T11:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058868885554872624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872813701159411712",
+          "start": 0,
+          "username": "mamgo347785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058868885554872624",
+    "in_reply_to_user_id": "1872813701159411712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058808902066782439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamgo347785 你抽替来吗😳我以前抽替来手就是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16733,
+        "height": 1280,
+        "media_key": "13_2058808831069835265",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058808831069835265/img/hk7sQT9ZFf7AbpMt.jpg",
+        "public_metrics": {
+          "view_count": 969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058808831069835265/vid/avc1/320x568/46b4_m79lu8y1p7x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058808831069835265/vid/avc1/480x852/YgcpDD-_rEhRnvyH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058808831069835265/vid/avc1/720x1280/RJQ50jeEzJp9CKc-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058808831069835265/pl/z4Q6hifi9XOWvxc_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2058808902066782439",
+        "created_at": "2026-05-25T11:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058868885554872624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872813701159411712",
+              "start": 0,
+              "username": "mamgo347785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058868885554872624",
+        "in_reply_to_user_id": "1872813701159411712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058808902066782439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamgo347785 你抽替来吗😳我以前抽替来手就是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058808831069835265"
+          ]
+        },
+        "author_id": "1872813701159411712",
+        "conversation_id": "2058808902066782439",
+        "created_at": "2026-05-25T07:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058808902066782439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lu6PO15jv",
+              "end": 51,
+              "expanded_url": "https://x.com/mamgo347785/status/2058808902066782439/video/1",
+              "media_key": "13_2058808831069835265",
+              "start": 28,
+              "url": "https://t.co/5lu6PO15jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058808902066782439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2299,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人知道这是怎么了。出院了就开始抖，手机打字也抖， https://t.co/5lu6PO15jv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 54,
+          "like_count": 3275,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 253
+        },
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:16:03.000Z",
+        "description": "可以叫我芒果或者玛丽鱼",
+        "id": "1872813701159411712",
+        "name": "ma mgo",
+        "pinned_tweet_id": "2011105271574372627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051459135775158272/2O8PbP43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 194,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1414
+        },
+        "username": "mamgo347785",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2073098480764268597",
+    "created_at": "2026-07-03T20:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073148651258728949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063564638328147968",
+          "start": 0,
+          "username": "frontier_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073148651258728949",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073098480764268597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frontier_tut 你咋知道每次磕药我都喜欢在家里穿好看衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073098477320708097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUgFNUaoAETETZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073098476515479552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUgFKUb0AAqSqS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2073098480764268597",
+        "created_at": "2026-07-03T20:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073148651258728949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073148651258728949",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073098480764268597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut 你咋知道每次磕药我都喜欢在家里穿好看衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073098477320708097",
+            "3_2073098476515479552"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073098480764268597",
+        "created_at": "2026-07-03T17:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073098480764268597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzFi1wyyqH",
+              "end": 40,
+              "expanded_url": "https://x.com/frontier_tut/status/2073098480764268597/photo/1",
+              "media_key": "3_2073098477320708097",
+              "start": 17,
+              "url": "https://t.co/lzFi1wyyqH"
+            },
+            {
+              "display_url": "pic.x.com/lzFi1wyyqH",
+              "end": 40,
+              "expanded_url": "https://x.com/frontier_tut/status/2073098480764268597/photo/1",
+              "media_key": "3_2073098476515479552",
+              "start": 17,
+              "url": "https://t.co/lzFi1wyyqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073098480764268597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能拒绝穿着可爱的衣服在深夜飞行 https://t.co/lzFi1wyyqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 90,
+          "like_count": 5477,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 179,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

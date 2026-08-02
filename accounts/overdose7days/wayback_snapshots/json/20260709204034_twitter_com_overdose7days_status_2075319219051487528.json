@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2075319219051487528",
+    "created_at": "2026-07-09T20:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T21:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075319219051487528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/babysnakeviole…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/babysnakeviolet/status/2075245261165916204",
+          "start": 89,
+          "url": "https://t.co/JztYH4gcYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075319219051487528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075245261165916204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是我对象希望我吸毒磕药，我会觉得他太自甘堕落而且会拉着我和他一起堕落从而分手；要是我对象不希望我吸毒磕药，我会觉得他太健全太上进跟我一点都不相配从而分手，唉所以我是爱无能😖😖 https://t.co/JztYH4gcYc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2075319219051487528",
+        "created_at": "2026-07-09T20:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T21:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075319219051487528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/babysnakeviole…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/babysnakeviolet/status/2075245261165916204",
+              "start": 89,
+              "url": "https://t.co/JztYH4gcYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075319219051487528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075245261165916204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是我对象希望我吸毒磕药，我会觉得他太自甘堕落而且会拉着我和他一起堕落从而分手；要是我对象不希望我吸毒磕药，我会觉得他太健全太上进跟我一点都不相配从而分手，唉所以我是爱无能😖😖 https://t.co/JztYH4gcYc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2075245261165916204",
+        "created_at": "2026-07-09T15:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075245261165916204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075245261165916204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉这个毛子让我很失望，他后面居然说出了希望我xd或者嗑药这种话，只因为我磕药了性格会更外向😂我就因为这句话冷暴力他不想理他了不出所料提分手了他还注销微信了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 101,
+          "like_count": 6280,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 618,
+          "like_count": 2839,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

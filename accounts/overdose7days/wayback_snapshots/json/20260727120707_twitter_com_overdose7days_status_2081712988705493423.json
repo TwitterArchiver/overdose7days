@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2081712988705493423",
+    "created_at": "2026-07-27T12:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081712988705493423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/overdose7days/status/2081689673517367750",
+          "start": 15,
+          "url": "https://t.co/3JeooDU8PG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081712988705493423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081689673517367750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "磕药，到管子，边磕药边到管子 https://t.co/3JeooDU8PG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081712988705493423",
+        "created_at": "2026-07-27T12:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081712988705493423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/overdose7days/status/2081689673517367750",
+              "start": 15,
+              "url": "https://t.co/3JeooDU8PG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081712988705493423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081689673517367750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "磕药，到管子，边磕药边到管子 https://t.co/3JeooDU8PG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2081689673517367750",
+        "created_at": "2026-07-27T10:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081689673517367750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081689673517367750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想每天呆在家里什么也不用干多巴胺就能从脑子里冒出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 111,
+          "like_count": 7664,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

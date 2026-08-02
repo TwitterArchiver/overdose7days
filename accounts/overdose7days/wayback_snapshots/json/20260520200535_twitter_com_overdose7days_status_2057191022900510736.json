@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2057191022900510736",
+    "created_at": "2026-05-20T20:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057191022900510736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057191022900510736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我自己也不具备经营长期关系的能力吧……好想死但是没办法那种东西我学不会啊我也很想跟一个人一直在一起的但是我从小到大都搞不懂人类的心理啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2057191022900510736",
+        "created_at": "2026-05-20T20:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057191022900510736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057191022900510736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我自己也不具备经营长期关系的能力吧……好想死但是没办法那种东西我学不会啊我也很想跟一个人一直在一起的但是我从小到大都搞不懂人类的心理啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "本质毒虫",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "高岗由佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056090868738850816/ST5eQyg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 55,
+          "like_count": 2854,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 217
+        },
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}
