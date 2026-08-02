@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:34:42",
+  "last_updated": "2026-08-02T10:36:58",
   "html": {
     "https://web.archive.org/web/20260421122459if_/https://twitter.com/overdose7days/status/2046565860819791899": {
       "status": "done",
@@ -5331,9 +5331,9 @@
       "referenced_by": [
         "20260509174007_twitter_com_overdose7days_status_2053168148757823852.json"
       ],
-      "last_updated": "2026-08-02T10:23:58",
+      "last_updated": "2026-08-02T10:36:48",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260509174007/https://video.twimg.com/tweet_video/HH5RgrVakAAhVAB.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HIBnG7Eb0AAYtUB.mp4": {
       "status": "done",
@@ -5361,9 +5361,9 @@
       "referenced_by": [
         "20260527174219_twitter_com_overdose7days_status_2059691685710643604.json"
       ],
-      "last_updated": "2026-08-02T10:23:59",
+      "last_updated": "2026-08-02T10:36:54",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260603192141/https://video.twimg.com/amplify_video/2059658876145020928/vid/avc1/1280x720/C_L7b_ZJ9avsYig8.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2057030005658669056/vid/avc1/720x720/R8mjoBMbXNpE6n7P.mp4": {
       "status": "done",
@@ -5408,13 +5408,13 @@
       "last_updated": "2026-08-02T04:51:43"
     },
     "https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/720x1280/Z5In2T4ksl3Zp5ql.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260709085232_twitter_com_overdose7days_status_2075141038633816071.json"
       ],
-      "last_updated": "2026-08-02T04:51:45",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260709085232/https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/720x1280/Z5In2T4ksl3Zp5ql.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-08-02T10:36:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260709085232im_/https://video.twimg.com/ext_tw_video/2075136465114386432/pu/vid/avc1/720x1280/Z5In2T4ksl3Zp5ql.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb55262b200>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2074445267676610560/vid/avc1/1706x1920/sPrnvQdM8l8aieRR.mp4": {
       "status": "done",
@@ -17268,7 +17268,7 @@
       "last_updated": "2026-08-02T05:00:40"
     },
     "20260709085232_twitter_com_overdose7days_status_2075141038633816071.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -17279,7 +17279,7 @@
           "https://pbs.twimg.com/profile_images/2073004139844673536/q4ppJQeZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T05:00:42"
+      "last_updated": "2026-08-02T10:36:58"
     },
     "20260709090213_twitter_com_overdose7days_status_2075143475587383318.json": {
       "status": "done",
