@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2088146163170000925",
+    "created_at": "2026-08-14T18:27:15.000Z",
+    "display_text_range": [
+      33,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088331635087614092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679471976669396994",
+          "start": 0,
+          "username": "jinhuameinanzi"
+        },
+        {
+          "end": 32,
+          "id": "2009907458530258945",
+          "start": 16,
+          "username": "cOniqGBygQ16927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088331635087614092",
+    "in_reply_to_user_id": "1679471976669396994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088151736687206462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinhuameinanzi @cOniqGBygQ16927 好难受啊想起初恋我就开始热泪盈眶泪眼婆娑哭哭啼啼真他妈想回去逃避现实啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2088146163170000925",
+        "created_at": "2026-08-14T18:27:15.000Z",
+        "display_text_range": [
+          33,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088331635087614092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679471976669396994",
+              "start": 0,
+              "username": "jinhuameinanzi"
+            },
+            {
+              "end": 32,
+              "id": "2009907458530258945",
+              "start": 16,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088331635087614092",
+        "in_reply_to_user_id": "1679471976669396994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088151736687206462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinhuameinanzi @cOniqGBygQ16927 好难受啊想起初恋我就开始热泪盈眶泪眼婆娑哭哭啼啼真他妈想回去逃避现实啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679471976669396994",
+        "conversation_id": "2088146163170000925",
+        "created_at": "2026-08-14T06:32:24.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088151736687206462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009907458530258945",
+              "start": 0,
+              "username": "cOniqGBygQ16927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088151736687206462",
+        "in_reply_to_user_id": "2009907458530258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3031,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088146163170000925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cOniqGBygQ16927 之前和初恋第一次在大街上牵手翘着走路😭找个角落给别在腰带上才行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2088331635087614092",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 115,
+          "like_count": 8447,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-13T12:45:08.000Z",
+        "description": "喜喜：“你这是怎么了？”",
+        "id": "1679471976669396994",
+        "is_identity_verified": false,
+        "location": "中国，浙江，潮汕",
+        "most_recent_tweet_id": "2088266125339705446",
+        "name": "寻扬历险记",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679471976669396994/1786470081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679472096479674368/YSxXHcYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 211,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "jinhuameinanzi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088299779864367195",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009907458530258945/1771914226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 17,
+          "like_count": 1689,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1768
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

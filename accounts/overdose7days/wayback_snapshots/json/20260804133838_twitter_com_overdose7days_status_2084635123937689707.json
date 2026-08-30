@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084635123937689707",
+    "created_at": "2026-08-04T13:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084635123937689707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084635123937689707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你的低精力回避型od女友，在一起前对你温柔体贴善解人意，相恋之后才发现相处模式全靠我药效支撑，吃了普瑞就性欲大发想亲亲抱抱举高高，解离解多了就性冷淡没力气维护任何关系，下机了无聊给你发点莫名其妙的梗图，心情不好玩消失，你上了一天班回家一看我磕药磕嗨了改花刀家里血流成河"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084635123937689707",
+        "created_at": "2026-08-04T13:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084635123937689707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084635123937689707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的低精力回避型od女友，在一起前对你温柔体贴善解人意，相恋之后才发现相处模式全靠我药效支撑，吃了普瑞就性欲大发想亲亲抱抱举高高，解离解多了就性冷淡没力气维护任何关系，下机了无聊给你发点莫名其妙的梗图，心情不好玩消失，你上了一天班回家一看我磕药磕嗨了改花刀家里血流成河"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 115,
+          "like_count": 7952,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

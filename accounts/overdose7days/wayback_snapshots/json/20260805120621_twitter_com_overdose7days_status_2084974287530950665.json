@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084974287530950665",
+    "created_at": "2026-08-05T12:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084974287530950665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084974287530950665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084668753498001571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 五高的凉风吹过身边\n解离的药效熄灭昨天\n想念你天真无邪笑颜\n回头你却早就已经走远\n 滥用的生活每天重演\n每一天都像昨日重现\n路灯矗立街边依旧耀眼\n黯淡我的躯体绝望的从前\n药师和oder换又换\n我举着手机看了又看\n随行的伙伴无人在\n他们早已把人生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084974287530950665",
+        "created_at": "2026-08-05T12:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974287530950665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084974287530950665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084668753498001571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 五高的凉风吹过身边\n解离的药效熄灭昨天\n想念你天真无邪笑颜\n回头你却早就已经走远\n 滥用的生活每天重演\n每一天都像昨日重现\n路灯矗立街边依旧耀眼\n黯淡我的躯体绝望的从前\n药师和oder换又换\n我举着手机看了又看\n随行的伙伴无人在\n他们早已把人生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2084668753498001571",
+        "created_at": "2026-08-04T15:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084668753498001571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084668753498001571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "五高的凉风吹过身边\n解离的药效熄灭昨天\n想念你天真无邪笑颜\n回头你却早就已经走远\n 滥用的生活每天重演\n每一天都像昨日重现\n路灯矗立街边依旧耀眼\n黯淡我的躯体绝望的从前\n药师和oder换又换\n我举着手机看了又看\n随行的伙伴无人在\n他们早已把人生卸载"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 116,
+          "like_count": 8002,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 315,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

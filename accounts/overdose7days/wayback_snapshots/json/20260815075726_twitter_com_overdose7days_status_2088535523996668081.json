@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2088535523996668081",
+    "created_at": "2026-08-15T07:57:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088535523996668081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1169174984389885952",
+          "start": 3,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088535523996668081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088261487643296009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angel_SaveUsAll: 和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2088535523996668081",
+        "created_at": "2026-08-15T07:57:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088535523996668081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1169174984389885952",
+              "start": 3,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088535523996668081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088261487643296009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angel_SaveUsAll: 和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169174984389885952",
+        "conversation_id": "2088261487643296009",
+        "created_at": "2026-08-14T13:48:31.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088261487643296009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088261487643296009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我就是变心了，捅死你，你哄我你太油嘴滑舌了，捅死你\n5、十二点过说分手，你同意了就说明你不喜欢我，捅死你，你不同意那我就捅死你，我都提分手了你居然敢不分\n6、一点来找你，你还活着，捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你\n7、二十五点来找你，你还活着，恭喜你通过了考验，来陪我玩一把紧张刺激的舞萌吧喵喵喵 哈哈骗你的我会出其不意捅你一刀，死了你就死了，没死也给我断连"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 948,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我就是变心了，捅死你，你哄我你太油嘴滑舌了，捅死你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2088535523996668081",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 115,
+          "like_count": 8495,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2088499407511757302",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 663,
+          "like_count": 17996,
+          "listed_count": 5,
+          "media_count": 658,
+          "tweet_count": 5605
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

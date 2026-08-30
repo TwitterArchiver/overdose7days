@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052198611060969480"
+      ],
+      "media_source_tweet_id": [
+        "2052200527492948097"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2086468607526265185",
+    "created_at": "2026-08-09T15:04:15.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086468607526265185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085434383524155392",
+          "start": 3,
+          "username": "everfollks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j9sToVUFU1",
+          "end": 113,
+          "expanded_url": "https://x.com/archmovies/status/2052200527492948097/video/1",
+          "media_key": "13_2052198611060969480",
+          "start": 90,
+          "url": "https://t.co/j9sToVUFU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086468607526265185",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2052198611060969480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5504
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086277774709272581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @everfollks: minha meta é ser a pessoa que se mudou e ninguém nunca mais teve notícias https://t.co/j9sToVUFU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10067,
+        "height": 1080,
+        "media_key": "13_2052198611060969480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052198611060969480/img/KvsmLv022pMQhpL9.jpg",
+        "public_metrics": {
+          "view_count": 3101675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052198611060969480/vid/avc1/640x360/QA2b70mlaDf7eb8z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052198611060969480/vid/avc1/1280x720/KYQu5RdZkqE3PsZF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052198611060969480/pl/eNeZUsUX3eWnA_hV.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052198611060969480/vid/avc1/480x270/K8asIvUJPBMAQBgx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052198611060969480/vid/avc1/1920x1080/OQZh5gUxg5Hno1ll.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052198611060969480"
+          ]
+        },
+        "author_id": "1362837698642399233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          }
+        ],
+        "conversation_id": "2052200527492948097",
+        "created_at": "2026-05-07T01:35:08.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052200527492948097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PbPOgGLIpD",
+              "end": 188,
+              "expanded_url": "https://x.com/archmovies/status/2052200527492948097/video/1",
+              "media_key": "13_2052198611060969480",
+              "start": 165,
+              "url": "https://t.co/PbPOgGLIpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052200527492948097",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2052198611060969480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1839,
+          "impression_count": 2085366,
+          "like_count": 8581,
+          "quote_count": 73,
+          "reply_count": 16,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "Andy Sachs (Anne Hathaway) ignoring a phone call from Miranda giving a smile throwing the phone into the water fountain video reaction - The Devil Wears Prada, 2006 https://t.co/PbPOgGLIpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052198611060969480"
+          ],
+          "media_source_tweet_id": [
+            "2052200527492948097"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2086468607526265185",
+        "created_at": "2026-08-09T15:04:15.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086468607526265185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085434383524155392",
+              "start": 3,
+              "username": "everfollks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9sToVUFU1",
+              "end": 113,
+              "expanded_url": "https://x.com/archmovies/status/2052200527492948097/video/1",
+              "media_key": "13_2052198611060969480",
+              "start": 90,
+              "url": "https://t.co/j9sToVUFU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086468607526265185",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2052198611060969480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5504
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086277774709272581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @everfollks: minha meta é ser a pessoa que se mudou e ninguém nunca mais teve notícias https://t.co/j9sToVUFU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052198611060969480"
+          ],
+          "media_source_tweet_id": [
+            "2052200527492948097"
+          ]
+        },
+        "author_id": "2085434383524155392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2086277774709272581",
+        "created_at": "2026-08-09T02:25:57.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086277774709272581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9sToVUFU1",
+              "end": 97,
+              "expanded_url": "https://x.com/archmovies/status/2052200527492948097/video/1",
+              "media_key": "13_2052198611060969480",
+              "start": 74,
+              "url": "https://t.co/j9sToVUFU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086277774709272581",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2052198611060969480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1170,
+          "impression_count": 327475,
+          "like_count": 24053,
+          "quote_count": 290,
+          "reply_count": 34,
+          "retweet_count": 5510
+        },
+        "reply_settings": "everyone",
+        "text": "minha meta é ser a pessoa que se mudou e ninguém nunca mais teve notícias https://t.co/j9sToVUFU1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2086468607526265185",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 115,
+          "like_count": 8148,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T18:38:02.000Z",
+        "description": "olivia isabel rodrigo",
+        "id": "2085434383524155392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086449802926072243",
+        "name": "vi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085434383524155392/1786041914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085912480228712448/PAYIOwUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 16,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "everfollks",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

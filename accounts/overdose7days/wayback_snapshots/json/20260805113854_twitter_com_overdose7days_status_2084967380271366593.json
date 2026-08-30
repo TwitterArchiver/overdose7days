@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084967380271366593",
+    "created_at": "2026-08-05T11:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084967380271366593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477318673702477826",
+          "start": 3,
+          "username": "laraasouza7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084967380271366593",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084706573725626491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laraasouza7: Desde dos meus 12 anos que eu flerto com o suicídio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084967380271366593",
+        "created_at": "2026-08-05T11:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084967380271366593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477318673702477826",
+              "start": 3,
+              "username": "laraasouza7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084967380271366593",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084706573725626491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laraasouza7: Desde dos meus 12 anos que eu flerto com o suicídio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477318673702477826",
+        "conversation_id": "2084706573725626491",
+        "created_at": "2026-08-04T18:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084706573725626491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084706573725626491",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 26737,
+          "like_count": 2490,
+          "quote_count": 24,
+          "reply_count": 23,
+          "retweet_count": 794
+        },
+        "reply_settings": "everyone",
+        "text": "Desde dos meus 12 anos que eu flerto com o suicídio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 116,
+          "like_count": 7992,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 839
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T16:40:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/larasouzt",
+                "end": 23,
+                "expanded_url": "http://instagram.com/larasouzt",
+                "start": 0,
+                "url": "https://t.co/QNRYFex30V"
+              }
+            ]
+          }
+        },
+        "id": "1477318673702477826",
+        "name": "‏ً",
+        "pinned_tweet_id": "2060283904133620136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081155420182196224/509olAjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 446,
+          "like_count": 55967,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2894
+        },
+        "url": "https://t.co/QNRYFex30V",
+        "username": "laraasouza7",
+        "verified": false
+      }
+    ]
+  }
+}

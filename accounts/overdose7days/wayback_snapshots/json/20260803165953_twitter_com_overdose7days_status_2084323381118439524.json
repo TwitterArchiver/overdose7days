@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084257976278265992",
+    "created_at": "2026-08-03T16:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084323381118439524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1805616368039215106",
+          "start": 0,
+          "username": "Yun_hear7"
+        },
+        {
+          "end": 26,
+          "id": "1491134477162008576",
+          "start": 11,
+          "username": "InnocentB1tch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084323381118439524",
+    "in_reply_to_user_id": "1805616368039215106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084283590452637984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun_hear7 @InnocentB1tch_ 刘全是谁阿求科普🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084257976278265992",
+        "created_at": "2026-08-03T16:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084323381118439524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1805616368039215106",
+              "start": 0,
+              "username": "Yun_hear7"
+            },
+            {
+              "end": 26,
+              "id": "1491134477162008576",
+              "start": 11,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084323381118439524",
+        "in_reply_to_user_id": "1805616368039215106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084283590452637984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun_hear7 @InnocentB1tch_ 刘全是谁阿求科普🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805616368039215106",
+        "conversation_id": "2084257976278265992",
+        "created_at": "2026-08-03T14:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084283590452637984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491134477162008576",
+              "start": 0,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084283590452637984",
+        "in_reply_to_user_id": "1491134477162008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084257976278265992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentB1tch_ 呼叫刘全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 116,
+          "like_count": 7919,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T14:57:52.000Z",
+        "description": "English ok",
+        "id": "1805616368039215106",
+        "name": "我总是不懂你的意思",
+        "pinned_tweet_id": "2066425389980045529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805763638273490944/xRBgpRcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 125,
+          "like_count": 4915,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "Yun_hear7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 22,
+          "like_count": 4510,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 1080
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

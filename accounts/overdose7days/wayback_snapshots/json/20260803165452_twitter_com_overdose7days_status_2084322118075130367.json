@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084072109110911461",
+    "created_at": "2026-08-03T16:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084322118075130367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986637778134999040",
+          "start": 0,
+          "username": "gou9229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084322118075130367",
+    "in_reply_to_user_id": "1986637778134999040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084072109110911461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gou9229 一想到杯子姐看着色批顺直男被她擦边照看得小头控制大头发出安慰的私信与评论而感到沾沾自喜时我就忍俊不禁的笑出声来^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084072109110911461",
+        "created_at": "2026-08-03T16:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084322118075130367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986637778134999040",
+              "start": 0,
+              "username": "gou9229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084322118075130367",
+        "in_reply_to_user_id": "1986637778134999040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084072109110911461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gou9229 一想到杯子姐看着色批顺直男被她擦边照看得小头控制大头发出安慰的私信与评论而感到沾沾自喜时我就忍俊不禁的笑出声来^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986637778134999040",
+        "conversation_id": "2084072109110911461",
+        "created_at": "2026-08-03T00:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084072109110911461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084072109110911461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12007,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "那些不理解餐券为什么这么恨健全逼的可以去看那个狂挤肥沟的母猪的推文，纯种傻逼婊子就是这个样子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 116,
+          "like_count": 7910,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T03:32:35.000Z",
+        "description": "黑白灰世界",
+        "id": "1986637778134999040",
+        "location": "坟地",
+        "name": "月光照尸骸",
+        "pinned_tweet_id": "2064910464514228228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062850573230321664/LL6mLXSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 27,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "gou9229",
+        "verified": false
+      }
+    ]
+  }
+}

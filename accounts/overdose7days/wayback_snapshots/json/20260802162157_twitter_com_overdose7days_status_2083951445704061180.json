@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2083544228307915004",
+    "created_at": "2026-08-02T16:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083951445704061180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1769690277256847360",
+          "start": 0,
+          "username": "xitvtmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083951445704061180",
+    "in_reply_to_user_id": "1769690277256847360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083544228307915004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xitvtmiao 我也是我心脏不好真的，久了不知道怎么说，特别难受心脏疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083544220422578176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo8bewbIAAMV6g.jpg",
+        "width": 1060
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2083544220443545600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo8be1bEAATFs5.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2083544228307915004",
+        "created_at": "2026-08-02T16:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083951445704061180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1769690277256847360",
+              "start": 0,
+              "username": "xitvtmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083951445704061180",
+        "in_reply_to_user_id": "1769690277256847360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083544228307915004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xitvtmiao 我也是我心脏不好真的，久了不知道怎么说，特别难受心脏疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083544220422578176",
+            "3_2083544220443545600"
+          ]
+        },
+        "author_id": "1769690277256847360",
+        "conversation_id": "2083544228307915004",
+        "created_at": "2026-08-01T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083544228307915004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDpwKVc78R",
+              "end": 132,
+              "expanded_url": "https://x.com/xitvtmiao/status/2083544228307915004/photo/1",
+              "media_key": "3_2083544220422578176",
+              "start": 109,
+              "url": "https://t.co/mDpwKVc78R"
+            },
+            {
+              "display_url": "pic.x.com/mDpwKVc78R",
+              "end": 132,
+              "expanded_url": "https://x.com/xitvtmiao/status/2083544228307915004/photo/1",
+              "media_key": "3_2083544220443545600",
+              "start": 109,
+              "url": "https://t.co/mDpwKVc78R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083544228307915004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3395,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都靠酒精和药麻痹自己哦，感觉为了个男的自己这样很不值，身边人都觉得我傻得很跟小孩子一样，但我就是很难过，吗的喝多了还能耍酒疯抱抱别人安慰一下自己，想到你就是痛苦，腿磕的好恶心吗的还有淤血，跟你分开之后就是过不好啊 https://t.co/mDpwKVc78R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 115,
+          "like_count": 7878,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T11:40:24.000Z",
+        "description": "扩列188不然别打扰我\n提问https://t.co/44w0Xwf0On",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/painalwaysfill…",
+                "end": 37,
+                "expanded_url": "http://ngl.link/painalwaysfillsmylife",
+                "start": 14,
+                "url": "https://t.co/44w0Xwf0On"
+              }
+            ]
+          }
+        },
+        "id": "1769690277256847360",
+        "name": "painalwaysfillsmylife",
+        "pinned_tweet_id": "2081099065388114177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076926460485652480/IJGXADrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12054,
+          "following_count": 49,
+          "like_count": 900,
+          "listed_count": 66,
+          "media_count": 221,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "xitvtmiao",
+        "verified": false
+      }
+    ]
+  }
+}

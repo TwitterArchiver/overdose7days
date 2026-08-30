@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084973356160532696",
+    "created_at": "2026-08-05T12:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084973356160532696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/overdose7days/status/2084971904914632880",
+          "start": 108,
+          "url": "https://t.co/InqrR10Meg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084973356160532696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084971904914632880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要是真戒了，还真得承担自己曾经选择这条路然后把生活过得一团糟放纵下坠堕落的责任。那样或许会变成一头丑陋的猪或者恶心的婊子也说不定。所以不行，就这样，将这微妙的关系平衡下去吧…。搞不好会坚持到哪天我被它害死为止呢😏 https://t.co/InqrR10Meg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084973356160532696",
+        "created_at": "2026-08-05T12:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084973356160532696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/overdose7days/status/2084971904914632880",
+              "start": 108,
+              "url": "https://t.co/InqrR10Meg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084973356160532696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084971904914632880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是真戒了，还真得承担自己曾经选择这条路然后把生活过得一团糟放纵下坠堕落的责任。那样或许会变成一头丑陋的猪或者恶心的婊子也说不定。所以不行，就这样，将这微妙的关系平衡下去吧…。搞不好会坚持到哪天我被它害死为止呢😏 https://t.co/InqrR10Meg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084971904914632880",
+        "created_at": "2026-08-05T11:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084971904914632880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084971904914632880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不敢戒了，一开始戒药曾经用药压下的心理问题耽误的学业错过的感情都会啪一下从生活里全冒出来，然后就必须把心瘾转移，习惯新的恶习去释放压力。但是既不能放任自己暴饮暴食，又不想乱搞谈恋爱。卡在这个阶段有点久了，太蹉跎岁月了，挣扎半天还是退回了这里，少年心气都已经消散殆尽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 116,
+          "like_count": 7997,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

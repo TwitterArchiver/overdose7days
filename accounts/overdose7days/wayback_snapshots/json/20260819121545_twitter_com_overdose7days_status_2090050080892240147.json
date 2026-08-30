@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090050063871664129"
+      ]
+    },
+    "author_id": "2046538614209994752",
+    "conversation_id": "2090050080892240147",
+    "created_at": "2026-08-19T12:15:45.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090050080892240147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/et40EGR8qm",
+          "end": 35,
+          "expanded_url": "https://x.com/overdose7days/status/2090050080892240147/photo/1",
+          "media_key": "3_2090050063871664129",
+          "start": 12,
+          "url": "https://t.co/et40EGR8qm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090050080892240147",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090050063871664129"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重庆有没有出来玩在方圆 https://t.co/et40EGR8qm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090050063871664129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFZdaPaYAE018i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090050063871664129"
+          ]
+        },
+        "author_id": "2046538614209994752",
+        "conversation_id": "2090050080892240147",
+        "created_at": "2026-08-19T12:15:45.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090050080892240147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/et40EGR8qm",
+              "end": 35,
+              "expanded_url": "https://x.com/overdose7days/status/2090050080892240147/photo/1",
+              "media_key": "3_2090050063871664129",
+              "start": 12,
+              "url": "https://t.co/et40EGR8qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090050080892240147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090050063871664129"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆有没有出来玩在方圆 https://t.co/et40EGR8qm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2090050080892240147",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 116,
+          "like_count": 8868,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

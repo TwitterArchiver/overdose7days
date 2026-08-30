@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2083928564152635535",
+    "created_at": "2026-08-02T14:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083928564152635535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702221879434436608",
+          "start": 3,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083928564152635535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083286108730007565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964zhajipai: 想象一下我是你的毒虫老公，每天带你玩大麻，可卡因，海洛因，k粉，冰毒，芬太尼，普瑞巴林，右美沙芬，甘草片，美金刚，lsd，蘑菇，气球，罂粟，可待因，安非他命，曲马多，美沙酮，替来他命，依托咪酯。身上分币没有吸毒的钱全是从你这拿的，刚从戒毒所出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2083928564152635535",
+        "created_at": "2026-08-02T14:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083928564152635535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702221879434436608",
+              "start": 3,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083928564152635535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083286108730007565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964zhajipai: 想象一下我是你的毒虫老公，每天带你玩大麻，可卡因，海洛因，k粉，冰毒，芬太尼，普瑞巴林，右美沙芬，甘草片，美金刚，lsd，蘑菇，气球，罂粟，可待因，安非他命，曲马多，美沙酮，替来他命，依托咪酯。身上分币没有吸毒的钱全是从你这拿的，刚从戒毒所出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2083286108730007565",
+        "created_at": "2026-07-31T20:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083286108730007565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083286108730007565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11589,
+          "like_count": 170,
+          "quote_count": 3,
+          "reply_count": 67,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的毒虫老公，每天带你玩大麻，可卡因，海洛因，k粉，冰毒，芬太尼，普瑞巴林，右美沙芬，甘草片，美金刚，lsd，蘑菇，气球，罂粟，可待因，安非他命，曲马多，美沙酮，替来他命，依托咪酯。身上分币没有吸毒的钱全是从你这拿的，刚从戒毒所出来就又跟你瘫在出租屋里吸的不知天地为何物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 115,
+          "like_count": 7867,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "2074621267400077792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 82,
+          "like_count": 378,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

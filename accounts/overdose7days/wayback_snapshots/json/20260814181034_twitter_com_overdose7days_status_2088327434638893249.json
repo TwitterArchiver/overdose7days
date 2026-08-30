@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2088327434638893249",
+    "created_at": "2026-08-14T18:10:34.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088327434638893249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maxzhan6677051…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/maxzhan66770519/status/2088245720512082100",
+          "start": 32,
+          "url": "https://t.co/7G229gSEcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088327434638893249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088245720512082100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理性讨论闹麻顺直公狗和拔刀捅人跨畜哪个群体能荣登中推傻逼之最？ https://t.co/7G229gSEcV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2088327434638893249",
+        "created_at": "2026-08-14T18:10:34.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088327434638893249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maxzhan6677051…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/maxzhan66770519/status/2088245720512082100",
+              "start": 32,
+              "url": "https://t.co/7G229gSEcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088327434638893249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088245720512082100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理性讨论闹麻顺直公狗和拔刀捅人跨畜哪个群体能荣登中推傻逼之最？ https://t.co/7G229gSEcV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561660086371729408",
+        "conversation_id": "2088240469822279759",
+        "created_at": "2026-08-14T12:45:52.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088245720512082100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088245720512082100",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088240469822279759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 离女的远点，会咬人，会下药埋井，会用刀捅人……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2088327434638893249",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 115,
+          "like_count": 8447,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T10:22:44.000Z",
+        "description": "",
+        "id": "1561660086371729408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088245720512082100",
+        "name": "maxzhang",
+        "pinned_tweet_id": "2049045311503659255",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642538702109851650/ICLNKmTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 88,
+          "like_count": 10,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 3842
+        },
+        "url": "",
+        "username": "maxzhan66770519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

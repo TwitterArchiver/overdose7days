@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2087728905126044072",
+    "created_at": "2026-08-13T19:15:40.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087981429791785089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1230377858154950663",
+          "start": 0,
+          "username": "F1avia886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087981429791785089",
+    "in_reply_to_user_id": "1230377858154950663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087981069375312002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F1avia886 求和未果咩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087981061586501632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn_toGbQAAFAGy.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087981061594914816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn_toIboAAn9dv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087981061624197121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn_toPacAE5Paf.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087981061733277696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn_topa4AA97HF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2087728905126044072",
+        "created_at": "2026-08-13T19:15:40.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087981429791785089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1230377858154950663",
+              "start": 0,
+              "username": "F1avia886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087981429791785089",
+        "in_reply_to_user_id": "1230377858154950663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087981069375312002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F1avia886 求和未果咩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087981061586501632",
+            "3_2087981061594914816",
+            "3_2087981061624197121",
+            "3_2087981061733277696"
+          ]
+        },
+        "author_id": "1230377858154950663",
+        "conversation_id": "2087728905126044072",
+        "created_at": "2026-08-13T19:14:14.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087981069375312002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A01KJJylLS",
+              "end": 60,
+              "expanded_url": "https://x.com/F1avia886/status/2087981069375312002/photo/1",
+              "media_key": "3_2087981061586501632",
+              "start": 37,
+              "url": "https://t.co/A01KJJylLS"
+            },
+            {
+              "display_url": "pic.x.com/A01KJJylLS",
+              "end": 60,
+              "expanded_url": "https://x.com/F1avia886/status/2087981069375312002/photo/1",
+              "media_key": "3_2087981061594914816",
+              "start": 37,
+              "url": "https://t.co/A01KJJylLS"
+            },
+            {
+              "display_url": "pic.x.com/A01KJJylLS",
+              "end": 60,
+              "expanded_url": "https://x.com/F1avia886/status/2087981069375312002/photo/1",
+              "media_key": "3_2087981061624197121",
+              "start": 37,
+              "url": "https://t.co/A01KJJylLS"
+            },
+            {
+              "display_url": "pic.x.com/A01KJJylLS",
+              "end": 60,
+              "expanded_url": "https://x.com/F1avia886/status/2087981069375312002/photo/1",
+              "media_key": "3_2087981061733277696",
+              "start": 37,
+              "url": "https://t.co/A01KJJylLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087981069375312002",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087981061586501632"
+          },
+          {
+            "media_key": "3_2087981061594914816"
+          },
+          {
+            "media_key": "3_2087981061624197121"
+          },
+          {
+            "media_key": "3_2087981061733277696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087980667368001997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 主要是他到现在都还爱我只是真的不能在一起了 https://t.co/A01KJJylLS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2087981429791785089",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 116,
+          "like_count": 8322,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 872
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-20T06:25:25.000Z",
+        "description": "si chiama Fava#",
+        "id": "1230377858154950663",
+        "is_identity_verified": false,
+        "location": "SouthPark",
+        "most_recent_tweet_id": "2087981069375312002",
+        "name": "Fla",
+        "pinned_tweet_id": "2084942853273510334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230377858154950663/1769857428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922331263144275968/pgNIGGM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 65,
+          "like_count": 1513,
+          "listed_count": 10,
+          "media_count": 111,
+          "tweet_count": 2304
+        },
+        "url": "",
+        "username": "F1avia886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

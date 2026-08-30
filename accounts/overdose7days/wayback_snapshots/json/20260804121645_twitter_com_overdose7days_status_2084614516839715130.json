@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2084614516839715130",
+    "created_at": "2026-08-04T12:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084614516839715130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944739532827660289",
+          "start": 3,
+          "username": "Niuwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084614516839715130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084092052875424041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Niuwooo: 想象一下我是你的低需求女友，平时在家里追番，看书刷抖音打发时间，喜欢买好看的衣服，拍一点照片。\n作息规律，饿了点些外卖，情绪非常稳定，喜欢看你分享日常，你没有回复消息的时候，也不会频繁打电话催促，懒得翻你的手机，给你需要的私人空间，你需要我也会安静的听…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2084614516839715130",
+        "created_at": "2026-08-04T12:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084614516839715130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944739532827660289",
+              "start": 3,
+              "username": "Niuwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084614516839715130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084092052875424041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Niuwooo: 想象一下我是你的低需求女友，平时在家里追番，看书刷抖音打发时间，喜欢买好看的衣服，拍一点照片。\n作息规律，饿了点些外卖，情绪非常稳定，喜欢看你分享日常，你没有回复消息的时候，也不会频繁打电话催促，懒得翻你的手机，给你需要的私人空间，你需要我也会安静的听…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944739532827660289",
+        "conversation_id": "2084092052875424041",
+        "created_at": "2026-08-03T01:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084092052875424041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084092052875424041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 99421,
+          "like_count": 1320,
+          "quote_count": 39,
+          "reply_count": 151,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的低需求女友，平时在家里追番，看书刷抖音打发时间，喜欢买好看的衣服，拍一点照片。\n作息规律，饿了点些外卖，情绪非常稳定，喜欢看你分享日常，你没有回复消息的时候，也不会频繁打电话催促，懒得翻你的手机，给你需要的私人空间，你需要我也会安静的听你说，你需要陪伴那我就陪着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 116,
+          "like_count": 7933,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "entp大王👑\n养了一只缅因叫菠萝🍍\n无聊的生活找点有趣的事情干(^^)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niuwoo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niuwoo",
+                "start": 0,
+                "url": "https://t.co/WrAmWWWTiV"
+              }
+            ]
+          }
+        },
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶🥛",
+        "pinned_tweet_id": "1967592747218731433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084098525860970496/YiWJBzwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 163,
+          "like_count": 8596,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3191
+        },
+        "url": "https://t.co/WrAmWWWTiV",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

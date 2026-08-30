@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2085697749526417527",
+    "created_at": "2026-08-07T12:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085697749526417527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880803334405435393",
+          "start": 3,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085697749526417527",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085660110542840219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantmaoshenshi: 我要睡覺了，睡覺，就會忘記，你們這些健全人高傲的罵著藥蛆餐劵妹，你們，你們活的那麼幸福，你們憑什麼去這樣說。我只是想活下來，我有什麼錯。我沒有錢，也没有梦想，求生欲像火苗，有时闪亮一下，有时几乎灭掉。我带着一身病，一个人走到这里，我还是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2085697749526417527",
+        "created_at": "2026-08-07T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085697749526417527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880803334405435393",
+              "start": 3,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085697749526417527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085660110542840219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantmaoshenshi: 我要睡覺了，睡覺，就會忘記，你們這些健全人高傲的罵著藥蛆餐劵妹，你們，你們活的那麼幸福，你們憑什麼去這樣說。我只是想活下來，我有什麼錯。我沒有錢，也没有梦想，求生欲像火苗，有时闪亮一下，有时几乎灭掉。我带着一身病，一个人走到这里，我还是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2085660110542840219",
+        "created_at": "2026-08-07T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085660110542840219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085660110542840219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要睡覺了，睡覺，就會忘記，你們這些健全人高傲的罵著藥蛆餐劵妹，你們，你們活的那麼幸福，你們憑什麼去這樣說。我只是想活下來，我有什麼錯。我沒有錢，也没有梦想，求生欲像火苗，有时闪亮一下，有时几乎灭掉。我带着一身病，一个人走到这里，我还是不能被你们接纳吗，你们可怜可怜我好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "location": "垃圾桶",
+        "name": "喚水劍",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 118,
+          "like_count": 8086,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪114514",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 998,
+          "like_count": 12037,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 8510
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

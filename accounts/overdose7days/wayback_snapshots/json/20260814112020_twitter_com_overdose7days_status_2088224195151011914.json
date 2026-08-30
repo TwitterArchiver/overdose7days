@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2088224195151011914",
+    "created_at": "2026-08-14T11:20:20.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088224195151011914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose7days/…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/overdose7days/status/2088223130984776080",
+          "start": 100,
+          "url": "https://t.co/FuT1R0gMhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088224195151011914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088223130984776080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来应该是某个伤害过我的健全逼的错吧？再找下一个能让我维持着受害者人设的人事物好了，突然不磕药了被迫直面现实，实在是没办法在心理层面维稳。然后就会想再启用以前的解压方式。不过太孤独了，好像也没办法 https://t.co/FuT1R0gMhm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2088224195151011914",
+        "created_at": "2026-08-14T11:20:20.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088224195151011914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose7days/…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/overdose7days/status/2088223130984776080",
+              "start": 100,
+              "url": "https://t.co/FuT1R0gMhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088224195151011914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088223130984776080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来应该是某个伤害过我的健全逼的错吧？再找下一个能让我维持着受害者人设的人事物好了，突然不磕药了被迫直面现实，实在是没办法在心理层面维稳。然后就会想再启用以前的解压方式。不过太孤独了，好像也没办法 https://t.co/FuT1R0gMhm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2088223130984776080",
+        "created_at": "2026-08-14T11:16:06.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088223130984776080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088223130984776080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想，割手，磕药，滥交，出去发疯，不计后果地做些只为让自己感到幸福的事\n\n前几个月甚至能神智不清到不知道每天发生了什么，就连在乎的人的心意，也不觉得有药片更重要\n\n很多事我都搞不清到底是怎么一回事，只知道大家看我的眼神变了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2088224195151011914",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 115,
+          "like_count": 8421,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

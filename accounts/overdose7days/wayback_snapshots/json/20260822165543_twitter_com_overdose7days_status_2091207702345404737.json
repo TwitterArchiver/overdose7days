@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2091068711688134870",
+    "created_at": "2026-08-22T16:55:43.000Z",
+    "display_text_range": [
+      11,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091207702345404737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1220290277056897025",
+          "start": 0,
+          "username": "pangyusio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091207702345404737",
+    "in_reply_to_user_id": "1220290277056897025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091068711688134870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pangyusio 有生命力才会有性欲吧，很颓废的时候我连手淫都不会想，是真的没有欲望除非用药物影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2091068711688134870",
+        "created_at": "2026-08-22T16:55:43.000Z",
+        "display_text_range": [
+          11,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091207702345404737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1220290277056897025",
+              "start": 0,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091207702345404737",
+        "in_reply_to_user_id": "1220290277056897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091068711688134870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangyusio 有生命力才会有性欲吧，很颓废的时候我连手淫都不会想，是真的没有欲望除非用药物影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220290277056897025",
+        "conversation_id": "2091068711688134870",
+        "created_at": "2026-08-22T07:43:25.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091068711688134870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091068711688134870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 144163,
+          "like_count": 471,
+          "quote_count": 5,
+          "reply_count": 231,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "生命力和性欲果然是能一定程度上划等号的。\n\n我之前就感觉一些小红书的学习博主很有元气，很有生命力..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2091207702345404737",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 116,
+          "like_count": 9062,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "CS PhD  |  LLM Engineer  |   \nAI · 科技 · 财经 · 社会 · 历史  |  \n观察与思考",
+        "id": "1220290277056897025",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091176833685545198",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220290277056897025/1580727980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33064,
+          "following_count": 3832,
+          "like_count": 66093,
+          "listed_count": 200,
+          "media_count": 527,
+          "tweet_count": 11284
+        },
+        "url": "",
+        "username": "pangyusio",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

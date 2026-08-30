@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2087728905126044072",
+    "created_at": "2026-08-13T19:01:03.000Z",
+    "display_text_range": [
+      11,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087977751596994794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1230377858154950663",
+          "start": 0,
+          "username": "F1avia886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087977751596994794",
+    "in_reply_to_user_id": "1230377858154950663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087728905126044072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F1avia886 挽回了感情会越变越扭曲，互相都反点原则性问题心理还会比较平衡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2087728905126044072",
+        "created_at": "2026-08-13T19:01:03.000Z",
+        "display_text_range": [
+          11,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087977751596994794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1230377858154950663",
+              "start": 0,
+              "username": "F1avia886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087977751596994794",
+        "in_reply_to_user_id": "1230377858154950663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087728905126044072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F1avia886 挽回了感情会越变越扭曲，互相都反点原则性问题心理还会比较平衡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1230377858154950663",
+        "conversation_id": "2087728905126044072",
+        "created_at": "2026-08-13T02:32:13.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087728905126044072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087728905126044072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19362,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 123,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原则性问题要怎么挽回爱的人啊…好后悔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2087977751596994794",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 115,
+          "like_count": 8317,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-20T06:25:25.000Z",
+        "description": "si chiama Fava#",
+        "id": "1230377858154950663",
+        "is_identity_verified": false,
+        "location": "SouthPark",
+        "most_recent_tweet_id": "2087958832429531606",
+        "name": "Fla",
+        "pinned_tweet_id": "2084942853273510334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230377858154950663/1769857428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922331263144275968/pgNIGGM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7175,
+          "following_count": 64,
+          "like_count": 1513,
+          "listed_count": 10,
+          "media_count": 110,
+          "tweet_count": 2302
+        },
+        "url": "",
+        "username": "F1avia886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

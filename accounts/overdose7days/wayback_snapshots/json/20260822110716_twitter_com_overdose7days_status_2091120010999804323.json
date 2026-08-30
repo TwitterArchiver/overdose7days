@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2090894224124481921",
+    "created_at": "2026-08-22T11:07:16.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091120010999804323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075997445843234817",
+          "start": 0,
+          "username": "unmisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091120010999804323",
+    "in_reply_to_user_id": "2075997445843234817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090894224124481921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unmisaki 唉，看得我好想哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090894214204985344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRZNbSbkAAmisj.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2090894224124481921",
+        "created_at": "2026-08-22T11:07:16.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091120010999804323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075997445843234817",
+              "start": 0,
+              "username": "unmisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091120010999804323",
+        "in_reply_to_user_id": "2075997445843234817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090894224124481921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unmisaki 唉，看得我好想哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090894214204985344"
+          ]
+        },
+        "author_id": "2075997445843234817",
+        "conversation_id": "2090894224124481921",
+        "created_at": "2026-08-21T20:10:04.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090894224124481921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxgNoHY8cG",
+              "end": 91,
+              "expanded_url": "https://x.com/unmisaki/status/2090894224124481921/photo/1",
+              "media_key": "3_2090894214204985344",
+              "start": 68,
+              "url": "https://t.co/IxgNoHY8cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090894224124481921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090894214204985344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 428958,
+          "like_count": 412,
+          "quote_count": 6,
+          "reply_count": 586,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "以后我不会再收门槛了 因为有男朋友了˶⁃ ω ⁃˶虽然知道他肯定能接受我做这个 不管我做什么他也不会有异议 但还是想用干净的钱跟他相处 https://t.co/IxgNoHY8cG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2091120010999804323",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 116,
+          "like_count": 9033,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 924
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T17:36:52.000Z",
+        "description": "生理心理性别女｜无性恋｜bpd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unmisaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/unmisaki",
+                "start": 0,
+                "url": "https://t.co/pHfu2Q5rVE"
+              }
+            ]
+          }
+        },
+        "id": "2075997445843234817",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2091000233014812830",
+        "name": "傲娇属性",
+        "pinned_tweet_id": "2090894224124481921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075997445843234817/1784724027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909549671415808/rGS5qGaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 8,
+          "like_count": 1164,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/pHfu2Q5rVE",
+        "username": "unmisaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
