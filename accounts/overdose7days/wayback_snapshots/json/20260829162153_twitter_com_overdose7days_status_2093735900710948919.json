@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2093735900710948919",
+    "created_at": "2026-08-29T16:21:53.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T17:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093735900710948919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paunseen/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/paunseen/status/2093139459021660180",
+          "start": 46,
+          "url": "https://t.co/n5jLVRccwB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093735900710948919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093139459021660180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想当精神病从13岁开始当到18岁了5年了。药圈的大家比健全逼好多了，餐券才是我心之所向。 https://t.co/n5jLVRccwB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2093735900710948919",
+        "created_at": "2026-08-29T16:21:53.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093735900710948919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paunseen/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/paunseen/status/2093139459021660180",
+              "start": 46,
+              "url": "https://t.co/n5jLVRccwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093735900710948919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093139459021660180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想当精神病从13岁开始当到18岁了5年了。药圈的大家比健全逼好多了，餐券才是我心之所向。 https://t.co/n5jLVRccwB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621570990693130240",
+        "conversation_id": "2093139459021660180",
+        "created_at": "2026-08-28T00:51:50.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093139459021660180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093139459021660180",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2195,
+          "impression_count": 1080242,
+          "like_count": 57890,
+          "quote_count": 434,
+          "reply_count": 174,
+          "retweet_count": 15496
+        },
+        "reply_settings": "everyone",
+        "text": "Ya no quiero ser adulta, es más ni siquiera quiero ser humana. Quiero ser una medusa, sin corazón, nada de trabajar, solo flotar en el mar y electrocutar a los que me caen mal."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2093735900710948919",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 112,
+          "like_count": 9351,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 944
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-03T18:07:19.000Z",
+        "description": "No soy todo lo que ves, pero no ves todo lo que soy. 𓆩♡𓆪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itspaumv_?igsi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/itspaumv_?igsi=MTlrc21kdXRqZHMydw==",
+                "start": 0,
+                "url": "https://t.co/StPF9Q4HPP"
+              }
+            ]
+          }
+        },
+        "id": "1621570990693130240",
+        "is_identity_verified": false,
+        "location": "Barranquilla, Colombia",
+        "most_recent_tweet_id": "2093547853847134291",
+        "name": "Nümia.",
+        "pinned_tweet_id": "2093139459021660180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621570990693130240/1787876698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093132694557265921/A3pbJVvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 20,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/StPF9Q4HPP",
+        "username": "paunseen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

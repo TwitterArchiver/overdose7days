@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2095817967212904651",
+    "created_at": "2026-09-04T10:15:16.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095817967212904651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095817967212904651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095173645673103599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: 如果多年以后，我还能再见到你，该如何向你表达问候。以沉默、以泪水。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2095817967212904651",
+        "created_at": "2026-09-04T10:15:16.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095817967212904651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095817967212904651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095173645673103599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: 如果多年以后，我还能再见到你，该如何向你表达问候。以沉默、以泪水。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2095173645673103599",
+        "created_at": "2026-09-02T15:34:58.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095173645673103599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095173645673103599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果多年以后，我还能再见到你，该如何向你表达问候。以沉默、以泪水。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2095817967212904651",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 9536,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2095476970494771591",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 619,
+          "like_count": 6261,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

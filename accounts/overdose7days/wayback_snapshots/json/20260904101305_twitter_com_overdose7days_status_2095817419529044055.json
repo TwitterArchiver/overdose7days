@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2095817419529044055",
+    "created_at": "2026-09-04T10:13:05.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095817419529044055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048881980033654784",
+          "start": 3,
+          "username": "belialkawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095817419529044055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095546697132933500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @belialkawaii: 我现在特别需要一个上海能跳楼一跳就死的地点我很需要 求干货 我家太矮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2095817419529044055",
+        "created_at": "2026-09-04T10:13:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095817419529044055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048881980033654784",
+              "start": 3,
+              "username": "belialkawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095817419529044055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095546697132933500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @belialkawaii: 我现在特别需要一个上海能跳楼一跳就死的地点我很需要 求干货 我家太矮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048881980033654784",
+        "conversation_id": "2095546697132933500",
+        "created_at": "2026-09-03T16:17:20.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095546697132933500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095546697132933500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3221,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在特别需要一个上海能跳楼一跳就死的地点我很需要 求干货 我家太矮了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2095817419529044055",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 9530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T21:49:31.000Z",
+        "description": "我只有两岁 我要吃汉堡",
+        "id": "2048881980033654784",
+        "is_identity_verified": false,
+        "location": "东京",
+        "most_recent_tweet_id": "2095546697132933500",
+        "name": "yumi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048881980033654784/1777326761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095108473608675328/LM1qiQgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 190,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "belialkawaii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2094222950534959469",
+    "created_at": "2026-08-31T00:37:14.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094222950534959469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040756722344820736",
+          "start": 3,
+          "username": "uandme417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094222950534959469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094086088294040016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uandme417: 如果学校门口贴个未成年禁止入内就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2094222950534959469",
+        "created_at": "2026-08-31T00:37:14.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094222950534959469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040756722344820736",
+              "start": 3,
+              "username": "uandme417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094222950534959469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094086088294040016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uandme417: 如果学校门口贴个未成年禁止入内就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040756722344820736",
+        "conversation_id": "2094086088294040016",
+        "created_at": "2026-08-30T15:33:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094086088294040016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094086088294040016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3727,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "如果学校门口贴个未成年禁止入内就好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2094222950534959469",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 114,
+          "like_count": 9432,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T11:42:08.000Z",
+        "description": "我想发啥就发啥\n匿名https://t.co/0RdFv5A4V8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yix12162",
+                "end": 33,
+                "expanded_url": "https://ngl.link/yix12162",
+                "start": 10,
+                "url": "https://t.co/0RdFv5A4V8"
+              }
+            ]
+          }
+        },
+        "id": "2040756722344820736",
+        "is_identity_verified": false,
+        "location": "Zurich, Switzerland",
+        "most_recent_tweet_id": "2094210946998972766",
+        "name": "uandme",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040756722344820736/1786739799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088681430520078336/nPESTCdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "uandme417",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

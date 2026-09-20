@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2092895454283595985",
+    "created_at": "2026-08-29T16:13:02.000Z",
+    "display_text_range": [
+      13,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093733673464144028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093733673464144028",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092895454283595985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGZlove8964 打游戏认识的男的也问我有没有推特然后说想看😂我翻墙出来都没咋看片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2092895443500085248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt1UTXbMAAKyT2.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2092895454283595985",
+        "created_at": "2026-08-29T16:13:02.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093733673464144028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093733673464144028",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092895454283595985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 打游戏认识的男的也问我有没有推特然后说想看😂我翻墙出来都没咋看片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092895443500085248"
+          ]
+        },
+        "author_id": "1947765957658873860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2092895454283595985",
+        "created_at": "2026-08-27T08:42:15.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092895454283595985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgUN1doW0u",
+              "end": 59,
+              "expanded_url": "https://x.com/AGZlove8964/status/2092895454283595985/photo/1",
+              "media_key": "3_2092895443500085248",
+              "start": 36,
+              "url": "https://t.co/MgUN1doW0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092895454283595985",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092895443500085248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1311,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的tinder上认识的男的问我推特都发了什么我不给他看他觉得我是网黄 https://t.co/MgUN1doW0u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2093733673464144028",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 112,
+          "like_count": 9341,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "🚪89.64 用于国家有难时刻捐款\n小号@dkcy1109\n匿名箱：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "dkcy1109"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agzlove8964/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agzlove8964/clo",
+                "start": 0,
+                "url": "https://t.co/4wZOTqRuIc"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093729238948147451",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2091295220843552916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1786731135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 171,
+          "like_count": 3026,
+          "listed_count": 5,
+          "media_count": 61,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/4wZOTqRuIc",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
