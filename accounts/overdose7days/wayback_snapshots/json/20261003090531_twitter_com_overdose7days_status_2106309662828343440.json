@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2106250211505086770",
+    "created_at": "2026-10-03T09:05:31.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106309662828343440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2094481191500214272",
+          "start": 0,
+          "username": "Winterstring25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106309662828343440",
+    "in_reply_to_user_id": "2094481191500214272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106250211505086770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winterstring25 求教程😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2106250211505086770",
+        "created_at": "2026-10-03T09:05:31.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106309662828343440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2094481191500214272",
+              "start": 0,
+              "username": "Winterstring25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106309662828343440",
+        "in_reply_to_user_id": "2094481191500214272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106250211505086770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winterstring25 求教程😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094481191500214272",
+        "conversation_id": "2106250211505086770",
+        "created_at": "2026-10-03T05:09:17.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106250211505086770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106250211505086770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2253,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无偿分享一下pr开方经验，，，，再也不想看到一些孩子情绪上头o什么碳酸锂之类的了，，，，慢慢演变到吞盐吞安眠药的地步，，，，很难过的说，能帮一点是一点吧，当然我会根据个人判断来决定有没有必要将经验传授出去（毕竟我觉得成功率还是很大的）有意私信喔。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2106309662828343440",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 115,
+          "like_count": 9896,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1045
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T17:47:34.000Z",
+        "description": "出厂年03/长沙/有证含糖🍥/MTF/重焦重抑/pr的xnl/心理学重度依赖/病娇/m/精神共鸣/社交障碍/.....梦想是做一只快乐小狗，扩列可私～",
+        "id": "2094481191500214272",
+        "is_identity_verified": false,
+        "location": "0.68㎞",
+        "most_recent_tweet_id": "2106268537614725531",
+        "name": "琳琳琳琳血🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094481191500214272/1788199123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094483967777116160/v2tYvq3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 73,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "Winterstring25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

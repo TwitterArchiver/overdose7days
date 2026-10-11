@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2098662027304783984",
+    "created_at": "2026-09-12T06:36:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098662027304783984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "990585162722242560",
+          "start": 3,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098662027304783984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098363405430304953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YangDowond: 我对于DXM的最深刻的印象是“孤独感”\n是一次在学校里o完，当时o的更狠，我一次就得先吃上三盒愈美，然后还要再补服一盒\n当时时间类似于附图的“逢魔时刻”的感觉，我们的宿舍在六楼背阴面，当时已经很黑了，时间过去一整天药效过去了很多，已经算是余晖期了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2098363396748111872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7iZEjacAA8MiZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2098662027304783984",
+        "created_at": "2026-09-12T06:36:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098662027304783984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "990585162722242560",
+              "start": 3,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098662027304783984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098363405430304953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YangDowond: 我对于DXM的最深刻的印象是“孤独感”\n是一次在学校里o完，当时o的更狠，我一次就得先吃上三盒愈美，然后还要再补服一盒\n当时时间类似于附图的“逢魔时刻”的感觉，我们的宿舍在六楼背阴面，当时已经很黑了，时间过去一整天药效过去了很多，已经算是余晖期了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098363396748111872"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2098363405430304953",
+        "created_at": "2026-09-11T10:49:56.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098363405430304953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjM1lx2QLL",
+              "end": 147,
+              "expanded_url": "https://x.com/YangDowond/status/2098363405430304953/photo/1",
+              "media_key": "3_2098363396748111872",
+              "start": 124,
+              "url": "https://t.co/WjM1lx2QLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098363405430304953",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098363396748111872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我对于DXM的最深刻的印象是“孤独感”\n是一次在学校里o完，当时o的更狠，我一次就得先吃上三盒愈美，然后还要再补服一盒\n当时时间类似于附图的“逢魔时刻”的感觉，我们的宿舍在六楼背阴面，当时已经很黑了，时间过去一整天药效过去了很多，已经算是余晖期了\n在从床上起身从窗户看出去黄昏与暮光交织在一起，远处已有星星从昏线升起，我知道这个时刻会容易带来孤独感，但我没想到在解离剂的帮助下它会来的如此猛烈\n当时宿舍里除了我还剩下两个人，因为是毕业季，一人前去考试了另一人别去旅游了，这两个舍友一个人在打cf，另一个在用平板看喜人奇妙夜，我盯着平板上的节目一起看，我突然有一种整个世界都在毁灭，周围一切都在瓦解粉碎消失殆尽，一切都充满了梦幻感，仿佛梦境即将苏醒的消解，而只有我依然屹立于此处的，绝对的，“孤独感”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 756,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我对于DXM的最深刻的印象是“孤独感”\n是一次在学校里o完，当时o的更狠，我一次就得先吃上三盒愈美，然后还要再补服一盒\n当时时间类似于附图的“逢魔时刻”的感觉，我们的宿舍在六楼背阴面，当时已经很黑了，时间过去一整天药效过去了很多，已经算是余晖期了 https://t.co/WjM1lx2QLL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2098662027304783984",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 113,
+          "like_count": 9740,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2098655194867527744",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 311,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

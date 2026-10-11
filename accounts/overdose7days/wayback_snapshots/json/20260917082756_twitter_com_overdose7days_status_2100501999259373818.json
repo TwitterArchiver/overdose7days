@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2100054723231633806",
+    "created_at": "2026-09-17T08:27:56.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100501999259373818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1895326491199840256",
+          "start": 0,
+          "username": "9xnthh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100501999259373818",
+    "in_reply_to_user_id": "1895326491199840256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100054723231633806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9xnthh 是这样的讨厌顺直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2100054723231633806",
+        "created_at": "2026-09-17T08:27:56.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100501999259373818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1895326491199840256",
+              "start": 0,
+              "username": "9xnthh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100501999259373818",
+        "in_reply_to_user_id": "1895326491199840256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100054723231633806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9xnthh 是这样的讨厌顺直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895326491199840256",
+        "conversation_id": "2100054723231633806",
+        "created_at": "2026-09-16T02:50:37.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100054723231633806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100054723231633806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 138137,
+          "like_count": 4607,
+          "quote_count": 41,
+          "reply_count": 260,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "我特别怕那种男味很重的男人或者女味很重的女人，具体点形容就是刻板印象下的纯欲男大/体育生、纯欲女大，爱打点瓦罗兰特的那种，就完全是两个世界的人的感觉，但我很愿意和性别特征模糊的人玩，比如那种温柔又怯懦或者有点精神病的男人/直率幽默行动力强的女人，不知道有没有懂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2100501999259373818",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 113,
+          "like_count": 9725,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-28T04:13:52.000Z",
+        "description": "方生方死 方死方生\n@2dkqd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 10,
+                "username": "2dkqd"
+              }
+            ]
+          }
+        },
+        "id": "1895326491199840256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100203833163145359",
+        "name": "食色性也",
+        "pinned_tweet_id": "2099518690639364139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895326491199840256/1789549334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100148186836795392/oICSFeaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 26,
+          "like_count": 637,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "9xnthh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

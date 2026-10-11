@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2099711862032224500",
+    "created_at": "2026-09-15T04:08:13.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099711862032224500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098032907264667655",
+          "start": 3,
+          "username": "gadjiswg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099711862032224500",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099515864395440384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gadjiswg: vouloir t’automutiler puis te rendre compte que t’a 24 ans et plus 14 et que ça give gênant"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2099711862032224500",
+        "created_at": "2026-09-15T04:08:13.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099711862032224500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098032907264667655",
+              "start": 3,
+              "username": "gadjiswg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099711862032224500",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099515864395440384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gadjiswg: vouloir t’automutiler puis te rendre compte que t’a 24 ans et plus 14 et que ça give gênant"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2098032907264667655",
+        "conversation_id": "2099515864395440384",
+        "created_at": "2026-09-14T15:09:23.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099515864395440384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099515864395440384",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 846,
+          "impression_count": 465338,
+          "like_count": 29221,
+          "quote_count": 379,
+          "reply_count": 111,
+          "retweet_count": 3040
+        },
+        "reply_settings": "everyone",
+        "text": "vouloir t’automutiler puis te rendre compte que t’a 24 ans et plus 14 et que ça give gênant"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2099711862032224500",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 112,
+          "like_count": 9710,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T13:00:01.000Z",
+        "description": "baddie anxieuse",
+        "id": "2098032907264667655",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099640560810151972",
+        "name": "cam",
+        "pinned_tweet_id": "2098041692003746262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098032907264667655/1789326106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099211907928670209/AK8RhKyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 42,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "gadjiswg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2103339503440335234",
+    "created_at": "2026-09-26T08:48:39.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103768700679844271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103768700679844271",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103339503440335234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 卧槽我现在真的情弱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103339493470371840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCQIBZaAAA6t0H.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2103339503440335234",
+        "created_at": "2026-09-26T08:48:39.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103768700679844271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103768700679844271",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103339503440335234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 卧槽我现在真的情弱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103339493470371840"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2103339503440335234",
+        "created_at": "2026-09-25T04:23:10.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103339503440335234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBifzxE5Dw",
+              "end": 136,
+              "expanded_url": "https://x.com/doll7799/status/2103339503440335234/photo/1",
+              "media_key": "3_2103339493470371840",
+              "start": 113,
+              "url": "https://t.co/uBifzxE5Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103339503440335234",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103339493470371840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3176,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想回到一两年前的自己，谁在网上陪我花点钱我就能对谁上头，至少还没现在这么情感麻木，现在已经麻木得不是人类了，我感觉我现在完全喜欢不上任何人，脑子好痛，羡慕普通人的生活，能正常生活吃饭玩游戏社交，我真的好无力，对什么都没兴趣 https://t.co/uBifzxE5Dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2103768700679844271",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 9844,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "精力低很久才看一次推特私信\n小号纯碎碎念@moyueshen\n\n匿名提问 https://t.co/2lBKx6zYnz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "moyueshen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 60,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 37,
+                "url": "https://t.co/2lBKx6zYnz"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "is_identity_verified": false,
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "most_recent_tweet_id": "2103339503440335234",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779774601100189696/1758037969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7418,
+          "following_count": 9,
+          "like_count": 3840,
+          "listed_count": 27,
+          "media_count": 378,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

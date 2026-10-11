@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2094017133579833653",
+    "created_at": "2026-08-30T10:59:24.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094017133579833653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2000362496918740992",
+          "start": 3,
+          "username": "ioyouo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094017133579833653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093780970310865262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ioyouo7: 宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多选择。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2094017133579833653",
+        "created_at": "2026-08-30T10:59:24.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094017133579833653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2000362496918740992",
+              "start": 3,
+              "username": "ioyouo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094017133579833653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093780970310865262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ioyouo7: 宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多选择。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000362496918740992",
+        "conversation_id": "2093780970310865262",
+        "created_at": "2026-08-29T19:20:58.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093780970310865262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093780970310865262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 28482,
+          "like_count": 1230,
+          "quote_count": 15,
+          "reply_count": 114,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多选择。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2094017133579833653",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 114,
+          "like_count": 9381,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T00:29:26.000Z",
+        "description": "",
+        "id": "2000362496918740992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093781238767366324",
+        "name": "恶中之恶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000362496918740992/1767924009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093770668156588032/NpRpJrUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "ioyouo7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

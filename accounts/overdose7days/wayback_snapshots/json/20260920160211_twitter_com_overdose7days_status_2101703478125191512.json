@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2101545077458026698",
+    "created_at": "2026-09-20T16:02:11.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101703478125191512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031535722071732226",
+          "start": 0,
+          "username": "kiukiu44442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101703478125191512",
+    "in_reply_to_user_id": "2031535722071732226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101545077458026698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiukiu44442 装久了就融入集体了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2101545077458026698",
+        "created_at": "2026-09-20T16:02:11.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101703478125191512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031535722071732226",
+              "start": 0,
+              "username": "kiukiu44442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101703478125191512",
+        "in_reply_to_user_id": "2031535722071732226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101545077458026698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiukiu44442 装久了就融入集体了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031535722071732226",
+        "conversation_id": "2101545077458026698",
+        "created_at": "2026-09-20T05:32:45.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101545077458026698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101545077458026698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "裝精神病的什麼心態"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2101703478125191512",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 9833,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-11T01:00:51.000Z",
+        "description": "前世@kiukiu4444 請助我尋找互fol\n防炸@kiukiu44443",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "kiukiu4444"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "kiukiu44443"
+              }
+            ]
+          }
+        },
+        "id": "2031535722071732226",
+        "is_identity_verified": false,
+        "location": "shtwt odtwt",
+        "most_recent_tweet_id": "2101666569508307173",
+        "name": "kiu2.0",
+        "pinned_tweet_id": "2098707655212851217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031535722071732226/1789227423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098798145220337664/5Kc2Nm_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 86,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "kiukiu44442",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

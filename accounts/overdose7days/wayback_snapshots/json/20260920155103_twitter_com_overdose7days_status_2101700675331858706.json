@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2101314988157866058",
+    "created_at": "2026-09-20T15:51:03.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101700675331858706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779774601100189696",
+          "start": 0,
+          "username": "doll7799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101700675331858706",
+    "in_reply_to_user_id": "1779774601100189696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101314988157866058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doll7799 家里蹲万岁！！🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101314966183956480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSle1BibUAAZFvm.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2101314988157866058",
+        "created_at": "2026-09-20T15:51:03.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101700675331858706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779774601100189696",
+              "start": 0,
+              "username": "doll7799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101700675331858706",
+        "in_reply_to_user_id": "1779774601100189696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101314988157866058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doll7799 家里蹲万岁！！🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101314966183956480"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2101314988157866058",
+        "created_at": "2026-09-19T14:18:28.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:06:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101312031429435406",
+          "2101314988157866058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQCuuAYmbz",
+              "end": 127,
+              "expanded_url": "https://x.com/doll7799/status/2101314988157866058/photo/1",
+              "media_key": "3_2101314966183956480",
+              "start": 104,
+              "url": "https://t.co/iQCuuAYmbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101314988157866058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101314966183956480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2288,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人懂我呀😫😫因为很想真的变成照片的自己那种生活，小时候很羡慕那些姐姐，长大后拍了很多好看的照片，但是现实还是越过越差了，挺割裂的，好在现在成年了有独立的能力了，虽然还是在出租屋挂壁，我一直都喜欢家里蹲 https://t.co/iQCuuAYmbz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2101700675331858706",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 112,
+          "like_count": 9811,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "新小号纯碎碎念@moyueshen\n匿名提问 https://t.co/2lBKx6zYnz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "moyueshen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ydd67887",
+                "end": 46,
+                "expanded_url": "https://ngl.link/ydd67887",
+                "start": 23,
+                "url": "https://t.co/2lBKx6zYnz"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "is_identity_verified": false,
+        "location": "扩列52聊一辈子天=(^.^)=",
+        "most_recent_tweet_id": "2101573747493032211",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779774601100189696/1758037969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 8,
+          "like_count": 3763,
+          "listed_count": 25,
+          "media_count": 366,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "doll7799",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

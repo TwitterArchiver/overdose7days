@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046538614209994752",
+    "conversation_id": "2100502102074376501",
+    "created_at": "2026-09-17T08:28:21.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100502102074376501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/demonnn77/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/demonnn77/status/2100257386204381451",
+          "start": 22,
+          "url": "https://t.co/fjUTwJkU39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100502102074376501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100257386204381451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想象一下你死了，晶哥跟你爹妈一块看你朋友圈 https://t.co/fjUTwJkU39"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "conversation_id": "2100502102074376501",
+        "created_at": "2026-09-17T08:28:21.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100502102074376501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/demonnn77/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/demonnn77/status/2100257386204381451",
+              "start": 22,
+              "url": "https://t.co/fjUTwJkU39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100502102074376501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100257386204381451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象一下你死了，晶哥跟你爹妈一块看你朋友圈 https://t.co/fjUTwJkU39"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2100257386204381451",
+        "created_at": "2026-09-16T16:15:56.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100257386204381451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100257386204381451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19197,
+          "like_count": 519,
+          "quote_count": 17,
+          "reply_count": 55,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下你死了，晶哥跟你爹妈一块看你推特"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "不od不磕药不吸毒 吃药只为维持人类形态\n这个世界千万不要让我活过30岁呀 不敢想象到时候的自己会被蹂躏成什么狼狈样子 苟延残喘的对这种人生去挣扎、反抗什么的，太难看了",
+        "id": "2046538614209994752",
+        "is_identity_verified": false,
+        "location": "垃圾桶",
+        "most_recent_tweet_id": "2100502102074376501",
+        "name": "喚水劍",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046538614209994752/1783462166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078848567440236544/tPk_7EcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 113,
+          "like_count": 9729,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈🏳️‍🌈因为我的病就是没有感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neoh0gz"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100490035648987576",
+        "name": "三清剑",
+        "pinned_tweet_id": "2094497848444465386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100475696422486016/0LupcjRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 310,
+          "like_count": 3551,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/KR3neoh0gz",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
